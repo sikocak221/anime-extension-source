@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/gogoanime-extension",
+  "name": "gogoanime-extension",
   "version": "0.1.2",
   "private": true,
   "description": "Extension for gogoanime.by (English sub and dub): latest, search, series list, details, episodes and the megaplay, Blogger and megavid players.",

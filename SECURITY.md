@@ -1,6 +1,6 @@
 # Security policy
 
-The extensions in this repository run in Matane Anime's sandbox, but they still read pages and streams from third-party sites, and the repository is signed so that users can tell it was not tampered with. These are security issues:
+The extensions in this repository run in the app's sandbox, but they still read pages and streams from third-party sites, and the repository is signed so that users can tell it was not tampered with. These are security issues:
 
 - an extension that leaks anything it should not (cookies, tokens, local data), or that makes the app reach something other than the site it is for
 - a way to publish an extension, or an index, that is not signed by this repository's key

@@ -1,6 +1,6 @@
 # Guide for AI assistants (and a short map for people)
 
-This repository holds the extensions (sources) of [Matane Anime](https://github.com/mataneorg/matane-anime): one small
+This repository holds the extensions (sources) of a compatible app: one small
 TypeScript project per site under `src/<language>/<id>` (`src/all` for multi-language sites), built with the published
 `@matane-anime/extension-*` packages and signed and published to GitHub Pages when `main` changes.
 
@@ -21,13 +21,12 @@ pnpm format:check && pnpm typecheck && pnpm build && pnpm test # everything, as 
 pnpm repo:build:unsigned                                       # the repository as Publish builds it (never publish this)
 ```
 
-Playing in the real app (needs a checkout of the app repository next to this one and a display):
-`pnpm --filter @matane-anime/desktop verify:live --only <id> --anime 3 --all-streams` from `../matane-anime-apps`.
+Playing in the real app: load the built extension from its folder in the app's developer mode and play an episode.
 
 ## Rules
 
 - **Look at the real site before writing code** (section 1 of the guide), and prove a change with the site, not by
-  assumption: `ma-ext test` for the flow, `verify:live` for "it actually plays". Do not claim a host works unless a
+  assumption: `ma-ext test` for the flow, and playing it in the app for "it actually plays". Do not claim a host works unless a
   file of it was opened.
 - **Fixtures are real and untouched.** Save pages with `curl` under `test/fixtures/`; never edit or reformat them
   (`.prettierignore` skips them) and never commit one with a login, cookie or other private data.

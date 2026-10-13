@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/sokuja-extension",
+  "name": "sokuja-extension",
   "version": "0.1.1",
   "private": true,
   "description": "Extension for x6.sokuja.uk.",

@@ -1,5 +1,5 @@
 // Builds the extension repository that GitHub Pages serves, into ./public: index.json, its Ed25519 signature, one zip
-// and one icon per extension (docs/repositories.md in the Matane Anime repository describes the format).
+// and one icon per extension.
 //
 //   pnpm build && pnpm repo:build                 # signed: needs the private key (below)
 //   pnpm build && pnpm repo:build:unsigned        # what CI checks on a pull request; never published

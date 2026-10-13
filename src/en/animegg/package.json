@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/animegg-extension",
+  "name": "animegg-extension",
   "version": "0.1.2",
   "private": true,
   "description": "Extension for www.animegg.org.",

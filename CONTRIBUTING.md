@@ -1,6 +1,6 @@
 # Contributing
 
-Extensions are small TypeScript projects that run in Matane Anime's sandbox (QuickJS, no Node.js APIs, the network only through the app). The reference is `docs/extensions.md` in the [app repository](https://github.com/mataneorg/matane-anime) and the README of [`@matane-anime/extension-sdk`](https://www.npmjs.com/package/@matane-anime/extension-sdk).
+Extensions are small TypeScript projects that run in the app's sandbox (QuickJS, no Node.js APIs, the network only through the app). The reference is the README of the published SDK package, `@matane-anime/extension-sdk` on npm.
 
 ## Setup
 
@@ -22,7 +22,7 @@ pnpm install
 
 It creates `src/en/my-site` (`src/<lang>/<id>`; multi-language sites go in `src/all`) with the manifest, a source to fill in, and test and live-test skeletons. The SDK version comes from the `catalog:` in `pnpm-workspace.yaml`.
 
-Develop with the app: build it (`pnpm --filter ./src/en/my-site build`), then in Matane Anime turn on Developer mode (Settings → Advanced) and **Load from folder** → `src/en/my-site`. Check the whole reading flow against the real site with `pnpm exec ma-ext test src/en/my-site`.
+Develop with the app: build it (`pnpm --filter ./src/en/my-site build`), then in the app turn on Developer mode (Settings → Advanced) and **Load from folder** → `src/en/my-site`. Check the whole reading flow against the real site with `pnpm exec ma-ext test src/en/my-site`.
 
 Tests read **saved pages** of the real site: save the markup untouched under `test/fixtures/` and let the extension parse it, as the existing ones do (`test/harness.ts` answers requests from them). Do not commit a page that contains a login, a cookie or anything private.
 

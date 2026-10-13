@@ -51,7 +51,7 @@ await writeFile(join(dir, 'manifest.json'), json(manifest));
 await writeFile(
   join(dir, 'package.json'),
   json({
-    name: `@matane-anime/${id}-extension`,
+    name: `${id}-extension`,
     version: '0.1.0',
     private: true,
     description: `Extension for ${base.host}.`,

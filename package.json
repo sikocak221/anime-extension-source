@@ -1,9 +1,9 @@
 {
-  "name": "matane-anime-extensions",
+  "name": "anime-extension-source",
   "private": true,
   "type": "module",
   "license": "MIT",
-  "description": "Extensions (sources) for Matane Anime, built and tested with the published SDK.",
+  "description": "A signed extension repository: source code only.",
   "packageManager": "pnpm@12.5.1",
   "engines": {
     "node": ">=24"

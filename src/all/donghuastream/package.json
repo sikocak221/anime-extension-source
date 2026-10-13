@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/donghuastream-extension",
+  "name": "donghuastream-extension",
   "version": "0.1.2",
   "private": true,
   "description": "Extension for donghuastream.org (donghua with multiple subtitle languages).",

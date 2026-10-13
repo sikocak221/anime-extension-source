@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/kaa-extension",
+  "name": "kaa-extension",
   "version": "0.1.2",
   "private": true,
   "description": "Extension for kaa.lt (KickAssAnime, English): listings, search, details, episodes (sub and dub) and the HLS players.",

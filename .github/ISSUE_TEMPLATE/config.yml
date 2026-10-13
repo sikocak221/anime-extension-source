@@ -1,8 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Matane Anime (the app)
-    url: https://github.com/mataneorg/matane-anime/issues/new/choose
-    about: A problem in the app itself (not in one extension) belongs in the app repository.
   - name: Security problem
     url: https://github.com/sikocak221/anime-extension-source/security/advisories/new
     about: Please report vulnerabilities privately.

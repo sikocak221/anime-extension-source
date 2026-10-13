@@ -2,11 +2,8 @@
 layout: home
 
 hero:
-  image:
-    src: /logo.png
-    alt: Matane Anime
   name: Anime Extension Source
-  text: A signed extension repository for Matane Anime
+  text: A signed extension repository
   tagline: Add one link to the app, trust its key, and install the sources you want.
   actions:
     - theme: brand
@@ -28,5 +25,5 @@ features:
 ---
 
 ::: info Disclaimer
-This repository contains source code only. It does not host, store, index or distribute any video, subtitle, image or other content, it is independent of Matane Anime, and it has no affiliation with, or endorsement of, any third-party site. See the [FAQ and disclaimer](/faq) and the [copyright and takedown process](/takedown).
+This repository contains source code only. It does not host, store, index or distribute any video, subtitle, image or other content, it is independent of any app, and it has no affiliation with, or endorsement of, any third-party site. See the [FAQ and disclaimer](/faq) and the [copyright and takedown process](/takedown).
 :::

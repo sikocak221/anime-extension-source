@@ -27,7 +27,7 @@ writeFileSync(
   join(DOCS, 'repository.md'),
   `# Add the repository
 
-In Matane Anime, open **Extensions → Repositories → Add repository** and paste:
+In your app, open **Extensions → Repositories → Add repository** and paste:
 
 \`\`\`
 ${URL_}

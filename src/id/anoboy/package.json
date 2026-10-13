@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/anoboy-extension",
+  "name": "anoboy-extension",
   "version": "0.1.2",
   "private": true,
   "description": "Extension for anoboy.be (Indonesian subtitles): listings, search, details, episodes and the Blogger, xtwap and vkspeed players.",

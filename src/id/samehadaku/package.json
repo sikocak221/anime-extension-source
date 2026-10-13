@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/samehadaku-extension",
+  "name": "samehadaku-extension",
   "version": "0.1.2",
   "private": true,
   "description": "Extension for samehadaku.li (Indonesian subtitles): listings, search, details, episodes and the Blogger, vkspeed and xtwap players.",

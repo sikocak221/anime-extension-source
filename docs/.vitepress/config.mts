@@ -9,7 +9,7 @@ const base = process.env['DOCS_BASE'] ?? '/anime-extension-source/';
 
 export default defineConfig({
   title: 'Anime Extension Source',
-  description: 'A signed extension repository for Matane Anime.',
+  description: 'A signed extension repository: source code only.',
   lang: 'en-US',
   base,
   head: [['link', { rel: 'icon', type: 'image/png', href: `${base}favicon.png` }]],
@@ -18,7 +18,6 @@ export default defineConfig({
   srcExclude: ['new-extension.md'],
   lastUpdated: false,
   themeConfig: {
-    logo: '/logo.png',
     nav: [
       { text: 'Add the repository', link: '/repository' },
       { text: 'Extensions', link: '/extensions' },
@@ -40,7 +39,7 @@ export default defineConfig({
     search: { provider: 'local' },
     footer: {
       message:
-        'Source code only: this repository does not host, store or distribute any content, and is independent of Matane Anime and of every third-party site. Released under the MIT license. <a href="takedown">Copyright and takedown requests</a>.',
+        'Source code only: this repository does not host, store or distribute any content, and is independent of any app and of every third-party site. Released under the MIT license. <a href="takedown">Copyright and takedown requests</a>.',
     },
   },
 });

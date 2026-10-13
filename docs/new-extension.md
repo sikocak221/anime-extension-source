@@ -1,10 +1,8 @@
 # Writing a new extension
 
-This page takes you from "I want a site in Matane Anime" to a merged extension. It is written for people and for AI
+This page takes you from "I want a site in the app" to a merged extension. It is written for people and for AI
 assistants alike: every step is a command or a rule you can check. The contract itself (every type and method) is in
-the README of [`@matane-anime/extension-sdk`](https://www.npmjs.com/package/@matane-anime/extension-sdk) and in
-[`docs/extensions.md`](https://github.com/mataneorg/matane-anime/blob/main/docs/extensions.md) of the app repository;
-this page is about the work around it and what to watch for.
+the README of the published SDK package, `@matane-anime/extension-sdk` on npm; this page is about the work around it and what to watch for.
 
 The short version:
 
@@ -226,24 +224,12 @@ episodes → streams) with the app's own result checks and prints your `log` lin
 `ma-ext` runs in Node. The app runs the extension in its own sandbox with Chromium's network stack and then plays the
 result, so always do this once before you call an extension done.
 
-**By hand:** `pnpm --filter ./src/<lang>/<id> build`, then in Matane Anime turn on Settings → Advanced → Developer mode,
+**By hand:** `pnpm --filter ./src/<lang>/<id> build`, then in the app turn on Settings → Advanced → Developer mode,
 Extensions → **Load from folder** → `src/<lang>/<id>`. Rebuild and the app reloads it; the extension log panel shows
 your `log` output.
 
-**Scripted** (a checkout of the [app repository](https://github.com/mataneorg/matane-anime) next to this one):
-
-```sh
-cd ../matane-anime-apps
-pnpm install
-pnpm --filter @matane-anime/desktop verify:live --only my-site --anime 3 --all-streams --oldest   # builds the app first
-```
-
-It loads the extension in the real app, browses, searches, opens an episode, plays, and waits for real video frames.
-Options: `--only a,b` (extension ids), `--anime N` (N different anime per source), `--all-streams` (open every stream
-one by one and report which answer and their quality), `--oldest` (the oldest episode too), `--title "<text>"` (take the
-first search hit instead of the first popular anime), `--episode N`, `--play-seconds N`, `--skip-build` (reuse the app build that is already there), `--out DIR`, `--ext-root DIR` (default `../matane-anime-extentions/src`). The report is `apps/desktop/test-results/OUT/live-report.md`.
-Needs a display. "plays: yes" is the proof that counts; a single "operation was aborted" is usually a slow first
-byte, so run it again before you blame the extension.
+Play an episode from every extension you changed, with its streams opened one by one. "plays: yes" is the proof that
+counts; a single "operation was aborted" is usually a slow first byte, so run it again before you blame the extension.
 
 ## 8. Before you commit
 
@@ -259,7 +245,7 @@ pnpm repo:build:unsigned                       # builds the whole repository as 
       never offers the change; CI compares with the published repository (`scripts/check-versions.mjs`).
 - [ ] `nsfw` is `true` for adult sites. `rateLimit` and `userAgent` are set.
 - [ ] `icon.png` is square, 96–256 px, at most 512 KB.
-- [ ] Offline tests with saved pages, the live test passes, and `verify:live` shows the episodes **playing** in the app.
+- [ ] Offline tests with saved pages, the live test passes, and the episodes **play** in the app.
 - [ ] No secrets, cookies or accounts in the code or the fixtures.
 - [ ] If you edit the docs: `docs/*.md` is compiled by Vue, so an `<id>`-style placeholder breaks the site build unless it is inside a code block or a short code span. Check with `node scripts/build-site.mjs`.
 - [ ] The commit message is a Conventional Commit (`feat(my-site): add the extension`).
@@ -270,7 +256,7 @@ push or publish unless the maintainer asked you to.
 
 ## 9. When a site changes
 
-1. Reproduce: `pnpm exec ma-ext test src/<lang>/<id> -v`, then `verify:live` for the app side.
+1. Reproduce: `pnpm exec ma-ext test src/<lang>/<id> -v`, then the app side.
 2. Save the new page as a fixture and add a test that fails before the fix.
 3. Fix it, **raise `version`**, run the checks of the section above.
 4. If the domain moved, change `DEFAULT_BASE_URL` (users can also set "Site address" themselves); the urls are paths, so
@@ -293,14 +279,14 @@ push or publish unless the maintainer asked you to.
 | Domain               | `x6.` is a numbered mirror and `sokuja.net` redirects to it.                                                                                                                                             | `baseUrl` preference, `resolveUrl` |
 
 The scaffold-to-merge path took: the investigation of section 1 (`curl` on the pages, the site's JS for `/api/`), the
-fixtures of section 6 saved from real answers, the tests, `ma-ext test` against the live site, and `verify:live` in the
+fixtures of section 6 saved from real answers, the tests, `ma-ext test` against the live site, and playing in the
 app, which found a bug the offline tests did not (episode names ending in "Subtitle Indonesia" had no number).
 
 ## 11. Troubleshooting
 
 | Symptom                                                    | Likely cause and what to do                                                                                                                |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| `ma-ext test` fails with a Cloudflare error, the app works | Node's TLS fingerprint was challenged. Check `verify:live`; do not "fix" the extension.                                                    |
+| `ma-ext test` fails with a Cloudflare error, the app works | Node's TLS fingerprint was challenged. Check in the app; do not "fix" the extension.                                                       |
 | Works in `ma-ext test`, "interrupted" in the app           | The 2-second synchronous limit. Parse less (a regex or an API instead of walking a big page).                                              |
 | A list is shorter than the site says                       | A "load more" or paged list. Find the API the button calls.                                                                                |
 | `getStreams` returns urls but nothing plays                | The CDN wants a `Referer`/`Origin` or a cookie (`curl -r 0-1023 -D - -o /dev/null`), or the file expired. Add `headers`, or resolve later. |

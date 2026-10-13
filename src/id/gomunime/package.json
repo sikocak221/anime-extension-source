@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/gomunime-extension",
+  "name": "gomunime-extension",
   "version": "0.1.2",
   "private": true,
   "description": "Extension for gomunime.top (Indonesian subtitles): listings, search, details, episodes and the xtwap, pixeldrain and Blogger players.",

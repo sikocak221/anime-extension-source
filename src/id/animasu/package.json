@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/animasu-extension",
+  "name": "animasu-extension",
   "version": "0.1.2",
   "private": true,
   "description": "Extension for animasu.love (Indonesian subtitles): listings, search, details, episodes and the Blogger, vidhide, ok.ru, yourupload, gdriveplayer and desustream players.",

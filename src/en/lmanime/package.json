@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/lmanime-extension",
+  "name": "lmanime-extension",
   "version": "0.1.2",
   "private": true,
   "description": "Extension for lmanime.com (donghua with English subtitles).",

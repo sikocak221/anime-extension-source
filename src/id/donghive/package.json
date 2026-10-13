@@ -1,5 +1,5 @@
 {
-  "name": "@matane-anime/donghive-extension",
+  "name": "donghive-extension",
   "version": "0.1.2",
   "private": true,
   "description": "Extension for donghive.vip.",

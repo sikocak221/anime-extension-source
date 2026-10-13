@@ -1,13 +1,6 @@
-<p align="center">
-  <img src="docs/assets/logo.png" alt="Matane Anime" width="96" height="96">
-</p>
-
 # Anime Extension Source
 
-Extensions (sources) for [Matane Anime](https://github.com/mataneorg/matane-anime), built and tested with the
-published SDK: [`@matane-anime/extension-sdk`](https://www.npmjs.com/package/@matane-anime/extension-sdk),
-[`extension-runtime`](https://www.npmjs.com/package/@matane-anime/extension-runtime) and
-[`extension-cli`](https://www.npmjs.com/package/@matane-anime/extension-cli) (`ma-ext`).
+Extensions (sources) for a compatible app, built and tested with its published SDK packages from npm.
 
 Every index of this repository is signed (Ed25519) with this repository's own key, and every archive must match the
 SHA-256 in that signed index before the app installs it. Nothing is added to the app by default: add the repository
@@ -19,7 +12,7 @@ yourself, then choose to trust its key.
 > affiliation with, or endorsement of, any third-party site. You are responsible for what you access; please respect
 > the creators and the laws of your country. Rights holders: see [TAKEDOWN.md](TAKEDOWN.md).
 
-## Use it in Matane Anime
+## Add it to your app
 
 **Repository URL:** `https://sikocak221.github.io/anime-extension-source/` (the [site](https://sikocak221.github.io/anime-extension-source/)
 shows the signing key and the extension list).
