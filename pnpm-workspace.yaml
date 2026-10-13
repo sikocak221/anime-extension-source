@@ -1,0 +1,18 @@
+packages:
+  - src/*/*
+
+# One version of the extension SDK, runtime and CLI for every extension ("catalog:" in package.json).
+catalog:
+  '@matane-anime/extension-cli': ^0.1.1
+  '@matane-anime/extension-runtime': ^0.1.1
+  '@matane-anime/extension-sdk': ^0.1.1
+  '@types/node': ^24.19.1
+
+allowBuilds:
+  esbuild: true
+
+# Our own packages: trusted as soon as they are published (every version).
+minimumReleaseAgeExclude:
+  - '@matane-anime/extension-cli'
+  - '@matane-anime/extension-runtime'
+  - '@matane-anime/extension-sdk'

@@ -1,0 +1,2065 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en-US" prefix="og: https://ogp.me/ns#">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<meta name="theme-color" content="#1e73be">
+<meta name="msapplication-navbutton-color" content="#1e73be">
+<meta name="mobile-web-app-capable" content="yes">
+
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>A | Animenosub</title>
+<meta name="robots" content="follow, noindex"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="A | Animenosub" />
+<meta property="og:url" content="https://animenosub.to/search/a/" />
+<meta property="og:site_name" content="AnimeNoSub" />
+<meta property="og:image" content="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/07/Animenosub-Summer-2026-1024x541.webp" />
+<meta property="og:image:secure_url" content="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/07/Animenosub-Summer-2026-1024x541.webp" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="541" />
+<meta property="og:image:type" content="image/webp" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="A | Animenosub" />
+<meta name="twitter:site" content="@animenosubv2" />
+<meta name="twitter:image" content="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/07/Animenosub-Summer-2026-1024x541.webp" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://animenosub.to/#organization","name":"AnimeNoSub","sameAs":["https://twitter.com/animenosubv2"]},{"@type":"WebSite","@id":"https://animenosub.to/#website","url":"https://animenosub.to","name":"AnimeNoSub","alternateName":"Animenosub","publisher":{"@id":"https://animenosub.to/#organization"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://animenosub.to/search/a/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://animenosub.to","name":"Anime"}},{"@type":"ListItem","position":"2","item":{"@id":"/?s=a","name":"Results for a"}}]},{"@type":"SearchResultsPage","@id":"https://animenosub.to/search/a/#webpage","url":"https://animenosub.to/search/a/","name":"A | Animenosub","isPartOf":{"@id":"https://animenosub.to/#website"},"inLanguage":"en-US","breadcrumb":{"@id":"https://animenosub.to/search/a/#breadcrumb"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="Animenosub &raquo; Search Results for &#8220;a&#8221; Feed" href="https://animenosub.to/search/a/feed/rss2/" />
+<script>const ts_config = {"general":{"ajaxurl":"https:\/\/animenosub.to\/wp-admin\/admin-ajax.php","site_url":"https:\/\/animenosub.to","slow_view_count":false,"display_view_count":false,"slow_view_count_interval":6},"lang":{"bookmarked_label":"Bookmarked","bookmark_label":"Bookmark","bookmark_max_reached":"You have reached the maximum bookmark limit","widget_episode_label":"Episode"},"bookmark":{"max":"50","enabled":true},"series_history":{"widget":{"tpl":"<li>\n    <a href=\"#\/\" data-id=\"{{episode_id}}\" class=\"ts-history-item\">{{series_name}} {{episode_label}} <b>{{episode_number}}<\/b> <span class=\"post-date\">{{time}}<\/span><\/a>\n<\/li>"}}};</script><style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='parent-style-css' href='https://animenosub.to/wp-content/themes/animestream/style.css' media='all' />
+<style id="parent-style-inline-css">
+
+        .ts-server-block {
+            overflow: hidden;
+            display: flex;
+            align-items: stretch;
+            margin-bottom: 15px;
+            border-radius: 4px;
+            font-size: 13px;
+        }
+        .ts-server-notice {
+            background: #1e2235;
+            color: #ccc;
+            padding: 16px 20px;
+            flex: 0 0 280px;
+            max-width: 280px;
+            line-height: 1.6;
+            font-weight: 400;
+            font-size: 13px;
+            text-align: center;
+        }
+        .ts-server-notice p {
+            margin: 0;
+        }
+        .ts-server-notice strong {
+            color: #fff;
+            font-weight: 700;
+        }
+        .ts-server-rows {
+            background: #151929;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .ts-server-right {
+            display: flex;
+            align-items: center;
+            padding: 10px 16px;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .ts-server-right + .ts-server-right {
+            border-top: 1px solid rgba(255,255,255,0.06);
+        }
+        @media (max-width: 600px) {
+            .ts-server-block {
+                flex-direction: column;
+            }
+            .ts-server-notice {
+                flex: none;
+                max-width: 100%;
+                padding: 12px 14px;
+            }
+            .ts-server-right {
+                padding: 10px 14px;
+                gap: 8px;
+            }
+            .ts-server-btns {
+                flex-direction: row;
+                flex-wrap: wrap;
+            }
+            .ts-server-btn {
+                padding: 6px 14px;
+            }
+        }
+        .ts-server-label {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            color: #fff;
+            font-weight: 700;
+            font-size: 13px;
+            white-space: nowrap;
+        }
+        .ts-cc-icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 20px;
+            height: 14px;
+            background: #ffa000;
+            border-radius: 2px;
+            font-size: 9px;
+            color: #000000;
+            font-weight: 700;
+        }
+        .ts-raw-icon {
+            background: #06b6d4;
+        }
+		.ts-dub-icon {
+    background: #f90606;
+		}
+        .ts-server-btns {
+            display: inline-flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .ts-server-btn {
+            display: inline-flex;
+            align-items: center;
+            padding: 6px 18px;
+            font-size: 13px;
+            font-family: inherit;
+            font-weight: 500;
+            cursor: pointer;
+            border: 1px solid #2e3450;
+            border-radius: 4px;
+            background: #1e2540;
+            color: #bcc5d6;
+            transition: background .15s, color .15s, border-color .15s;
+            user-select: none;
+            white-space: nowrap;
+        }
+        .ts-server-btn:hover {
+            background: #253060;
+            color: #fff;
+            border-color: #0c70de;
+        }
+        .ts-server-btn.active {
+            background: #0c70de;
+            border-color: #0a5fb8;
+            color: #fff;
+        }
+    
+/*# sourceURL=parent-style-inline-css */
+</style>
+<link rel='stylesheet' id='dashicons-css' href='https://animenosub.to/wp-includes/css/dashicons.min.css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://animenosub.to/wp-content/themes/animestream-child/style.css' media='all' />
+<link rel='stylesheet' id='ts-darkstyle-css' href='https://animenosub.to/wp-content/themes/animestream/assets/css/darkmode.css' media='all' />
+<link rel='stylesheet' id='ts-second-style-css' href='https://animenosub.to/wp-content/themes/animestream/assets/css/second.css' media='all' />
+<script id="jquery-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/jquery.min.js"></script>
+<script id="jquery-js-after">
+const tsCastDefaultImg = 'https://animenosub.to/wp-content/themes/animestream/assets/img/character-default.png';
+//# sourceURL=jquery-js-after
+</script>
+<script id="ts-functions-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/tsfn.js"></script>
+<script id="ts-popular_widget-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/popular_widget.js"></script>
+<script id="bookmarks_script-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/bookmark.js"></script>
+<link rel="https://api.w.org/" href="https://animenosub.to/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://animenosub.to/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.3" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,500,500i,600,600i,700,700i&?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+<meta name="google-site-verification" content="qsZs0SljJRBkB93_4Ld5mVHq7TCj0EPdcuHuni0QW0E" /><script>
+	$(document).ready(function(){
+		$(".shme").click(function(){
+			$(".mm").toggleClass("shwx");
+		});
+		$(".expand").click(function(){
+			$(".megavid").toggleClass("xp");
+			$(".pd-expand").toggleClass("sxp");
+		});
+		$('.expand').click(function() {
+			if ($('.expand').hasClass('slamdown')){
+				$('.expand').removeClass('slamdown');
+				jQuery(".mvelement").prependTo(jQuery(".megavid"));
+			} else {
+				$('.expand').addClass('slamdown');
+				jQuery(".mvelement").appendTo(jQuery(".pd-expand"));
+			  }
+		});
+		$(".gnr").click(function(){
+			$(".gnrx").toggleClass("shwgx");
+		});
+		$(".light").click(function(){
+			$(".lowvid").toggleClass("highvid");
+		});
+		$(".colap").click(function(){
+			$(".mindes").toggleClass("alldes");
+		});
+		$(".topmobile").click(function(){
+			$(".topmobcon").toggleClass("topmobshow");
+		});
+		$(".toggler").click(function(){
+			$(".inmenu").toggleClass("inmshow");
+		});
+		$(".twoscmob").click(function(){
+			$(".searchdesk").toggleClass("searchmobi");
+		});
+		$(".srcmob").click(function(){
+			$(".minmb").toggleClass("minmbx");
+		});
+	});
+	</script>
+<script type="text/javascript">
+	$(document).ready(function()
+	{
+	  $('.tip').each(function(){
+
+		var $this = $(this);
+		var id = $this.attr('rel');
+
+		$this.qtip({
+		  content:{
+			text: '<center><img src="https://animenosub.to/wp-content/themes/animestream/assets/img/loading.gif" width="30"/></center>',
+			ajax:{
+			  url: 'https://animenosub.to/wp-admin/admin-ajax.php',
+			  type: 'POST', 
+			  loading: false,
+			  data: 'id=' + id + '&action=tooltip_action'
+			}
+		  },
+		  show: {
+			  event: 'mouseover',
+			  delay: 500,
+		  },
+		  hide: {
+			delay: 200,
+			fixed: true
+		  },
+		  position: {
+		target: 'mouse',
+		adjust: { mouse: false },
+			viewport: $(window)
+		  }
+		});
+	  });
+	});
+	</script>
+		<script>
+	var defaultTheme = "darkmode";
+	var tsmjsload = true;
+	</script>
+			<style>
+			.darkmode .bxcl ul li span.dt a{background:#30353c;}
+			#main-menu,.soraddlx .sorattlx,.releases .vl,.serieslist.pop ul li.topone .limit .bw .ctr,#footer .footermenu,.bigcontent .infox .spe span:before,.commentx #submit,.naveps .nvsc a,.radiox input:checked ~ .checkmarkx,.advancedsearch button.searchz,.lista a:hover,.bxcl ul li span.dt a:hover,.bookmark,.bs .bsx .limit .typez.Drama,.hpage a,.slider:before,.darkmode .naveps .nvsc a,.darkmode .lista a,.darkmode .nav_apb a:hover,#sidebar .section ul.season li:before,#sidebar .section ul.season::-webkit-scrollbar-thumb,#sidebar .section .ongoingseries ul li a .l .fas, #sidebar .section .ongoingseries ul li a .r,.releases.latesthome,.quickfilter .filters .filter.submit button,.footer-az .az-list li a,.stylesix .bsx .upscore,.stylefor .bsx .tt span i,.soraddlx .soraurlx strong,.bxcl ul li:hover,.darkmode .quickfilter .filters .filter.submit button,.darkmode .bxcl ul li:hover,#sidebar .section .ongoingseries ul::-webkit-scrollbar-thumb,.quickfilter .filters .filter .scrollz::-webkit-scrollbar-thumb,.bxcl ul::-webkit-scrollbar-thumb,.bigcontent .infox .genxed a:hover,.lastend .inepcx a,.single-info.bixbox .infox .spe span:before,.single-info.bixbox .infox .genxed a:hover,.series-gen .nav-tabs li.active a,.naveps.bignav .nvs.nvsc a,.darkmode .naveps.bignav .nvs.nvsc a,#top-menu li a:hover,.topmobile,.comment-list .comment-body .reply a:hover,.mngentwo .centernav .surprise,#menutwo .inmenu > ul,#menutwo .inmenu > ul>li>a,#menutwo .inmenu > ul>li:first-child:before,#menutwo .inmenu > ul>li:last-child:after,#slidertwo .item .info,.styletwo #sidebar .section .quickfilter .filters .filter.submit button,.styletwo .bs .bsx .limit .bt .epx,#slidertwo .swiper-pagination > span.swiper-pagination-bullet-active,.mngentwo .centernav .searchx.searchmobi #form #s,#sidebar .section .ts-wpop-series-gen .ts-wpop-nav-tabs li.active span,.bixbox .bvl,.post-nav-links .post-page-numbers,.paginationjs ul li a:hover,.paginationjs ul li.active a,.darkmode .paginationjs ul li.active a{background:#1e73be;}
+			.pagination span.page-numbers.current,#gallery.owl-loaded .owl-dots .owl-dot.active span,.taxindex li a:hover,.darkmode .taxindex li a:hover{background:#1e73be !important;}
+			.releases span,.advancedsearch button.searchz,.lista a:hover,.darkmode .lista a,.stylefor .bsx:hover,.bxcl ul li:hover,.single-info.bixbox .infox .genxed a:hover,.comment-list .comment-body .reply a {border-color:#1e73be;}
+			.surprise:hover {color: #FFF;background: #333;}
+			a:hover,.listupd .lexa .dtl h2 a:hover,.live-search_result_container a:hover,.footer-az .az-list li a:hover,.bxcl ul li span.dt a .dashicons .darkmode #sidebar .section .serieslist ul li .leftseries span a,.stylefor a:hover,.seventh .main-seven .tt .sosev span a:hover,.stylesix .bsx .inf span a,.epl-num a,.bixbox.episodedl .epwrapper .epheader .entry-info a,.darkmode a:hover,.dlbox ul li span a,.single-info.bixbox .infox .infolimit h2,.stylenine .bsx .inf span a,.comment-list .comment-body .reply a,.bigcontent .infox .spe span a,#slidertwo .item .info .watch:hover,#slidertwo .paging > div:hover i,.single-info.bixbox .infox .spe span a,.cmt .must-log-in a, .bigcontent .infox .spe span a,.stylesix .bsx .inf ul li a,.meta .year a,.blogpost .entry-header .entry-meta a,.darkmode .blogpost .entry-header .entry-meta a:hover,.darkmode .single-info.bixbox .infox .spe span a:hover,.darkmode .bigcontent .infox .spe span a:hover,.darkmode .cmt .must-log-in a:hover{color:#1e73be;}
+			.footer-az .az-list li a:hover{color:#1e73be !important;}
+			.releases h1,.releases h3,#sidebar .section h4 {color:#333}
+			.bs .bsx .limit .ply {background:rgba(0,0,0,0.5);}
+			#main-menu ul li a:hover {text-decoration:none;color:#FFF;}
+			.serieslist ul li .ctr,.bigcontent .infox .genxed a,.single-info.bixbox .infox .genxed a{color:#1e73be;border-color:#1e73be;}
+			.darkmode .bigcontent .infox .genxed a,.darkmode .single-info.bixbox .infox .genxed a{color:#CCC}
+			.darkmode .bigcontent .infox .genxed a:hover,.darkmode .single-info.bixbox .infox .genxed a:hover,.darkmode .single-info.bixbox .infox .infolimit h2,#ts-history-pagination ul li.active a{color:#FFF}
+			.modex a {background: #333;}
+			.modex a:hover,.stylefor .bsx .tt span i,.darkmode .naveps.bignav .nvs.nvsc a {color: #FFF;}
+			.bigcontent .rt .rating,.bxcl ul li span.dt a{background: #f8f8f8;}
+			.bookmark:hover{background:#1d1b26}
+			.darkmode .lista a:hover{background:#333}
+			@media only screen and (max-width: 800px){
+				.th,.darkmode .th{background:#1e73be;}
+				#main-menu{background:rgba(28,28,28,.95);}
+				.surprise{background:#1e73be;}
+			}
+		</style>
+		
+	<script type='text/javascript'>
+	//<![CDATA[
+	$(document).ready(function(){
+	   $("#shadow").css("height", $(document).height()).hide();
+	   $(".light").click(function(){
+		  $("#shadow").toggle();
+			 if ($("#shadow").is(":hidden"))
+				$(this).html("<i class='far fa-lightbulb' aria-hidden='true'></i> <span>Turn Off Light</span>").removeClass("turnedOff");
+			 else
+				$(this).html("<i class='fas fa-lightbulb' aria-hidden='true'></i> <span>Turn On Light</span>").addClass("turnedOff");
+			 });
+
+	  });
+	//]]>
+	</script>
+    <script type="text/javascript">
+            var sf_templates = "<a href=\"{search_url_escaped}\">View All Results<\/a>";
+            var sf_position = '0';
+            var sf_input = '.search-live';
+            jQuery(document).ready(function(){
+                jQuery(sf_input).ajaxyLiveSearch({"expand":false,"searchUrl":"https:\/\/animenosub.to\/?s=%s","text":"Search...","delay":500,"iwidth":180,"width":350,"ajaxUrl":"https:\/\/animenosub.to\/wp-admin\/admin-ajax.php","rtl":0});
+                jQuery(".live-search_ajaxy-selective-input").keyup(function() {
+                    var width = jQuery(this).val().length * 8;
+                    if(width < 50) {
+                        width = 50;
+                    }
+                    jQuery(this).width(width);
+                });
+                jQuery(".live-search_ajaxy-selective-search").click(function() {
+                    jQuery(this).find(".live-search_ajaxy-selective-input").focus();
+                });
+                jQuery(".live-search_ajaxy-selective-close").click(function() {
+                    jQuery(this).parent().remove();
+                });
+            });
+    </script>
+    <link rel="icon" href="https://i3.wp.com/animenosub.to/wp-content/uploads/2024/04/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://i3.wp.com/animenosub.to/wp-content/uploads/2024/04/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i3.wp.com/animenosub.to/wp-content/uploads/2024/04/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://i3.wp.com/animenosub.to/wp-content/uploads/2024/04/cropped-favicon-270x270.png" />
+<link rel='stylesheet' id='ts-fontawesome-css' href='https://animenosub.to/wp-content/themes/animestream/assets/css/font-awesome.min.css' media='all' />
+<link rel='stylesheet' id='ts-owl-carousel-css' href='https://animenosub.to/wp-content/themes/animestream/assets/css/owl.carousel.css' media='all' />
+<link rel='stylesheet' id='ts-qtip-css' href='https://animenosub.to/wp-content/themes/animestream/assets/css/jquery.qtip.min.css' media='all' />
+
+</head>
+<body class="darkmode styletwo" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<div id='shadow'></div>
+
+<div class="th mngentwo">
+	<div class="centernav bound">
+		<div id="menutwo">
+			<div class="toggler"><i class="fa fa-bars" aria-hidden="true"></i></div>
+
+			<div class="inmenu" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+				<ul id="menu-menu" class="menu"><li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://animenosub.to/schedule/" itemprop="url"><span itemprop="name">Schedule</span></a></li>
+<li id="menu-item-936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-936"><a href="/anime/" itemprop="url"><span itemprop="name">Anime List</span></a></li>
+<li id="menu-item-58838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58838"><a href="https://animenosub.to/category/one-piece/" itemprop="url"><span itemprop="name">One Piece</span></a></li>
+<li id="menu-item-34540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34540"><a href="https://animenosub.to/category/solo-leveling-season-2-arise-from-the-shadow/" itemprop="url"><span itemprop="name">Solo Leveling Season 2</span></a></li>
+<li id="menu-item-34541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34541"><a href="https://animenosub.to/category/jujutsu-kaisen-2nd-season/" itemprop="url"><span itemprop="name">Jujutsu Kaisen Season 2</span></a></li>
+<li id="menu-item-34542" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34542"><a href="https://animenosub.to/category/frieren-beyond-journeys-end-bd/" itemprop="url"><span itemprop="name">Frieren: Beyond Journey&#8217;s End BD</span></a></li>
+<li id="menu-item-29005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29005"><a href="https://animenosub.to/genres/" itemprop="url"><span itemprop="name">Genres</span></a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://animenosub.to/bookmark/" itemprop="url"><span itemprop="name">Bookmark</span></a></li>
+<li id="menu-item-879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-879"><a itemprop="url"><span itemprop="name">Season</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-29004" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29004"><a href="https://animenosub.to/season/fall-2024/" itemprop="url"><span itemprop="name">Fall 2024</span></a></li>
+	<li id="menu-item-29003" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29003"><a href="https://animenosub.to/season/summer-2024/" itemprop="url"><span itemprop="name">Summer 2024</span></a></li>
+	<li id="menu-item-22359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22359"><a href="https://animenosub.to/season/spring-2024/" itemprop="url"><span itemprop="name">Spring 2024</span></a></li>
+	<li id="menu-item-18985" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18985"><a href="/season/winter-2024/" itemprop="url"><span itemprop="name">Winter 2024</span></a></li>
+</ul>
+</li>
+<li id="menu-item-60657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60657"><a target="_blank" href="https://animenosub.com/" itemprop="url"><span itemprop="name">Domains</span></a></li>
+</ul>			</div>
+		</div>
+		
+		<header class="mainheader" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+			<div class="site-branding logox">
+							<span class="logos">
+					<a title="Animenosub - Watch Anime Online, Free Anime Streaming Online" itemprop="url" href="https://animenosub.to/"><img itemprop="image" width="270" height="50" src="https://animenosub.to/wp-content/uploads/2026/04/logo-animenosub-2026.png" alt="Animenosub - Watch Anime Online, Free Anime Streaming Online"><span class="hdl">Animenosub - Watch Anime Online, Free Anime Streaming Online</span></a>
+				</span>
+								<meta itemprop="name" content="Animenosub" />
+			</div>
+		</header>
+
+		<div class="searchx searchdesk topcon">
+			<form action="https://animenosub.to/" id="form" method="get" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+				<meta itemprop="target" content="https://animenosub.to/?s={query}"/>
+				<input id="s" itemprop="query-input" class="search-live" type="text" placeholder="Search..." name="s"/>
+				<button type="submit" id="submitsearch" aria-label="search"><i class="fas fa-search" aria-hidden="true"></i></button>
+			</form>
+		</div>
+				<span class="twoscmob"><i class="fas fa-search" aria-hidden="true"></i></span>
+	</div>
+</div>
+
+<div id="content">
+	<div class="wrapper">
+		<div class="postbody">
+<div class="bixbox">
+	<div class="releases"><h1><span>Search 'a'</span></h1></div>
+		<div class="listupd">
+	<article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://animenosub.to/anime/dandivine/" itemprop="url" title="Dandivine" class="tip" rel="62307">
+		<div class="limit">
+									<div class="typez TV">TV</div>
+			
+			
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			
+			<div class="bt ans-bt">
+									<div class="ans-split-badges">
+																			<span class="ans-badge ans-sub">
+								<svg class="ans-icon-cc" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#bae6fd"/><text x="12" y="12.5" fill="#0b7ec4" font-size="11" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">CC</text></svg>
+								<span class="ans-num">1</span>
+							</span>
+																	</div>
+							</div>
+			<img src="https://i3.wp.com/animenosub.to/wp-content/uploads/2026/10/dandivine.png" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Dandivine" width="247" height="350"/>		</div>
+			<div class="tt">
+				Dandivine				<h2 itemprop="headline">Dandivine</h2>
+			</div>
+		</a>
+	</div>
+</article>
+<article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://animenosub.to/anime/magic-knight-rayearth-2026/" itemprop="url" title="Magic Knight Rayearth (2026)" class="tip" rel="62300">
+		<div class="limit">
+									<div class="typez TV">TV</div>
+			
+			
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			
+			<div class="bt ans-bt">
+									<div class="ans-split-badges">
+																			<span class="ans-badge ans-sub">
+								<svg class="ans-icon-cc" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#bae6fd"/><text x="12" y="12.5" fill="#0b7ec4" font-size="11" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">CC</text></svg>
+								<span class="ans-num">1</span>
+							</span>
+																	</div>
+							</div>
+			<img src="https://i2.wp.com/animenosub.to/wp-content/uploads/2026/10/magic-knight-rayearth-2026.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Magic Knight Rayearth (2026)" width="247" height="350"/>		</div>
+			<div class="tt">
+				Magic Knight Rayearth (2026)				<h2 itemprop="headline">Magic Knight Rayearth (2026)</h2>
+			</div>
+		</a>
+	</div>
+</article>
+<article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://animenosub.to/anime/battle-spirits-re-zekkai-no-kuu/" itemprop="url" title="Battle Spirits [Re]: Zekkai no Kuu" class="tip" rel="62285">
+		<div class="limit">
+									<div class="typez TV">TV</div>
+			
+			
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			
+			<div class="bt ans-bt">
+									<div class="ans-split-badges">
+													<span class="ans-badge ans-raw">
+								<svg class="ans-icon-raw" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#cffafe"/><text x="12" y="12.5" fill="#0891b2" font-size="9" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">RAW</text></svg>
+								<span class="ans-num">3</span>
+							</span>
+																			<span class="ans-badge ans-sub">
+								<svg class="ans-icon-cc" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#bae6fd"/><text x="12" y="12.5" fill="#0b7ec4" font-size="11" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">CC</text></svg>
+								<span class="ans-num">1</span>
+							</span>
+																	</div>
+							</div>
+			<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/10/Battle-Spirits-Re-Zekkai-no-Kuu.webp" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Battle Spirits [Re]: Zekkai no Kuu" width="247" height="350"/>		</div>
+			<div class="tt">
+				Battle Spirits [Re]: Zekkai no Kuu				<h2 itemprop="headline">Battle Spirits [Re]: Zekkai no Kuu</h2>
+			</div>
+		</a>
+	</div>
+</article>
+<article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://animenosub.to/anime/magical-girl-raising-project/" itemprop="url" title="Magical Girl Raising Project" class="tip" rel="62234">
+		<div class="limit">
+							<div class="ans-status-ribbon ans-completed">Completed</div>
+									<div class="typez TV">TV</div>
+			
+			
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			
+			<div class="bt ans-bt">
+									<div class="ans-split-badges">
+																			<span class="ans-badge ans-sub">
+								<svg class="ans-icon-cc" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#bae6fd"/><text x="12" y="12.5" fill="#0b7ec4" font-size="11" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">CC</text></svg>
+								<span class="ans-num">12</span>
+							</span>
+																			<span class="ans-badge ans-dub">
+								<svg class="ans-icon-mic" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#fecdd3"/><path fill="#ab3b48" d="M12,11c1.1,0,2-0.9,2-2V5c0-1.1-0.9-2-2-2S10,3.9,10,5v4C10,10.1,10.9,11,12,11z M15.8,9c0,2.2-1.8,4-3.8,4 s-3.8-1.8-3.8-4H7c0,2.5,1.9,4.6,4.2,4.9V16h1.5v-2.1c2.3-0.3,4.2-2.4,4.2-4.9H15.8z"/></svg>
+								<span class="ans-num">12</span>
+							</span>
+											</div>
+							</div>
+			<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/10/magical-girl-raising-project.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Magical Girl Raising Project" width="247" height="350"/>		</div>
+			<div class="tt">
+				Magical Girl Raising Project				<h2 itemprop="headline">Magical Girl Raising Project</h2>
+			</div>
+		</a>
+	</div>
+</article>
+<article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://animenosub.to/anime/super-psychic-policeman-chojo/" itemprop="url" title="Super Psychic Policeman Chojo" class="tip" rel="62228">
+		<div class="limit">
+									<div class="typez TV">TV</div>
+			
+			
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			
+			<div class="bt ans-bt">
+									<div class="ans-split-badges">
+																			<span class="ans-badge ans-sub">
+								<svg class="ans-icon-cc" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#bae6fd"/><text x="12" y="12.5" fill="#0b7ec4" font-size="11" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">CC</text></svg>
+								<span class="ans-num">1</span>
+							</span>
+																	</div>
+							</div>
+			<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/10/super-psychic-policeman-chojo.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Super Psychic Policeman Chojo" width="247" height="350"/>		</div>
+			<div class="tt">
+				Super Psychic Policeman Chojo				<h2 itemprop="headline">Super Psychic Policeman Chojo</h2>
+			</div>
+		</a>
+	</div>
+</article>
+<article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://animenosub.to/anime/so-whats-wrong-with-getting-reborn-as-a-goblin/" itemprop="url" title="So What&#8217;s Wrong with Getting Reborn as a Goblin?" class="tip" rel="62206">
+		<div class="limit">
+									<div class="typez TV">TV</div>
+			
+			
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			
+			<div class="bt ans-bt">
+									<div class="ans-split-badges">
+																			<span class="ans-badge ans-sub">
+								<svg class="ans-icon-cc" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#bae6fd"/><text x="12" y="12.5" fill="#0b7ec4" font-size="11" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">CC</text></svg>
+								<span class="ans-num">2</span>
+							</span>
+																	</div>
+							</div>
+			<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/10/so-whats-wrong-with-getting-reborn-as-a-goblin.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="So What&#8217;s Wrong with Getting Reborn as a Goblin?" width="247" height="350"/>		</div>
+			<div class="tt">
+				So What&#8217;s Wrong with Getting Reborn as a Goblin?				<h2 itemprop="headline">So What&#8217;s Wrong with Getting Reborn as a Goblin?</h2>
+			</div>
+		</a>
+	</div>
+</article>
+<article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://animenosub.to/anime/from-far-away/" itemprop="url" title="From Far Away" class="tip" rel="62162">
+		<div class="limit">
+									<div class="typez TV">TV</div>
+			
+			
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			
+			<div class="bt ans-bt">
+									<div class="ans-split-badges">
+																			<span class="ans-badge ans-sub">
+								<svg class="ans-icon-cc" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#bae6fd"/><text x="12" y="12.5" fill="#0b7ec4" font-size="11" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">CC</text></svg>
+								<span class="ans-num">1</span>
+							</span>
+																	</div>
+							</div>
+			<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/10/from-far-away.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="From Far Away" width="247" height="350"/>		</div>
+			<div class="tt">
+				From Far Away				<h2 itemprop="headline">From Far Away</h2>
+			</div>
+		</a>
+	</div>
+</article>
+<article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://animenosub.to/anime/hotel-inhumans-season-2/" itemprop="url" title="HOTEL INHUMANS Season 2" class="tip" rel="62160">
+		<div class="limit">
+									<div class="typez TV">TV</div>
+			
+			
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			
+			<div class="bt ans-bt">
+									<div class="ans-split-badges">
+																			<span class="ans-badge ans-sub">
+								<svg class="ans-icon-cc" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#bae6fd"/><text x="12" y="12.5" fill="#0b7ec4" font-size="11" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">CC</text></svg>
+								<span class="ans-num">1</span>
+							</span>
+																	</div>
+							</div>
+			<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/10/hotel-inhumans-season-2.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="HOTEL INHUMANS Season 2" width="247" height="350"/>		</div>
+			<div class="tt">
+				HOTEL INHUMANS Season 2				<h2 itemprop="headline">HOTEL INHUMANS Season 2</h2>
+			</div>
+		</a>
+	</div>
+</article>
+<article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://animenosub.to/anime/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance/" itemprop="url" title="Even Though I&#8217;m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé" class="tip" rel="62158">
+		<div class="limit">
+									<div class="typez TV">TV</div>
+			
+			
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			
+			<div class="bt ans-bt">
+									<div class="ans-split-badges">
+																			<span class="ans-badge ans-sub">
+								<svg class="ans-icon-cc" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#bae6fd"/><text x="12" y="12.5" fill="#0b7ec4" font-size="11" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">CC</text></svg>
+								<span class="ans-num">1</span>
+							</span>
+																	</div>
+							</div>
+			<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/10/even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fiance.png" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Even Though I&#8217;m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé" width="247" height="350"/>		</div>
+			<div class="tt">
+				Even Though I&#8217;m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé				<h2 itemprop="headline">Even Though I&#8217;m a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé</h2>
+			</div>
+		</a>
+	</div>
+</article>
+<article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://animenosub.to/anime/tank-chair/" itemprop="url" title="TANK CHAIR" class="tip" rel="62156">
+		<div class="limit">
+									<div class="typez TV">TV</div>
+			
+			
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			
+			<div class="bt ans-bt">
+									<div class="ans-split-badges">
+																			<span class="ans-badge ans-sub">
+								<svg class="ans-icon-cc" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#bae6fd"/><text x="12" y="12.5" fill="#0b7ec4" font-size="11" font-weight="900" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle" letter-spacing="-0.5">CC</text></svg>
+								<span class="ans-num">1</span>
+							</span>
+																			<span class="ans-badge ans-dub">
+								<svg class="ans-icon-mic" viewBox="0 0 24 18"><rect x="0" y="0" width="24" height="18" rx="3" ry="3" fill="#fecdd3"/><path fill="#ab3b48" d="M12,11c1.1,0,2-0.9,2-2V5c0-1.1-0.9-2-2-2S10,3.9,10,5v4C10,10.1,10.9,11,12,11z M15.8,9c0,2.2-1.8,4-3.8,4 s-3.8-1.8-3.8-4H7c0,2.5,1.9,4.6,4.2,4.9V16h1.5v-2.1c2.3-0.3,4.2-2.4,4.2-4.9H15.8z"/></svg>
+								<span class="ans-num">1</span>
+							</span>
+											</div>
+							</div>
+			<img src="https://i3.wp.com/animenosub.to/wp-content/uploads/2026/10/tank-chair-sensha-isu.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="TANK CHAIR" width="247" height="350"/>		</div>
+			<div class="tt">
+				TANK CHAIR				<h2 itemprop="headline">TANK CHAIR</h2>
+			</div>
+		</a>
+	</div>
+</article>
+	</div>	
+	<div class="pagination">
+			<span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://animenosub.to/page/2/?s=a">2</a>
+<a class="page-numbers" href="https://animenosub.to/page/3/?s=a">3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://animenosub.to/page/127/?s=a">127</a>
+<a class="next page-numbers" href="https://animenosub.to/page/2/?s=a">Next &raquo;</a>  
+		</div>
+	</div>
+</div>
+<div id="sidebar">
+		<!--themesia cache start--><div class="section"><div class="releases"><h3>Search</h3></div>		<div class="quickfilter">
+			<form action="https://animenosub.to/anime" class="filters " method="GET">
+                				<span class="sec1">
+                <!-- genres -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Genre <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i> </button>
+					<ul class="dropdown-menu c4 scrollz">
+						                        <li><input type="checkbox" id="genre-action" name="genre[]" value="action"> <label for="genre-action">Action</label></li>
+						                        <li><input type="checkbox" id="genre-adult-cast" name="genre[]" value="adult-cast"> <label for="genre-adult-cast">Adult Cast</label></li>
+						                        <li><input type="checkbox" id="genre-adventure" name="genre[]" value="adventure"> <label for="genre-adventure">Adventure</label></li>
+						                        <li><input type="checkbox" id="genre-animation" name="genre[]" value="animation"> <label for="genre-animation">Animation</label></li>
+						                        <li><input type="checkbox" id="genre-anthropomorphic" name="genre[]" value="anthropomorphic"> <label for="genre-anthropomorphic">Anthropomorphic</label></li>
+						                        <li><input type="checkbox" id="genre-avant-garde" name="genre[]" value="avant-garde"> <label for="genre-avant-garde">Avant Garde</label></li>
+						                        <li><input type="checkbox" id="genre-award-winning" name="genre[]" value="award-winning"> <label for="genre-award-winning">Award Winning</label></li>
+						                        <li><input type="checkbox" id="genre-boys-love" name="genre[]" value="boys-love"> <label for="genre-boys-love">Boys Love</label></li>
+						                        <li><input type="checkbox" id="genre-cgdct" name="genre[]" value="cgdct"> <label for="genre-cgdct">CGDCT</label></li>
+						                        <li><input type="checkbox" id="genre-childcare" name="genre[]" value="childcare"> <label for="genre-childcare">Childcare</label></li>
+						                        <li><input type="checkbox" id="genre-combat-sports" name="genre[]" value="combat-sports"> <label for="genre-combat-sports">Combat Sports</label></li>
+						                        <li><input type="checkbox" id="genre-comedy" name="genre[]" value="comedy"> <label for="genre-comedy">Comedy</label></li>
+						                        <li><input type="checkbox" id="genre-crime" name="genre[]" value="crime"> <label for="genre-crime">Crime</label></li>
+						                        <li><input type="checkbox" id="genre-crossdressing" name="genre[]" value="crossdressing"> <label for="genre-crossdressing">Crossdressing</label></li>
+						                        <li><input type="checkbox" id="genre-delinquents" name="genre[]" value="delinquents"> <label for="genre-delinquents">Delinquents</label></li>
+						                        <li><input type="checkbox" id="genre-demons" name="genre[]" value="demons"> <label for="genre-demons">Demons</label></li>
+						                        <li><input type="checkbox" id="genre-detective" name="genre[]" value="detective"> <label for="genre-detective">Detective</label></li>
+						                        <li><input type="checkbox" id="genre-drama" name="genre[]" value="drama"> <label for="genre-drama">Drama</label></li>
+						                        <li><input type="checkbox" id="genre-ecchi" name="genre[]" value="ecchi"> <label for="genre-ecchi">Ecchi</label></li>
+						                        <li><input type="checkbox" id="genre-educational" name="genre[]" value="educational"> <label for="genre-educational">Educational</label></li>
+						                        <li><input type="checkbox" id="genre-erotica" name="genre[]" value="erotica"> <label for="genre-erotica">Erotica</label></li>
+						                        <li><input type="checkbox" id="genre-family" name="genre[]" value="family"> <label for="genre-family">Family</label></li>
+						                        <li><input type="checkbox" id="genre-fantasy" name="genre[]" value="fantasy"> <label for="genre-fantasy">Fantasy</label></li>
+						                        <li><input type="checkbox" id="genre-gag-humor" name="genre[]" value="gag-humor"> <label for="genre-gag-humor">Gag Humor</label></li>
+						                        <li><input type="checkbox" id="genre-game" name="genre[]" value="game"> <label for="genre-game">Game</label></li>
+						                        <li><input type="checkbox" id="genre-girls-love" name="genre[]" value="girls-love"> <label for="genre-girls-love">Girls Love</label></li>
+						                        <li><input type="checkbox" id="genre-gore" name="genre[]" value="gore"> <label for="genre-gore">Gore</label></li>
+						                        <li><input type="checkbox" id="genre-gourmet" name="genre[]" value="gourmet"> <label for="genre-gourmet">Gourmet</label></li>
+						                        <li><input type="checkbox" id="genre-harem" name="genre[]" value="harem"> <label for="genre-harem">Harem</label></li>
+						                        <li><input type="checkbox" id="genre-hentai" name="genre[]" value="hentai"> <label for="genre-hentai">Hentai</label></li>
+						                        <li><input type="checkbox" id="genre-high-stakes-game" name="genre[]" value="high-stakes-game"> <label for="genre-high-stakes-game">High Stakes Game</label></li>
+						                        <li><input type="checkbox" id="genre-historical" name="genre[]" value="historical"> <label for="genre-historical">Historical</label></li>
+						                        <li><input type="checkbox" id="genre-horror" name="genre[]" value="horror"> <label for="genre-horror">Horror</label></li>
+						                        <li><input type="checkbox" id="genre-idols-female" name="genre[]" value="idols-female"> <label for="genre-idols-female">Idols (Female)</label></li>
+						                        <li><input type="checkbox" id="genre-idols-male" name="genre[]" value="idols-male"> <label for="genre-idols-male">Idols (Male)</label></li>
+						                        <li><input type="checkbox" id="genre-isekai" name="genre[]" value="isekai"> <label for="genre-isekai">Isekai</label></li>
+						                        <li><input type="checkbox" id="genre-iyashikei" name="genre[]" value="iyashikei"> <label for="genre-iyashikei">Iyashikei</label></li>
+						                        <li><input type="checkbox" id="genre-josei" name="genre[]" value="josei"> <label for="genre-josei">Josei</label></li>
+						                        <li><input type="checkbox" id="genre-kids" name="genre[]" value="kids"> <label for="genre-kids">Kids</label></li>
+						                        <li><input type="checkbox" id="genre-live-action" name="genre[]" value="live-action"> <label for="genre-live-action">Live Action</label></li>
+						                        <li><input type="checkbox" id="genre-love-polygon" name="genre[]" value="love-polygon"> <label for="genre-love-polygon">Love Polygon</label></li>
+						                        <li><input type="checkbox" id="genre-love-status-quo" name="genre[]" value="love-status-quo"> <label for="genre-love-status-quo">Love Status Quo</label></li>
+						                        <li><input type="checkbox" id="genre-magical-sex-shift" name="genre[]" value="magical-sex-shift"> <label for="genre-magical-sex-shift">Magical Sex Shift</label></li>
+						                        <li><input type="checkbox" id="genre-mahou-shoujo" name="genre[]" value="mahou-shoujo"> <label for="genre-mahou-shoujo">Mahou Shoujo</label></li>
+						                        <li><input type="checkbox" id="genre-martial-arts" name="genre[]" value="martial-arts"> <label for="genre-martial-arts">Martial Arts</label></li>
+						                        <li><input type="checkbox" id="genre-mecha" name="genre[]" value="mecha"> <label for="genre-mecha">Mecha</label></li>
+						                        <li><input type="checkbox" id="genre-medical" name="genre[]" value="medical"> <label for="genre-medical">Medical</label></li>
+						                        <li><input type="checkbox" id="genre-military" name="genre[]" value="military"> <label for="genre-military">Military</label></li>
+						                        <li><input type="checkbox" id="genre-mistery" name="genre[]" value="mistery"> <label for="genre-mistery">Mistery</label></li>
+						                        <li><input type="checkbox" id="genre-music" name="genre[]" value="music"> <label for="genre-music">Music</label></li>
+						                        <li><input type="checkbox" id="genre-mystery" name="genre[]" value="mystery"> <label for="genre-mystery">Mystery</label></li>
+						                        <li><input type="checkbox" id="genre-mythology" name="genre[]" value="mythology"> <label for="genre-mythology">Mythology</label></li>
+						                        <li><input type="checkbox" id="genre-organized-crime" name="genre[]" value="organized-crime"> <label for="genre-organized-crime">Organized Crime</label></li>
+						                        <li><input type="checkbox" id="genre-otaku-culture" name="genre[]" value="otaku-culture"> <label for="genre-otaku-culture">Otaku Culture</label></li>
+						                        <li><input type="checkbox" id="genre-parody" name="genre[]" value="parody"> <label for="genre-parody">Parody</label></li>
+						                        <li><input type="checkbox" id="genre-performing-arts" name="genre[]" value="performing-arts"> <label for="genre-performing-arts">Performing Arts</label></li>
+						                        <li><input type="checkbox" id="genre-pets" name="genre[]" value="pets"> <label for="genre-pets">Pets</label></li>
+						                        <li><input type="checkbox" id="genre-police" name="genre[]" value="police"> <label for="genre-police">Police</label></li>
+						                        <li><input type="checkbox" id="genre-psychological" name="genre[]" value="psychological"> <label for="genre-psychological">Psychological</label></li>
+						                        <li><input type="checkbox" id="genre-racing" name="genre[]" value="racing"> <label for="genre-racing">Racing</label></li>
+						                        <li><input type="checkbox" id="genre-reincarnation" name="genre[]" value="reincarnation"> <label for="genre-reincarnation">Reincarnation</label></li>
+						                        <li><input type="checkbox" id="genre-reverse-harem" name="genre[]" value="reverse-harem"> <label for="genre-reverse-harem">Reverse Harem</label></li>
+						                        <li><input type="checkbox" id="genre-romance" name="genre[]" value="romance"> <label for="genre-romance">Romance</label></li>
+						                        <li><input type="checkbox" id="genre-romantic-subtext" name="genre[]" value="romantic-subtext"> <label for="genre-romantic-subtext">Romantic Subtext</label></li>
+						                        <li><input type="checkbox" id="genre-samurai" name="genre[]" value="samurai"> <label for="genre-samurai">Samurai</label></li>
+						                        <li><input type="checkbox" id="genre-school" name="genre[]" value="school"> <label for="genre-school">School</label></li>
+						                        <li><input type="checkbox" id="genre-sci-fi" name="genre[]" value="sci-fi"> <label for="genre-sci-fi">Sci-Fi</label></li>
+						                        <li><input type="checkbox" id="genre-seinen" name="genre[]" value="seinen"> <label for="genre-seinen">Seinen</label></li>
+						                        <li><input type="checkbox" id="genre-shoujo" name="genre[]" value="shoujo"> <label for="genre-shoujo">Shoujo</label></li>
+						                        <li><input type="checkbox" id="genre-shounen" name="genre[]" value="shounen"> <label for="genre-shounen">Shounen</label></li>
+						                        <li><input type="checkbox" id="genre-showbiz" name="genre[]" value="showbiz"> <label for="genre-showbiz">Showbiz</label></li>
+						                        <li><input type="checkbox" id="genre-slice-of-life" name="genre[]" value="slice-of-life"> <label for="genre-slice-of-life">Slice of Life</label></li>
+						                        <li><input type="checkbox" id="genre-space" name="genre[]" value="space"> <label for="genre-space">Space</label></li>
+						                        <li><input type="checkbox" id="genre-sports" name="genre[]" value="sports"> <label for="genre-sports">Sports</label></li>
+						                        <li><input type="checkbox" id="genre-strategy-game" name="genre[]" value="strategy-game"> <label for="genre-strategy-game">Strategy Game</label></li>
+						                        <li><input type="checkbox" id="genre-super-power" name="genre[]" value="super-power"> <label for="genre-super-power">Super Power</label></li>
+						                        <li><input type="checkbox" id="genre-supernatural" name="genre[]" value="supernatural"> <label for="genre-supernatural">Supernatural</label></li>
+						                        <li><input type="checkbox" id="genre-survival" name="genre[]" value="survival"> <label for="genre-survival">Survival</label></li>
+						                        <li><input type="checkbox" id="genre-suspense" name="genre[]" value="suspense"> <label for="genre-suspense">Suspense</label></li>
+						                        <li><input type="checkbox" id="genre-team-sports" name="genre[]" value="team-sports"> <label for="genre-team-sports">Team Sports</label></li>
+						                        <li><input type="checkbox" id="genre-thriller" name="genre[]" value="thriller"> <label for="genre-thriller">Thriller</label></li>
+						                        <li><input type="checkbox" id="genre-time-travel" name="genre[]" value="time-travel"> <label for="genre-time-travel">Time Travel</label></li>
+						                        <li><input type="checkbox" id="genre-urban-fantasy" name="genre[]" value="urban-fantasy"> <label for="genre-urban-fantasy">Urban Fantasy</label></li>
+						                        <li><input type="checkbox" id="genre-vampire" name="genre[]" value="vampire"> <label for="genre-vampire">Vampire</label></li>
+						                        <li><input type="checkbox" id="genre-video-game" name="genre[]" value="video-game"> <label for="genre-video-game">Video Game</label></li>
+						                        <li><input type="checkbox" id="genre-villainess" name="genre[]" value="villainess"> <label for="genre-villainess">Villainess</label></li>
+						                        <li><input type="checkbox" id="genre-visual-arts" name="genre[]" value="visual-arts"> <label for="genre-visual-arts">Visual Arts</label></li>
+						                        <li><input type="checkbox" id="genre-work-life" name="genre[]" value="work-life"> <label for="genre-work-life">Work Life</label></li>
+						                        <li><input type="checkbox" id="genre-workplace" name="genre[]" value="workplace"> <label for="genre-workplace">Workplace</label></li>
+											</ul>
+				</div>
+                <!-- season -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Season <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i> </button>
+					<ul class="dropdown-menu c4 scrollz">
+						                        <li><input type="checkbox" id="season-fall-1999" name="season[]" value="fall-1999"> <label for="season-fall-1999">Fall 1999</label></li>
+						                        <li><input type="checkbox" id="season-fall-2015" name="season[]" value="fall-2015"> <label for="season-fall-2015">Fall 2015</label></li>
+						                        <li><input type="checkbox" id="season-fall-2016" name="season[]" value="fall-2016"> <label for="season-fall-2016">Fall 2016</label></li>
+						                        <li><input type="checkbox" id="season-fall-2017" name="season[]" value="fall-2017"> <label for="season-fall-2017">Fall 2017</label></li>
+						                        <li><input type="checkbox" id="season-fall-2018" name="season[]" value="fall-2018"> <label for="season-fall-2018">Fall 2018</label></li>
+						                        <li><input type="checkbox" id="season-fall-2020" name="season[]" value="fall-2020"> <label for="season-fall-2020">Fall 2020</label></li>
+						                        <li><input type="checkbox" id="season-fall-2021" name="season[]" value="fall-2021"> <label for="season-fall-2021">Fall 2021</label></li>
+						                        <li><input type="checkbox" id="season-fall-2022" name="season[]" value="fall-2022"> <label for="season-fall-2022">Fall 2022</label></li>
+						                        <li><input type="checkbox" id="season-fall-2023" name="season[]" value="fall-2023"> <label for="season-fall-2023">Fall 2023</label></li>
+						                        <li><input type="checkbox" id="season-fall-2024" name="season[]" value="fall-2024"> <label for="season-fall-2024">Fall 2024</label></li>
+						                        <li><input type="checkbox" id="season-fall-2025" name="season[]" value="fall-2025"> <label for="season-fall-2025">Fall 2025</label></li>
+						                        <li><input type="checkbox" id="season-fall-2026" name="season[]" value="fall-2026"> <label for="season-fall-2026">Fall 2026</label></li>
+						                        <li><input type="checkbox" id="season-spring-2016" name="season[]" value="spring-2016"> <label for="season-spring-2016">Spring 2016</label></li>
+						                        <li><input type="checkbox" id="season-spring-2017" name="season[]" value="spring-2017"> <label for="season-spring-2017">Spring 2017</label></li>
+						                        <li><input type="checkbox" id="season-spring-2019" name="season[]" value="spring-2019"> <label for="season-spring-2019">Spring 2019</label></li>
+						                        <li><input type="checkbox" id="season-spring-2021" name="season[]" value="spring-2021"> <label for="season-spring-2021">Spring 2021</label></li>
+						                        <li><input type="checkbox" id="season-spring-2022" name="season[]" value="spring-2022"> <label for="season-spring-2022">Spring 2022</label></li>
+						                        <li><input type="checkbox" id="season-spring-2023" name="season[]" value="spring-2023"> <label for="season-spring-2023">Spring 2023</label></li>
+						                        <li><input type="checkbox" id="season-spring-2024" name="season[]" value="spring-2024"> <label for="season-spring-2024">Spring 2024</label></li>
+						                        <li><input type="checkbox" id="season-spring-2025" name="season[]" value="spring-2025"> <label for="season-spring-2025">Spring 2025</label></li>
+						                        <li><input type="checkbox" id="season-spring-2026" name="season[]" value="spring-2026"> <label for="season-spring-2026">Spring 2026</label></li>
+						                        <li><input type="checkbox" id="season-summer-2001" name="season[]" value="summer-2001"> <label for="season-summer-2001">Summer 2001</label></li>
+						                        <li><input type="checkbox" id="season-summer-2010" name="season[]" value="summer-2010"> <label for="season-summer-2010">Summer 2010</label></li>
+						                        <li><input type="checkbox" id="season-summer-2015" name="season[]" value="summer-2015"> <label for="season-summer-2015">Summer 2015</label></li>
+						                        <li><input type="checkbox" id="season-summer-2016" name="season[]" value="summer-2016"> <label for="season-summer-2016">Summer 2016</label></li>
+						                        <li><input type="checkbox" id="season-summer-2018" name="season[]" value="summer-2018"> <label for="season-summer-2018">Summer 2018</label></li>
+						                        <li><input type="checkbox" id="season-summer-2019" name="season[]" value="summer-2019"> <label for="season-summer-2019">Summer 2019</label></li>
+						                        <li><input type="checkbox" id="season-summer-2020" name="season[]" value="summer-2020"> <label for="season-summer-2020">Summer 2020</label></li>
+						                        <li><input type="checkbox" id="season-summer-2021" name="season[]" value="summer-2021"> <label for="season-summer-2021">Summer 2021</label></li>
+						                        <li><input type="checkbox" id="season-summer-2022" name="season[]" value="summer-2022"> <label for="season-summer-2022">Summer 2022</label></li>
+						                        <li><input type="checkbox" id="season-summer-2023" name="season[]" value="summer-2023"> <label for="season-summer-2023">Summer 2023</label></li>
+						                        <li><input type="checkbox" id="season-summer-2024" name="season[]" value="summer-2024"> <label for="season-summer-2024">Summer 2024</label></li>
+						                        <li><input type="checkbox" id="season-summer-2025" name="season[]" value="summer-2025"> <label for="season-summer-2025">Summer 2025</label></li>
+						                        <li><input type="checkbox" id="season-summer-2026" name="season[]" value="summer-2026"> <label for="season-summer-2026">Summer 2026</label></li>
+						                        <li><input type="checkbox" id="season-winter-2007" name="season[]" value="winter-2007"> <label for="season-winter-2007">Winter 2007</label></li>
+						                        <li><input type="checkbox" id="season-winter-2012" name="season[]" value="winter-2012"> <label for="season-winter-2012">Winter 2012</label></li>
+						                        <li><input type="checkbox" id="season-winter-2017" name="season[]" value="winter-2017"> <label for="season-winter-2017">Winter 2017</label></li>
+						                        <li><input type="checkbox" id="season-winter-2019" name="season[]" value="winter-2019"> <label for="season-winter-2019">Winter 2019</label></li>
+						                        <li><input type="checkbox" id="season-winter-2020" name="season[]" value="winter-2020"> <label for="season-winter-2020">Winter 2020</label></li>
+						                        <li><input type="checkbox" id="season-winter-2021" name="season[]" value="winter-2021"> <label for="season-winter-2021">Winter 2021</label></li>
+						                        <li><input type="checkbox" id="season-winter-2022" name="season[]" value="winter-2022"> <label for="season-winter-2022">Winter 2022</label></li>
+						                        <li><input type="checkbox" id="season-winter-2023" name="season[]" value="winter-2023"> <label for="season-winter-2023">Winter 2023</label></li>
+						                        <li><input type="checkbox" id="season-winter-2024" name="season[]" value="winter-2024"> <label for="season-winter-2024">Winter 2024</label></li>
+						                        <li><input type="checkbox" id="season-winter-2025" name="season[]" value="winter-2025"> <label for="season-winter-2025">Winter 2025</label></li>
+						                        <li><input type="checkbox" id="season-winter-2026" name="season[]" value="winter-2026"> <label for="season-winter-2026">Winter 2026</label></li>
+											</ul>
+				</div>
+                <!-- studio -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Studio <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i> </button>
+					<ul class="dropdown-menu c4 scrollz">
+						                        <li><input type="checkbox" id="studio-100studio" name="studio[]" value="100studio"> <label for="studio-100studio">100studio</label></li>
+						                        <li><input type="checkbox" id="studio-8-bit" name="studio[]" value="8-bit"> <label for="studio-8-bit">8-bit</label></li>
+						                        <li><input type="checkbox" id="studio-8bit" name="studio[]" value="8bit"> <label for="studio-8bit">8bit</label></li>
+						                        <li><input type="checkbox" id="studio-a-1-pictures" name="studio[]" value="a-1-pictures"> <label for="studio-a-1-pictures">A-1 Pictures</label></li>
+						                        <li><input type="checkbox" id="studio-a-real" name="studio[]" value="a-real"> <label for="studio-a-real">A-Real</label></li>
+						                        <li><input type="checkbox" id="studio-a-c-g-t" name="studio[]" value="a-c-g-t"> <label for="studio-a-c-g-t">A.C.G.T.</label></li>
+						                        <li><input type="checkbox" id="studio-actas" name="studio[]" value="actas"> <label for="studio-actas">Actas</label></li>
+						                        <li><input type="checkbox" id="studio-aisle" name="studio[]" value="aisle"> <label for="studio-aisle">Aisle</label></li>
+						                        <li><input type="checkbox" id="studio-ajia-do" name="studio[]" value="ajia-do"> <label for="studio-ajia-do">Ajia-Do</label></li>
+						                        <li><input type="checkbox" id="studio-akatsuki" name="studio[]" value="akatsuki"> <label for="studio-akatsuki">Akatsuki</label></li>
+						                        <li><input type="checkbox" id="studio-alfred-imageworks" name="studio[]" value="alfred-imageworks"> <label for="studio-alfred-imageworks">Alfred Imageworks</label></li>
+						                        <li><input type="checkbox" id="studio-amazon-mgm-studios" name="studio[]" value="amazon-mgm-studios"> <label for="studio-amazon-mgm-studios">Amazon MGM Studios</label></li>
+						                        <li><input type="checkbox" id="studio-amazon-studios" name="studio[]" value="amazon-studios"> <label for="studio-amazon-studios">Amazon Studios</label></li>
+						                        <li><input type="checkbox" id="studio-anima" name="studio[]" value="anima"> <label for="studio-anima">Anima</label></li>
+						                        <li><input type="checkbox" id="studio-animation-studio42" name="studio[]" value="animation-studio42"> <label for="studio-animation-studio42">animation studio42</label></li>
+						                        <li><input type="checkbox" id="studio-arms" name="studio[]" value="arms"> <label for="studio-arms">Arms</label></li>
+						                        <li><input type="checkbox" id="studio-arvo-animation" name="studio[]" value="arvo-animation"> <label for="studio-arvo-animation">Arvo Animation</label></li>
+						                        <li><input type="checkbox" id="studio-asahi-production" name="studio[]" value="asahi-production"> <label for="studio-asahi-production">Asahi Production</label></li>
+						                        <li><input type="checkbox" id="studio-ashi-productions" name="studio[]" value="ashi-productions"> <label for="studio-ashi-productions">Ashi Productions</label></li>
+						                        <li><input type="checkbox" id="studio-asread" name="studio[]" value="asread"> <label for="studio-asread">asread.</label></li>
+						                        <li><input type="checkbox" id="studio-atelier-pontdarc" name="studio[]" value="atelier-pontdarc"> <label for="studio-atelier-pontdarc">Atelier Pontdarc</label></li>
+						                        <li><input type="checkbox" id="studio-atelierpontdarc" name="studio[]" value="atelierpontdarc"> <label for="studio-atelierpontdarc">AtelierPontdarc</label></li>
+						                        <li><input type="checkbox" id="studio-atomic-cartoons" name="studio[]" value="atomic-cartoons"> <label for="studio-atomic-cartoons">Atomic Cartoons</label></li>
+						                        <li><input type="checkbox" id="studio-atorie" name="studio[]" value="atorie"> <label for="studio-atorie">AtoriE</label></li>
+						                        <li><input type="checkbox" id="studio-atra" name="studio[]" value="atra"> <label for="studio-atra">Atra</label></li>
+						                        <li><input type="checkbox" id="studio-aura-studio" name="studio[]" value="aura-studio"> <label for="studio-aura-studio">Aura Studio</label></li>
+						                        <li><input type="checkbox" id="studio-avatar-studios" name="studio[]" value="avatar-studios"> <label for="studio-avatar-studios">Avatar Studios</label></li>
+						                        <li><input type="checkbox" id="studio-axsiz" name="studio[]" value="axsiz"> <label for="studio-axsiz">AXsiZ</label></li>
+						                        <li><input type="checkbox" id="studio-b-cmay-pictures" name="studio[]" value="b-cmay-pictures"> <label for="studio-b-cmay-pictures">B.CMAY PICTURES</label></li>
+						                        <li><input type="checkbox" id="studio-bad-robot-productions" name="studio[]" value="bad-robot-productions"> <label for="studio-bad-robot-productions">Bad Robot Productions</label></li>
+						                        <li><input type="checkbox" id="studio-bakken-record" name="studio[]" value="bakken-record"> <label for="studio-bakken-record">Bakken Record</label></li>
+						                        <li><input type="checkbox" id="studio-bandai-namco-pictures" name="studio[]" value="bandai-namco-pictures"> <label for="studio-bandai-namco-pictures">Bandai Namco Pictures</label></li>
+						                        <li><input type="checkbox" id="studio-bellnox-films" name="studio[]" value="bellnox-films"> <label for="studio-bellnox-films">Bellnox Films</label></li>
+						                        <li><input type="checkbox" id="studio-benten-film" name="studio[]" value="benten-film"> <label for="studio-benten-film">BENTEN Film</label></li>
+						                        <li><input type="checkbox" id="studio-bibury-animation-cg" name="studio[]" value="bibury-animation-cg"> <label for="studio-bibury-animation-cg">Bibury Animation CG</label></li>
+						                        <li><input type="checkbox" id="studio-bibury-animation-studios" name="studio[]" value="bibury-animation-studios"> <label for="studio-bibury-animation-studios">Bibury Animation Studios</label></li>
+						                        <li><input type="checkbox" id="studio-big-firebird-culture" name="studio[]" value="big-firebird-culture"> <label for="studio-big-firebird-culture">Big Firebird Culture</label></li>
+						                        <li><input type="checkbox" id="studio-blade" name="studio[]" value="blade"> <label for="studio-blade">Blade</label></li>
+						                        <li><input type="checkbox" id="studio-bloomz" name="studio[]" value="bloomz"> <label for="studio-bloomz">BloomZ</label></li>
+						                        <li><input type="checkbox" id="studio-blur-studio" name="studio[]" value="blur-studio"> <label for="studio-blur-studio">Blur Studio</label></li>
+						                        <li><input type="checkbox" id="studio-bones" name="studio[]" value="bones"> <label for="studio-bones">Bones</label></li>
+						                        <li><input type="checkbox" id="studio-bones-film" name="studio[]" value="bones-film"> <label for="studio-bones-film">Bones Film</label></li>
+						                        <li><input type="checkbox" id="studio-brains-base" name="studio[]" value="brains-base"> <label for="studio-brains-base">Brain&#039;s Base</label></li>
+						                        <li><input type="checkbox" id="studio-bridge" name="studio[]" value="bridge"> <label for="studio-bridge">Bridge</label></li>
+						                        <li><input type="checkbox" id="studio-bug-films" name="studio[]" value="bug-films"> <label for="studio-bug-films">BUG FILMS</label></li>
+						                        <li><input type="checkbox" id="studio-c-station" name="studio[]" value="c-station"> <label for="studio-c-station">C-Station</label></li>
+						                        <li><input type="checkbox" id="studio-c2c" name="studio[]" value="c2c"> <label for="studio-c2c">C2C</label></li>
+						                        <li><input type="checkbox" id="studio-childrens-playground-entertainment" name="studio[]" value="childrens-playground-entertainment"> <label for="studio-childrens-playground-entertainment">Children&#039;s Playground Entertainment</label></li>
+						                        <li><input type="checkbox" id="studio-clap" name="studio[]" value="clap"> <label for="studio-clap">CLAP</label></li>
+						                        <li><input type="checkbox" id="studio-cloud-hearts" name="studio[]" value="cloud-hearts"> <label for="studio-cloud-hearts">Cloud Hearts</label></li>
+						                        <li><input type="checkbox" id="studio-cloverworks" name="studio[]" value="cloverworks"> <label for="studio-cloverworks">CloverWorks</label></li>
+						                        <li><input type="checkbox" id="studio-cmc-media" name="studio[]" value="cmc-media"> <label for="studio-cmc-media">CMC Media</label></li>
+						                        <li><input type="checkbox" id="studio-colored-pencil-animation" name="studio[]" value="colored-pencil-animation"> <label for="studio-colored-pencil-animation">Colored Pencil Animation</label></li>
+						                        <li><input type="checkbox" id="studio-colored-pencil-animation-japan" name="studio[]" value="colored-pencil-animation-japan"> <label for="studio-colored-pencil-animation-japan">Colored Pencil Animation Japan</label></li>
+						                        <li><input type="checkbox" id="studio-comix-wave-films" name="studio[]" value="comix-wave-films"> <label for="studio-comix-wave-films">CoMix Wave Films</label></li>
+						                        <li><input type="checkbox" id="studio-complete-fiction" name="studio[]" value="complete-fiction"> <label for="studio-complete-fiction">Complete Fiction</label></li>
+						                        <li><input type="checkbox" id="studio-comptown" name="studio[]" value="comptown"> <label for="studio-comptown">CompTown</label></li>
+						                        <li><input type="checkbox" id="studio-connect" name="studio[]" value="connect"> <label for="studio-connect">Connect</label></li>
+						                        <li><input type="checkbox" id="studio-crew-cell" name="studio[]" value="crew-cell"> <label for="studio-crew-cell">Crew Cell</label></li>
+						                        <li><input type="checkbox" id="studio-critical-role-productions" name="studio[]" value="critical-role-productions"> <label for="studio-critical-role-productions">Critical Role Productions</label></li>
+						                        <li><input type="checkbox" id="studio-cue" name="studio[]" value="cue"> <label for="studio-cue">Cue</label></li>
+						                        <li><input type="checkbox" id="studio-cyclone-graphics" name="studio[]" value="cyclone-graphics"> <label for="studio-cyclone-graphics">Cyclone Graphics</label></li>
+						                        <li><input type="checkbox" id="studio-cygamespictures" name="studio[]" value="cygamespictures"> <label for="studio-cygamespictures">CygamesPictures</label></li>
+						                        <li><input type="checkbox" id="studio-cypic" name="studio[]" value="cypic"> <label for="studio-cypic">Cypic</label></li>
+						                        <li><input type="checkbox" id="studio-daily-plan-net" name="studio[]" value="daily-plan-net"> <label for="studio-daily-plan-net">Daily Plan.net</label></li>
+						                        <li><input type="checkbox" id="studio-dandelion-animation-studio" name="studio[]" value="dandelion-animation-studio"> <label for="studio-dandelion-animation-studio">DandeLion Animation Studio</label></li>
+						                        <li><input type="checkbox" id="studio-david-production" name="studio[]" value="david-production"> <label for="studio-david-production">David Production</label></li>
+						                        <li><input type="checkbox" id="studio-digital-network-animation" name="studio[]" value="digital-network-animation"> <label for="studio-digital-network-animation">Digital Network Animation</label></li>
+						                        <li><input type="checkbox" id="studio-diomedea" name="studio[]" value="diomedea"> <label for="studio-diomedea">Diomedéa</label></li>
+						                        <li><input type="checkbox" id="studio-doga-kobo" name="studio[]" value="doga-kobo"> <label for="studio-doga-kobo">Doga Kobo</label></li>
+						                        <li><input type="checkbox" id="studio-domerica" name="studio[]" value="domerica"> <label for="studio-domerica">domerica</label></li>
+						                        <li><input type="checkbox" id="studio-dr-movie" name="studio[]" value="dr-movie"> <label for="studio-dr-movie">DR Movie</label></li>
+						                        <li><input type="checkbox" id="studio-dreamworks-animation" name="studio[]" value="dreamworks-animation"> <label for="studio-dreamworks-animation">DreamWorks Animation</label></li>
+						                        <li><input type="checkbox" id="studio-dreamworks-animation-television" name="studio[]" value="dreamworks-animation-television"> <label for="studio-dreamworks-animation-television">DreamWorks Animation Television</label></li>
+						                        <li><input type="checkbox" id="studio-drive" name="studio[]" value="drive"> <label for="studio-drive">Drive</label></li>
+						                        <li><input type="checkbox" id="studio-dwarf" name="studio[]" value="dwarf"> <label for="studio-dwarf">dwarf</label></li>
+						                        <li><input type="checkbox" id="studio-eh-production" name="studio[]" value="eh-production"> <label for="studio-eh-production">E&amp;H Production</label></li>
+						                        <li><input type="checkbox" id="studio-east-fish-studio" name="studio[]" value="east-fish-studio"> <label for="studio-east-fish-studio">East Fish Studio</label></li>
+						                        <li><input type="checkbox" id="studio-electric-circus" name="studio[]" value="electric-circus"> <label for="studio-electric-circus">Electric Circus</label></li>
+						                        <li><input type="checkbox" id="studio-elias" name="studio[]" value="elias"> <label for="studio-elias">Elias</label></li>
+						                        <li><input type="checkbox" id="studio-emt-squared" name="studio[]" value="emt-squared"> <label for="studio-emt-squared">EMT Squared</label></li>
+						                        <li><input type="checkbox" id="studio-encourage-films" name="studio[]" value="encourage-films"> <label for="studio-encourage-films">Encourage Films</label></li>
+						                        <li><input type="checkbox" id="studio-engi" name="studio[]" value="engi"> <label for="studio-engi">ENGI</label></li>
+						                        <li><input type="checkbox" id="studio-enishiya" name="studio[]" value="enishiya"> <label for="studio-enishiya">Enishiya</label></li>
+						                        <li><input type="checkbox" id="studio-eota" name="studio[]" value="eota"> <label for="studio-eota">EOTA</label></li>
+						                        <li><input type="checkbox" id="studio-feel" name="studio[]" value="feel"> <label for="studio-feel">feel.</label></li>
+						                        <li><input type="checkbox" id="studio-felix-film" name="studio[]" value="felix-film"> <label for="studio-felix-film">Felix Film</label></li>
+						                        <li><input type="checkbox" id="studio-flagship-line" name="studio[]" value="flagship-line"> <label for="studio-flagship-line">FLAGSHIP LINE</label></li>
+						                        <li><input type="checkbox" id="studio-flat-studio" name="studio[]" value="flat-studio"> <label for="studio-flat-studio">Flat Studio</label></li>
+						                        <li><input type="checkbox" id="studio-flint-sugar" name="studio[]" value="flint-sugar"> <label for="studio-flint-sugar">Flint Sugar</label></li>
+						                        <li><input type="checkbox" id="studio-flixzilla-aura" name="studio[]" value="flixzilla-aura"> <label for="studio-flixzilla-aura">Flixzilla Aura</label></li>
+						                        <li><input type="checkbox" id="studio-fortiche-production" name="studio[]" value="fortiche-production"> <label for="studio-fortiche-production">Fortiche Production</label></li>
+						                        <li><input type="checkbox" id="studio-fugaku" name="studio[]" value="fugaku"> <label for="studio-fugaku">Fugaku</label></li>
+						                        <li><input type="checkbox" id="studio-ga-crew" name="studio[]" value="ga-crew"> <label for="studio-ga-crew">Ga-Crew</label></li>
+						                        <li><input type="checkbox" id="studio-gaina" name="studio[]" value="gaina"> <label for="studio-gaina">Gaina</label></li>
+						                        <li><input type="checkbox" id="studio-geek-toys" name="studio[]" value="geek-toys"> <label for="studio-geek-toys">GEEK TOYS</label></li>
+						                        <li><input type="checkbox" id="studio-gekkou" name="studio[]" value="gekkou"> <label for="studio-gekkou">Gekkou</label></li>
+						                        <li><input type="checkbox" id="studio-geno-studio" name="studio[]" value="geno-studio"> <label for="studio-geno-studio">Geno Studio</label></li>
+						                        <li><input type="checkbox" id="studio-geyeg-pictures" name="studio[]" value="geyeg-pictures"> <label for="studio-geyeg-pictures">GeyeG Pictures</label></li>
+						                        <li><input type="checkbox" id="studio-gohands" name="studio[]" value="gohands"> <label for="studio-gohands">GoHands</label></li>
+						                        <li><input type="checkbox" id="studio-gonzo" name="studio[]" value="gonzo"> <label for="studio-gonzo">Gonzo</label></li>
+						                        <li><input type="checkbox" id="studio-graphinica" name="studio[]" value="graphinica"> <label for="studio-graphinica">Graphinica</label></li>
+						                        <li><input type="checkbox" id="studio-grass" name="studio[]" value="grass"> <label for="studio-grass">Grass</label></li>
+						                        <li><input type="checkbox" id="studio-gravity-well" name="studio[]" value="gravity-well"> <label for="studio-gravity-well">Gravity Well</label></li>
+						                        <li><input type="checkbox" id="studio-group-tac" name="studio[]" value="group-tac"> <label for="studio-group-tac">Group TAC</label></li>
+						                        <li><input type="checkbox" id="studio-harmonius-claptrap" name="studio[]" value="harmonius-claptrap"> <label for="studio-harmonius-claptrap">Harmonius Claptrap</label></li>
+						                        <li><input type="checkbox" id="studio-hayabusa-film" name="studio[]" value="hayabusa-film"> <label for="studio-hayabusa-film">Hayabusa Film</label></li>
+						                        <li><input type="checkbox" id="studio-heart-soul-animation" name="studio[]" value="heart-soul-animation"> <label for="studio-heart-soul-animation">Heart &amp; Soul Animation</label></li>
+						                        <li><input type="checkbox" id="studio-hivemind" name="studio[]" value="hivemind"> <label for="studio-hivemind">Hivemind</label></li>
+						                        <li><input type="checkbox" id="studio-hornets" name="studio[]" value="hornets"> <label for="studio-hornets">HORNETS</label></li>
+						                        <li><input type="checkbox" id="studio-hs-pictures-studio" name="studio[]" value="hs-pictures-studio"> <label for="studio-hs-pictures-studio">HS Pictures Studio</label></li>
+						                        <li><input type="checkbox" id="studio-igloo-studio" name="studio[]" value="igloo-studio"> <label for="studio-igloo-studio">IGLOO STUDIO</label></li>
+						                        <li><input type="checkbox" id="studio-image-comics" name="studio[]" value="image-comics"> <label for="studio-image-comics">Image Comics</label></li>
+						                        <li><input type="checkbox" id="studio-imageworks-studio" name="studio[]" value="imageworks-studio"> <label for="studio-imageworks-studio">Imageworks Studio</label></li>
+						                        <li><input type="checkbox" id="studio-imagica-infos" name="studio[]" value="imagica-infos"> <label for="studio-imagica-infos">Imagica Infos</label></li>
+						                        <li><input type="checkbox" id="studio-j-c-staff" name="studio[]" value="j-c-staff"> <label for="studio-j-c-staff">J.C.Staff</label></li>
+						                        <li><input type="checkbox" id="studio-jumondo" name="studio[]" value="jumondo"> <label for="studio-jumondo">Jumondo</label></li>
+						                        <li><input type="checkbox" id="studio-jumondou" name="studio[]" value="jumondou"> <label for="studio-jumondou">Jumondou</label></li>
+						                        <li><input type="checkbox" id="studio-juvenage" name="studio[]" value="juvenage"> <label for="studio-juvenage">Juvenage</label></li>
+						                        <li><input type="checkbox" id="studio-kachigarasu" name="studio[]" value="kachigarasu"> <label for="studio-kachigarasu">Kachigarasu</label></li>
+						                        <li><input type="checkbox" id="studio-kaka-technology-studio" name="studio[]" value="kaka-technology-studio"> <label for="studio-kaka-technology-studio">KaKa Technology Studio</label></li>
+						                        <li><input type="checkbox" id="studio-kamikaze-douga" name="studio[]" value="kamikaze-douga"> <label for="studio-kamikaze-douga">Kamikaze Douga</label></li>
+						                        <li><input type="checkbox" id="studio-kayac-animation" name="studio[]" value="kayac-animation"> <label for="studio-kayac-animation">Kayac Animation</label></li>
+						                        <li><input type="checkbox" id="studio-khara" name="studio[]" value="khara"> <label for="studio-khara">Khara</label></li>
+						                        <li><input type="checkbox" id="studio-kinema-citrus" name="studio[]" value="kinema-citrus"> <label for="studio-kinema-citrus">Kinema Citrus</label></li>
+						                        <li><input type="checkbox" id="studio-konami-animation" name="studio[]" value="konami-animation"> <label for="studio-konami-animation">KONAMI animation</label></li>
+						                        <li><input type="checkbox" id="studio-kyoto-animation" name="studio[]" value="kyoto-animation"> <label for="studio-kyoto-animation">Kyoto Animation</label></li>
+						                        <li><input type="checkbox" id="studio-lan-studio" name="studio[]" value="lan-studio"> <label for="studio-lan-studio">LAN Studio</label></li>
+						                        <li><input type="checkbox" id="studio-landq-studios" name="studio[]" value="landq-studios"> <label for="studio-landq-studios">LandQ studios</label></li>
+						                        <li><input type="checkbox" id="studio-lapin-track" name="studio[]" value="lapin-track"> <label for="studio-lapin-track">Lapin Track</label></li>
+						                        <li><input type="checkbox" id="studio-larx-entertainment" name="studio[]" value="larx-entertainment"> <label for="studio-larx-entertainment">Larx Entertainment</label></li>
+						                        <li><input type="checkbox" id="studio-lay-duce" name="studio[]" value="lay-duce"> <label for="studio-lay-duce">Lay-duce</label></li>
+						                        <li><input type="checkbox" id="studio-lerche" name="studio[]" value="lerche"> <label for="studio-lerche">Lerche</label></li>
+						                        <li><input type="checkbox" id="studio-lesprit" name="studio[]" value="lesprit"> <label for="studio-lesprit">Lesprit</label></li>
+						                        <li><input type="checkbox" id="studio-liber" name="studio[]" value="liber"> <label for="studio-liber">Liber</label></li>
+						                        <li><input type="checkbox" id="studio-lidenfilms" name="studio[]" value="lidenfilms"> <label for="studio-lidenfilms">LIDENFILMS</label></li>
+						                        <li><input type="checkbox" id="studio-linq" name="studio[]" value="linq"> <label for="studio-linq">LinQ</label></li>
+						                        <li><input type="checkbox" id="studio-locus-corporation" name="studio[]" value="locus-corporation"> <label for="studio-locus-corporation">Locus Corporation</label></li>
+						                        <li><input type="checkbox" id="studio-m-s-c" name="studio[]" value="m-s-c"> <label for="studio-m-s-c">M.S.C</label></li>
+						                        <li><input type="checkbox" id="studio-madhouse" name="studio[]" value="madhouse"> <label for="studio-madhouse">Madhouse</label></li>
+						                        <li><input type="checkbox" id="studio-magic-bus" name="studio[]" value="magic-bus"> <label for="studio-magic-bus">Magic Bus</label></li>
+						                        <li><input type="checkbox" id="studio-maho-film" name="studio[]" value="maho-film"> <label for="studio-maho-film">Maho Film</label></li>
+						                        <li><input type="checkbox" id="studio-makaria" name="studio[]" value="makaria"> <label for="studio-makaria">Makaria</label></li>
+						                        <li><input type="checkbox" id="studio-mappa" name="studio[]" value="mappa"> <label for="studio-mappa">MAPPA</label></li>
+						                        <li><input type="checkbox" id="studio-marc-platt-productions" name="studio[]" value="marc-platt-productions"> <label for="studio-marc-platt-productions">Marc Platt Productions</label></li>
+						                        <li><input type="checkbox" id="studio-maru-animation" name="studio[]" value="maru-animation"> <label for="studio-maru-animation">Maru Animation</label></li>
+						                        <li><input type="checkbox" id="studio-marvy-jack" name="studio[]" value="marvy-jack"> <label for="studio-marvy-jack">Marvy Jack</label></li>
+						                        <li><input type="checkbox" id="studio-metapigeon" name="studio[]" value="metapigeon"> <label for="studio-metapigeon">Metapigeon</label></li>
+						                        <li><input type="checkbox" id="studio-millepensee" name="studio[]" value="millepensee"> <label for="studio-millepensee">Millepensee</label></li>
+						                        <li><input type="checkbox" id="studio-monofilmo" name="studio[]" value="monofilmo"> <label for="studio-monofilmo">monofilmo</label></li>
+						                        <li><input type="checkbox" id="studio-montblanc-pictures" name="studio[]" value="montblanc-pictures"> <label for="studio-montblanc-pictures">MontBlanc Pictures</label></li>
+						                        <li><input type="checkbox" id="studio-naz" name="studio[]" value="naz"> <label for="studio-naz">NAZ</label></li>
+						                        <li><input type="checkbox" id="studio-netflix-studios" name="studio[]" value="netflix-studios"> <label for="studio-netflix-studios">Netflix Studios</label></li>
+						                        <li><input type="checkbox" id="studio-newon" name="studio[]" value="newon"> <label for="studio-newon">Newon</label></li>
+						                        <li><input type="checkbox" id="studio-nexus" name="studio[]" value="nexus"> <label for="studio-nexus">Nexus</label></li>
+						                        <li><input type="checkbox" id="studio-nichicaline" name="studio[]" value="nichicaline"> <label for="studio-nichicaline">Nichicaline</label></li>
+						                        <li><input type="checkbox" id="studio-nickelodeon-animation-studios" name="studio[]" value="nickelodeon-animation-studios"> <label for="studio-nickelodeon-animation-studios">Nickelodeon Animation Studios</label></li>
+						                        <li><input type="checkbox" id="studio-nippon-animation" name="studio[]" value="nippon-animation"> <label for="studio-nippon-animation">Nippon Animation</label></li>
+						                        <li><input type="checkbox" id="studio-nomad" name="studio[]" value="nomad"> <label for="studio-nomad">Nomad</label></li>
+						                        <li><input type="checkbox" id="studio-nut" name="studio[]" value="nut"> <label for="studio-nut">Nut</label></li>
+						                        <li><input type="checkbox" id="studio-nyan-pollution" name="studio[]" value="nyan-pollution"> <label for="studio-nyan-pollution">Nyan Pollution</label></li>
+						                        <li><input type="checkbox" id="studio-nyan-pollution-%cf%89" name="studio[]" value="nyan-pollution-%cf%89"> <label for="studio-nyan-pollution-%cf%89">Nyan Pollution-ω-</label></li>
+						                        <li><input type="checkbox" id="studio-okuruto-noboru" name="studio[]" value="okuruto-noboru"> <label for="studio-okuruto-noboru">Okuruto Noboru</label></li>
+						                        <li><input type="checkbox" id="studio-olm" name="studio[]" value="olm"> <label for="studio-olm">OLM</label></li>
+						                        <li><input type="checkbox" id="studio-olm-team-yoshioka" name="studio[]" value="olm-team-yoshioka"> <label for="studio-olm-team-yoshioka">OLM Team Yoshioka</label></li>
+						                        <li><input type="checkbox" id="studio-orange" name="studio[]" value="orange"> <label for="studio-orange">Orange</label></li>
+						                        <li><input type="checkbox" id="studio-outline" name="studio[]" value="outline"> <label for="studio-outline">OUTLINE</label></li>
+						                        <li><input type="checkbox" id="studio-oz" name="studio[]" value="oz"> <label for="studio-oz">OZ</label></li>
+						                        <li><input type="checkbox" id="studio-p-a-works" name="studio[]" value="p-a-works"> <label for="studio-p-a-works">P.A. Works</label></li>
+						                        <li><input type="checkbox" id="studio-p-i-c-s" name="studio[]" value="p-i-c-s"> <label for="studio-p-i-c-s">P.I.C.S.</label></li>
+						                        <li><input type="checkbox" id="studio-paper-plane-animation-studio" name="studio[]" value="paper-plane-animation-studio"> <label for="studio-paper-plane-animation-studio">Paper Plane Animation Studio</label></li>
+						                        <li><input type="checkbox" id="studio-passione" name="studio[]" value="passione"> <label for="studio-passione">Passione</label></li>
+						                        <li><input type="checkbox" id="studio-pb-animation-co-ltd" name="studio[]" value="pb-animation-co-ltd"> <label for="studio-pb-animation-co-ltd">Pb Animation Co. Ltd.</label></li>
+						                        <li><input type="checkbox" id="studio-picante-circus" name="studio[]" value="picante-circus"> <label for="studio-picante-circus">Picante Circus</label></li>
+						                        <li><input type="checkbox" id="studio-pierrot" name="studio[]" value="pierrot"> <label for="studio-pierrot">Pierrot</label></li>
+						                        <li><input type="checkbox" id="studio-pierrot-films" name="studio[]" value="pierrot-films"> <label for="studio-pierrot-films">Pierrot Films</label></li>
+						                        <li><input type="checkbox" id="studio-pine-jam" name="studio[]" value="pine-jam"> <label for="studio-pine-jam">Pine Jam</label></li>
+						                        <li><input type="checkbox" id="studio-platinum-vision" name="studio[]" value="platinum-vision"> <label for="studio-platinum-vision">Platinum Vision</label></li>
+						                        <li><input type="checkbox" id="studio-polygon-pictures" name="studio[]" value="polygon-pictures"> <label for="studio-polygon-pictures">Polygon Pictures</label></li>
+						                        <li><input type="checkbox" id="studio-pra" name="studio[]" value="pra"> <label for="studio-pra">PRA</label></li>
+						                        <li><input type="checkbox" id="studio-production-h" name="studio[]" value="production-h"> <label for="studio-production-h">Production +h.</label></li>
+						                        <li><input type="checkbox" id="studio-production-i-g" name="studio[]" value="production-i-g"> <label for="studio-production-i-g">Production I.G</label></li>
+						                        <li><input type="checkbox" id="studio-project-51-productions" name="studio[]" value="project-51-productions"> <label for="studio-project-51-productions">Project 51 Productions</label></li>
+						                        <li><input type="checkbox" id="studio-project-no-9" name="studio[]" value="project-no-9"> <label for="studio-project-no-9">Project No.9</label></li>
+						                        <li><input type="checkbox" id="studio-psyde-kick-studio" name="studio[]" value="psyde-kick-studio"> <label for="studio-psyde-kick-studio">Psyde Kick Studio</label></li>
+						                        <li><input type="checkbox" id="studio-quad" name="studio[]" value="quad"> <label for="studio-quad">Quad</label></li>
+						                        <li><input type="checkbox" id="studio-qzil-la" name="studio[]" value="qzil-la"> <label for="studio-qzil-la">Qzil.la</label></li>
+						                        <li><input type="checkbox" id="studio-raiose" name="studio[]" value="raiose"> <label for="studio-raiose">Raiose</label></li>
+						                        <li><input type="checkbox" id="studio-reirs" name="studio[]" value="reirs"> <label for="studio-reirs">Reirs</label></li>
+						                        <li><input type="checkbox" id="studio-revoroot" name="studio[]" value="revoroot"> <label for="studio-revoroot">Revoroot</label></li>
+						                        <li><input type="checkbox" id="studio-riot-games" name="studio[]" value="riot-games"> <label for="studio-riot-games">Riot Games</label></li>
+						                        <li><input type="checkbox" id="studio-rockn-roll-mountain" name="studio[]" value="rockn-roll-mountain"> <label for="studio-rockn-roll-mountain">Rock&#039;n Roll Mountain</label></li>
+						                        <li><input type="checkbox" id="studio-roll2" name="studio[]" value="roll2"> <label for="studio-roll2">ROLL2</label></li>
+						                        <li><input type="checkbox" id="studio-s-o-k" name="studio[]" value="s-o-k"> <label for="studio-s-o-k">S.o.K</label></li>
+						                        <li><input type="checkbox" id="studio-saber-works" name="studio[]" value="saber-works"> <label for="studio-saber-works">Saber Works</label></li>
+						                        <li><input type="checkbox" id="studio-safehouse-inc" name="studio[]" value="safehouse-inc"> <label for="studio-safehouse-inc">SAFEHOUSE Inc.</label></li>
+						                        <li><input type="checkbox" id="studio-sanzigen" name="studio[]" value="sanzigen"> <label for="studio-sanzigen">SANZIGEN</label></li>
+						                        <li><input type="checkbox" id="studio-sasayuri" name="studio[]" value="sasayuri"> <label for="studio-sasayuri">Sasayuri</label></li>
+						                        <li><input type="checkbox" id="studio-satelight" name="studio[]" value="satelight"> <label for="studio-satelight">Satelight</label></li>
+						                        <li><input type="checkbox" id="studio-scholastic-entertainment" name="studio[]" value="scholastic-entertainment"> <label for="studio-scholastic-entertainment">Scholastic Entertainment</label></li>
+						                        <li><input type="checkbox" id="studio-science-saru" name="studio[]" value="science-saru"> <label for="studio-science-saru">Science SARU</label></li>
+						                        <li><input type="checkbox" id="studio-scooter-films" name="studio[]" value="scooter-films"> <label for="studio-scooter-films">Scooter Films</label></li>
+						                        <li><input type="checkbox" id="studio-seven" name="studio[]" value="seven"> <label for="studio-seven">Seven</label></li>
+						                        <li><input type="checkbox" id="studio-seven-arcs" name="studio[]" value="seven-arcs"> <label for="studio-seven-arcs">Seven Arcs</label></li>
+						                        <li><input type="checkbox" id="studio-shaft" name="studio[]" value="shaft"> <label for="studio-shaft">Shaft</label></li>
+						                        <li><input type="checkbox" id="studio-shin-ei-animation" name="studio[]" value="shin-ei-animation"> <label for="studio-shin-ei-animation">Shin-Ei Animation</label></li>
+						                        <li><input type="checkbox" id="studio-shirogumi" name="studio[]" value="shirogumi"> <label for="studio-shirogumi">Shirogumi</label></li>
+						                        <li><input type="checkbox" id="studio-shogakukan-music-digital-entertainment" name="studio[]" value="shogakukan-music-digital-entertainment"> <label for="studio-shogakukan-music-digital-entertainment">Shogakukan Music &amp; Digital Entertainment</label></li>
+						                        <li><input type="checkbox" id="studio-shueisha" name="studio[]" value="shueisha"> <label for="studio-shueisha">Shueisha</label></li>
+						                        <li><input type="checkbox" id="studio-shuka" name="studio[]" value="shuka"> <label for="studio-shuka">Shuka</label></li>
+						                        <li><input type="checkbox" id="studio-signal-md" name="studio[]" value="signal-md"> <label for="studio-signal-md">Signal.MD</label></li>
+						                        <li><input type="checkbox" id="studio-silver" name="studio[]" value="silver"> <label for="studio-silver">Silver</label></li>
+						                        <li><input type="checkbox" id="studio-silver-link" name="studio[]" value="silver-link"> <label for="studio-silver-link">SILVER LINK.</label></li>
+						                        <li><input type="checkbox" id="studio-skybound-entertainment" name="studio[]" value="skybound-entertainment"> <label for="studio-skybound-entertainment">Skybound Entertainment</label></li>
+						                        <li><input type="checkbox" id="studio-so-do-creative" name="studio[]" value="so-do-creative"> <label for="studio-so-do-creative">SO-DO Creative</label></li>
+						                        <li><input type="checkbox" id="studio-soigne" name="studio[]" value="soigne"> <label for="studio-soigne">Soigne</label></li>
+						                        <li><input type="checkbox" id="studio-sola-entertainment" name="studio[]" value="sola-entertainment"> <label for="studio-sola-entertainment">Sola Entertainment</label></li>
+						                        <li><input type="checkbox" id="studio-sotsu" name="studio[]" value="sotsu"> <label for="studio-sotsu">Sotsu</label></li>
+						                        <li><input type="checkbox" id="studio-space-neko-company" name="studio[]" value="space-neko-company"> <label for="studio-space-neko-company">Space Neko Company</label></li>
+						                        <li><input type="checkbox" id="studio-staple-entertainment" name="studio[]" value="staple-entertainment"> <label for="studio-staple-entertainment">Staple Entertainment</label></li>
+						                        <li><input type="checkbox" id="studio-starburns-industries" name="studio[]" value="starburns-industries"> <label for="studio-starburns-industries">Starburns Industries</label></li>
+						                        <li><input type="checkbox" id="studio-studio-3hz" name="studio[]" value="studio-3hz"> <label for="studio-studio-3hz">Studio 3Hz</label></li>
+						                        <li><input type="checkbox" id="studio-studio-4c" name="studio[]" value="studio-4c"> <label for="studio-studio-4c">Studio 4°C</label></li>
+						                        <li><input type="checkbox" id="studio-studio-a-cat" name="studio[]" value="studio-a-cat"> <label for="studio-studio-a-cat">Studio A-CAT</label></li>
+						                        <li><input type="checkbox" id="studio-studio-add" name="studio[]" value="studio-add"> <label for="studio-studio-add">Studio Add</label></li>
+						                        <li><input type="checkbox" id="studio-studio-bind" name="studio[]" value="studio-bind"> <label for="studio-studio-bind">Studio Bind</label></li>
+						                        <li><input type="checkbox" id="studio-studio-blanc" name="studio[]" value="studio-blanc"> <label for="studio-studio-blanc">Studio Blanc</label></li>
+						                        <li><input type="checkbox" id="studio-studio-candy-box" name="studio[]" value="studio-candy-box"> <label for="studio-studio-candy-box">Studio CANDY BOX</label></li>
+						                        <li><input type="checkbox" id="studio-studio-chizu" name="studio[]" value="studio-chizu"> <label for="studio-studio-chizu">Studio Chizu</label></li>
+						                        <li><input type="checkbox" id="studio-studio-chromato" name="studio[]" value="studio-chromato"> <label for="studio-studio-chromato">Studio Chromato</label></li>
+						                        <li><input type="checkbox" id="studio-studio-clutch" name="studio[]" value="studio-clutch"> <label for="studio-studio-clutch">Studio Clutch</label></li>
+						                        <li><input type="checkbox" id="studio-studio-colorido" name="studio[]" value="studio-colorido"> <label for="studio-studio-colorido">Studio Colorido</label></li>
+						                        <li><input type="checkbox" id="studio-studio-comet" name="studio[]" value="studio-comet"> <label for="studio-studio-comet">Studio Comet</label></li>
+						                        <li><input type="checkbox" id="studio-studio-deen" name="studio[]" value="studio-deen"> <label for="studio-studio-deen">Studio Deen</label></li>
+						                        <li><input type="checkbox" id="studio-studio-durian" name="studio[]" value="studio-durian"> <label for="studio-studio-durian">Studio DURIAN</label></li>
+						                        <li><input type="checkbox" id="studio-studio-eek" name="studio[]" value="studio-eek"> <label for="studio-studio-eek">Studio Eek</label></li>
+						                        <li><input type="checkbox" id="studio-studio-elle" name="studio[]" value="studio-elle"> <label for="studio-studio-elle">Studio Elle</label></li>
+						                        <li><input type="checkbox" id="studio-studio-flad" name="studio[]" value="studio-flad"> <label for="studio-studio-flad">Studio Flad</label></li>
+						                        <li><input type="checkbox" id="studio-studio-ghibli" name="studio[]" value="studio-ghibli"> <label for="studio-studio-ghibli">Studio Ghibli</label></li>
+						                        <li><input type="checkbox" id="studio-studio-gokumi" name="studio[]" value="studio-gokumi"> <label for="studio-studio-gokumi">Studio Gokumi</label></li>
+						                        <li><input type="checkbox" id="studio-studio-graph77" name="studio[]" value="studio-graph77"> <label for="studio-studio-graph77">Studio Graph77</label></li>
+						                        <li><input type="checkbox" id="studio-studio-hibari" name="studio[]" value="studio-hibari"> <label for="studio-studio-hibari">Studio Hibari</label></li>
+						                        <li><input type="checkbox" id="studio-studio-hokiboshi" name="studio[]" value="studio-hokiboshi"> <label for="studio-studio-hokiboshi">Studio Hokiboshi</label></li>
+						                        <li><input type="checkbox" id="studio-studio-kafka" name="studio[]" value="studio-kafka"> <label for="studio-studio-kafka">Studio Kafka</label></li>
+						                        <li><input type="checkbox" id="studio-studio-kai" name="studio[]" value="studio-kai"> <label for="studio-studio-kai">Studio Kai</label></li>
+						                        <li><input type="checkbox" id="studio-studio-lan" name="studio[]" value="studio-lan"> <label for="studio-studio-lan">Studio LAN</label></li>
+						                        <li><input type="checkbox" id="studio-studio-leo" name="studio[]" value="studio-leo"> <label for="studio-studio-leo">Studio LEO</label></li>
+						                        <li><input type="checkbox" id="studio-studio-lings" name="studio[]" value="studio-lings"> <label for="studio-studio-lings">Studio Lings</label></li>
+						                        <li><input type="checkbox" id="studio-studio-m2" name="studio[]" value="studio-m2"> <label for="studio-studio-m2">Studio M2</label></li>
+						                        <li><input type="checkbox" id="studio-studio-massket" name="studio[]" value="studio-massket"> <label for="studio-studio-massket">Studio Massket</label></li>
+						                        <li><input type="checkbox" id="studio-studio-mir" name="studio[]" value="studio-mir"> <label for="studio-studio-mir">Studio Mir</label></li>
+						                        <li><input type="checkbox" id="studio-studio-moe" name="studio[]" value="studio-moe"> <label for="studio-studio-moe">Studio Moe</label></li>
+						                        <li><input type="checkbox" id="studio-studio-mother" name="studio[]" value="studio-mother"> <label for="studio-studio-mother">studio MOTHER</label></li>
+						                        <li><input type="checkbox" id="studio-studio-palette" name="studio[]" value="studio-palette"> <label for="studio-studio-palette">Studio Palette</label></li>
+						                        <li><input type="checkbox" id="studio-studio-pierrot" name="studio[]" value="studio-pierrot"> <label for="studio-studio-pierrot">Studio Pierrot</label></li>
+						                        <li><input type="checkbox" id="studio-studio-polon" name="studio[]" value="studio-polon"> <label for="studio-studio-polon">Studio Polon</label></li>
+						                        <li><input type="checkbox" id="studio-studio-puyukai" name="studio[]" value="studio-puyukai"> <label for="studio-studio-puyukai">Studio PuYUKAI</label></li>
+						                        <li><input type="checkbox" id="studio-studio-signpost" name="studio[]" value="studio-signpost"> <label for="studio-studio-signpost">Studio Signpost</label></li>
+						                        <li><input type="checkbox" id="studio-studio-tumble" name="studio[]" value="studio-tumble"> <label for="studio-studio-tumble">Studio Tumble</label></li>
+						                        <li><input type="checkbox" id="studio-studio-voln" name="studio[]" value="studio-voln"> <label for="studio-studio-voln">Studio VOLN</label></li>
+						                        <li><input type="checkbox" id="studio-sublimation" name="studio[]" value="sublimation"> <label for="studio-sublimation">Sublimation</label></li>
+						                        <li><input type="checkbox" id="studio-sunrise" name="studio[]" value="sunrise"> <label for="studio-sunrise">Sunrise</label></li>
+						                        <li><input type="checkbox" id="studio-sunrise-beyond" name="studio[]" value="sunrise-beyond"> <label for="studio-sunrise-beyond">Sunrise Beyond</label></li>
+						                        <li><input type="checkbox" id="studio-synergysp" name="studio[]" value="synergysp"> <label for="studio-synergysp">SynergySP</label></li>
+						                        <li><input type="checkbox" id="studio-tatsunoko-production" name="studio[]" value="tatsunoko-production"> <label for="studio-tatsunoko-production">Tatsunoko Production</label></li>
+						                        <li><input type="checkbox" id="studio-team-oneone" name="studio[]" value="team-oneone"> <label for="studio-team-oneone">Team OneOne</label></li>
+						                        <li><input type="checkbox" id="studio-team-yamahitsuji" name="studio[]" value="team-yamahitsuji"> <label for="studio-team-yamahitsuji">team Yamahitsuji</label></li>
+						                        <li><input type="checkbox" id="studio-teddy" name="studio[]" value="teddy"> <label for="studio-teddy">Teddy</label></li>
+						                        <li><input type="checkbox" id="studio-telecom-animation-film" name="studio[]" value="telecom-animation-film"> <label for="studio-telecom-animation-film">Telecom Animation Film</label></li>
+						                        <li><input type="checkbox" id="studio-tezuka-productions" name="studio[]" value="tezuka-productions"> <label for="studio-tezuka-productions">Tezuka Productions</label></li>
+						                        <li><input type="checkbox" id="studio-the-answer-studio" name="studio[]" value="the-answer-studio"> <label for="studio-the-answer-studio">The Answer Studio</label></li>
+						                        <li><input type="checkbox" id="studio-the-lego-group" name="studio[]" value="the-lego-group"> <label for="studio-the-lego-group">The Lego Group</label></li>
+						                        <li><input type="checkbox" id="studio-thundray" name="studio[]" value="thundray"> <label for="studio-thundray">Thundray</label></li>
+						                        <li><input type="checkbox" id="studio-tms-entertainment" name="studio[]" value="tms-entertainment"> <label for="studio-tms-entertainment">TMS Entertainment</label></li>
+						                        <li><input type="checkbox" id="studio-tnk" name="studio[]" value="tnk"> <label for="studio-tnk">TNK</label></li>
+						                        <li><input type="checkbox" id="studio-toei-animation" name="studio[]" value="toei-animation"> <label for="studio-toei-animation">Toei Animation</label></li>
+						                        <li><input type="checkbox" id="studio-toho-animation-studio" name="studio[]" value="toho-animation-studio"> <label for="studio-toho-animation-studio">TOHO animation STUDIO</label></li>
+						                        <li><input type="checkbox" id="studio-trif-studio" name="studio[]" value="trif-studio"> <label for="studio-trif-studio">TriF Studio</label></li>
+						                        <li><input type="checkbox" id="studio-trigger" name="studio[]" value="trigger"> <label for="studio-trigger">Trigger</label></li>
+						                        <li><input type="checkbox" id="studio-troyca" name="studio[]" value="troyca"> <label for="studio-troyca">TROYCA</label></li>
+						                        <li><input type="checkbox" id="studio-tsumugi-akita-animation-lab" name="studio[]" value="tsumugi-akita-animation-lab"> <label for="studio-tsumugi-akita-animation-lab">Tsumugi Akita Animation Lab</label></li>
+						                        <li><input type="checkbox" id="studio-typhoon-graphics" name="studio[]" value="typhoon-graphics"> <label for="studio-typhoon-graphics">Typhoon Graphics</label></li>
+						                        <li><input type="checkbox" id="studio-ufotable" name="studio[]" value="ufotable"> <label for="studio-ufotable">ufotable</label></li>
+						                        <li><input type="checkbox" id="studio-unend" name="studio[]" value="unend"> <label for="studio-unend">Unend</label></li>
+						                        <li><input type="checkbox" id="studio-uwan-pictures" name="studio[]" value="uwan-pictures"> <label for="studio-uwan-pictures">UWAN Pictures</label></li>
+						                        <li><input type="checkbox" id="studio-vega-entertainment" name="studio[]" value="vega-entertainment"> <label for="studio-vega-entertainment">Vega Entertainment</label></li>
+						                        <li><input type="checkbox" id="studio-voil" name="studio[]" value="voil"> <label for="studio-voil">Voil</label></li>
+						                        <li><input type="checkbox" id="studio-walt-disney-animation-studios" name="studio[]" value="walt-disney-animation-studios"> <label for="studio-walt-disney-animation-studios">Walt Disney Animation Studios</label></li>
+						                        <li><input type="checkbox" id="studio-wao-world" name="studio[]" value="wao-world"> <label for="studio-wao-world">WAO World</label></li>
+						                        <li><input type="checkbox" id="studio-white-fox" name="studio[]" value="white-fox"> <label for="studio-white-fox">White Fox</label></li>
+						                        <li><input type="checkbox" id="studio-williams-street" name="studio[]" value="williams-street"> <label for="studio-williams-street">Williams Street</label></li>
+						                        <li><input type="checkbox" id="studio-wit-studio" name="studio[]" value="wit-studio"> <label for="studio-wit-studio">Wit Studio</label></li>
+						                        <li><input type="checkbox" id="studio-wolfsbane" name="studio[]" value="wolfsbane"> <label for="studio-wolfsbane">Wolfsbane</label></li>
+						                        <li><input type="checkbox" id="studio-wonderland" name="studio[]" value="wonderland"> <label for="studio-wonderland">WonderLand</label></li>
+						                        <li><input type="checkbox" id="studio-xebec" name="studio[]" value="xebec"> <label for="studio-xebec">Xebec</label></li>
+						                        <li><input type="checkbox" id="studio-yokohama-animation-lab" name="studio[]" value="yokohama-animation-lab"> <label for="studio-yokohama-animation-lab">Yokohama Animation Lab</label></li>
+						                        <li><input type="checkbox" id="studio-yokohama-animation-laboratory" name="studio[]" value="yokohama-animation-laboratory"> <label for="studio-yokohama-animation-laboratory">Yokohama Animation Laboratory</label></li>
+						                        <li><input type="checkbox" id="studio-yostar-pictures" name="studio[]" value="yostar-pictures"> <label for="studio-yostar-pictures">Yostar Pictures</label></li>
+						                        <li><input type="checkbox" id="studio-yumeta-company" name="studio[]" value="yumeta-company"> <label for="studio-yumeta-company">Yumeta Company</label></li>
+						                        <li><input type="checkbox" id="studio-zero-g" name="studio[]" value="zero-g"> <label for="studio-zero-g">Zero-G</label></li>
+						                        <li><input type="checkbox" id="studio-zexcs" name="studio[]" value="zexcs"> <label for="studio-zexcs">Zexcs</label></li>
+						                        <li><input type="checkbox" id="studio-zg-r" name="studio[]" value="zg-r"> <label for="studio-zg-r">ZG-R</label></li>
+											</ul>
+				</div>
+                <!-- status -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Status <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+					<ul class="dropdown-menu c1">
+						<li> <input type="radio" id="anime_status-all" name="status" value="" checked=""> <label for="anime_status-all">All</label></li>
+						 
+                            <li> <input type="radio" id="anime_status-ongoing" name="status" value="ongoing"> <label for="anime_status-ongoing">Ongoing</label></li>
+                         
+                            <li> <input type="radio" id="anime_status-completed" name="status" value="completed"> <label for="anime_status-completed">Completed</label></li>
+                         
+                            <li> <input type="radio" id="anime_status-upcoming" name="status" value="upcoming"> <label for="anime_status-upcoming">Upcoming</label></li>
+                         
+                            <li> <input type="radio" id="anime_status-hiatus" name="status" value="hiatus"> <label for="anime_status-hiatus">Hiatus</label></li>
+                                            </ul>
+				</div>
+                <!-- type -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Type <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+				<ul class="dropdown-menu c1">
+					<li> <input type="radio" id="type-all" name="type" value="" checked=""> <label for="type-all">All</label></li>
+					 
+                        <li><input type="radio" id="type-tv" name="type" value="tv"><label for="type-tv"> TV Series</label></li>
+                     
+                        <li><input type="radio" id="type-ova" name="type" value="ova"><label for="type-ova"> OVA</label></li>
+                     
+                        <li><input type="radio" id="type-movie" name="type" value="movie"><label for="type-movie"> Movie</label></li>
+                     
+                        <li><input type="radio" id="type-live action" name="type" value="live action"><label for="type-live action"> Live Action</label></li>
+                     
+                        <li><input type="radio" id="type-special" name="type" value="special"><label for="type-special"> Special</label></li>
+                     
+                        <li><input type="radio" id="type-bd" name="type" value="bd"><label for="type-bd"> BD</label></li>
+                     
+                        <li><input type="radio" id="type-ona" name="type" value="ona"><label for="type-ona"> ONA</label></li>
+                     
+                        <li><input type="radio" id="type-music" name="type" value="music"><label for="type-music"> Music</label></li>
+                                    </ul>
+				</div>
+                 <!-- sub -->
+				                <!-- sort -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Order by <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+					<ul class="dropdown-menu c1">
+						<li> <input type="radio" id="sort_by-" name="order" value="" checked=""> <label for="sort_by-">Default</label></li>
+						<li> <input type="radio" id="sort_by-name_a-z" name="order" value="title"> <label for="sort_by-name_a-z">A-Z</label></li>
+						<li> <input type="radio" id="sort_by-name_z-a" name="order" value="titlereverse"> <label for="sort_by-name_z-a">Z-A</label></li>
+						<li> <input type="radio" id="sort_by-update" name="order" value="update"> <label for="sort_by-update">Latest Update</label></li>
+						<li> <input type="radio" id="sort_by-latest" name="order" value="latest"> <label for="sort_by-latest">Latest Added</label></li>
+						<li> <input type="radio" id="sort_by-popular" name="order" value="popular"> <label for="sort_by-popular">Popular</label></li>
+						<li> <input type="radio" id="sort_by-rating" name="order" value="rating"> <label for="sort_by-rating">Rating</label></li>
+					</ul>
+				</div>
+				</span>
+				<span class="sec2">
+				<div class="filter submit"> <button type="submit" class="btn btn-custom-search"><i class="fa fa-search" aria-hidden="true"></i> Search</button></div>
+				</span>
+			</form>
+		</div>
+			<div class="clear"></div>
+</div><!--themesia cache end 2026-10-11 00:34:11 0.24655--><div class="widget_text section"><div class="releases"><h3>Follow us!!!</h3></div><div class="textwidget custom-html-widget"><style>
+  .social-widgets-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    padding: 10px 0;
+    box-sizing: border-box;
+  }
+
+  .social-sidebar-widget {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: #23252b;
+    color: #ffffff !important;
+    text-decoration: none !important;
+    padding: 12px 20px;
+    border-radius: 25px;
+    font-family: inherit;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1;
+    transition: all 0.25s ease-in-out;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+  }
+
+  /* Estilos para X */
+  .social-sidebar-widget.x-widget .social-sidebar-icon {
+    fill: #ffffff;
+  }
+
+  .social-sidebar-widget.x-widget:hover {
+    background-color: #000000;
+    border-color: rgba(255, 255, 255, 0.4);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(255, 255, 255, 0.15);
+  }
+
+  .social-sidebar-widget.x-widget:hover .social-sidebar-icon {
+    fill: #ffffff;
+  }
+
+  /* Estilos para Telegram */
+  .social-sidebar-widget.telegram-widget .social-sidebar-icon {
+    fill: #2086e3;
+  }
+
+  .social-sidebar-widget.telegram-widget:hover {
+    background-color: #2086e3;
+    border-color: #2086e3;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(32, 134, 227, 0.3);
+  }
+
+  .social-sidebar-widget.telegram-widget:hover .social-sidebar-icon {
+    fill: #ffffff;
+  }
+
+  .social-sidebar-icon {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    transition: fill 0.25s ease-in-out;
+  }
+</style>
+
+<div class="social-widgets-wrapper">
+  <!-- Botón de X -->
+  <a href="https://x.com/animenosubv2" target="_blank" rel="noopener noreferrer" class="social-sidebar-widget x-widget">
+    <svg class="social-sidebar-icon" viewBox="0 0 24 24">
+      <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+    </svg>
+    <span>Follow us</span>
+  </a>
+
+  <!-- Botón de Telegram -->
+  <a href="https://t.me/animenosubalerts" target="_blank" rel="noopener noreferrer" class="social-sidebar-widget telegram-widget">
+    <svg class="social-sidebar-icon" viewBox="0 0 24 24">
+      <path d="M12 0C5.37 0 0 5.37 0 12s5.37 12 12 12 12-5.37 12-12S18.63 0 12 0zm5.56 8.16l-2.02 9.52c-.15.68-.56.84-1.13.52l-3.1-2.28-1.5 1.44c-.17.17-.31.31-.63.31l.22-3.16 5.76-5.2c.25-.22-.05-.34-.39-.12l-7.12 4.48-3.07-.96c-.67-.21-.68-.67.14-.99l12.01-4.63c.56-.2 1.05.14.83 1.07z"/>
+    </svg>
+    <span>Join Telegram</span>
+  </a>
+</div></div></div><div class="section"><div class="releases"><h3>Fall Season 2026</h3></div><a href="https://animenosub.to/season/fall-2026/" target="_blank"><img width="640" height="357" src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/09/Fall-Season-2026-v2.webp" class="image wp-image-61866  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" title="Summer Season 2026" decoding="async" loading="lazy" /></a></div><!--themesia cache start--><div class="section">
+<div class="ts-wpop-series-gen">
+	<ul class="ts-wpop-nav-tabs">
+		<li class="active"><span class="ts-wpop-tab" data-range="weekly">Weekly</span></li>
+		<li><span class="ts-wpop-tab" data-range="monthly">Monthly</span></li>
+		<li><span class="ts-wpop-tab" data-range="alltime">All</span></li>
+	</ul>
+</div>
+
+	<div id="wpop-items">
+	<div class='serieslist pop wpop wpop-weekly'>
+		<ul>
+							<li>
+					<div class="ctr">1</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/black-clover-season-2/" rel="61479">
+							<img src="https://i2.wp.com/animenosub.to/wp-content/uploads/2026/09/Black-Clover-Season-2-1.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Black Clover Season 2" alt="Black Clover Season 2" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/black-clover-season-2/" rel="61479">Black Clover Season 2</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">2</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/im-dating-a-dark-summoner-uncensored/" rel="61671">
+							<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/09/im-dating-a-dark-summoner.jpg?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="I&#8217;m Dating a Dark Summoner (Uncensored)" alt="I&#8217;m Dating a Dark Summoner (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/im-dating-a-dark-summoner-uncensored/" rel="61671">I&#039;m Dating a Dark Summoner (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/ecchi/" rel="tag">Ecchi</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://animenosub.to/genres/romance/" rel="tag">Romance</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">3</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/even-the-student-council-has-its-holes-uncensored/" rel="61740">
+							<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/09/seitokai-ni-mo-ana-wa-aru.png?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Even the Student Council Has Its Holes! (Uncensored)" alt="Even the Student Council Has Its Holes! (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/even-the-student-council-has-its-holes-uncensored/" rel="61740">Even the Student Council Has Its Holes! (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/ecchi/" rel="tag">Ecchi</a>, <a href="https://animenosub.to/genres/slice-of-life/" rel="tag">Slice of Life</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">4</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/my-girlfriends-friend-uncensored/" rel="62194">
+							<img src="https://i2.wp.com/animenosub.to/wp-content/uploads/2026/10/my-girlfriends-friend.jpg?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="My Girlfriend&#8217;s Friend (Uncensored)" alt="My Girlfriend&#8217;s Friend (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/my-girlfriends-friend-uncensored/" rel="62194">My Girlfriend&#039;s Friend (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/drama/" rel="tag">Drama</a>, <a href="https://animenosub.to/genres/ecchi/" rel="tag">Ecchi</a>, <a href="https://animenosub.to/genres/romance/" rel="tag">Romance</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">5</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/magical-explorer/" rel="61724">
+							<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/09/magical-explorer.png?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Magical Explorer" alt="Magical Explorer" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/magical-explorer/" rel="61724">Magical Explorer</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/ecchi/" rel="tag">Ecchi</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://animenosub.to/genres/romance/" rel="tag">Romance</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">6</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/nukitashi-the-animation-uncensored/" rel="42496">
+							<img src="https://i3.wp.com/animenosub.to/wp-content/uploads/2025/07/Nukitashi-the-Animation-Uncensored.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Nukitashi the Animation (Uncensored)" alt="Nukitashi the Animation (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/nukitashi-the-animation-uncensored/" rel="42496">Nukitashi the Animation (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/erotica/" rel="tag">Erotica</a>, <a href="https://animenosub.to/genres/school/" rel="tag">School</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:71.7%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">7.17</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">7</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/so-whats-wrong-with-getting-reborn-as-a-goblin/" rel="62206">
+							<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/10/so-whats-wrong-with-getting-reborn-as-a-goblin.jpg?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="So What&#8217;s Wrong with Getting Reborn as a Goblin?" alt="So What&#8217;s Wrong with Getting Reborn as a Goblin?" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/so-whats-wrong-with-getting-reborn-as-a-goblin/" rel="62206">So What&#039;s Wrong with Getting Reborn as a Goblin?</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/drama/" rel="tag">Drama</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://animenosub.to/genres/romance/" rel="tag">Romance</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">8</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/kamui-hes-behind-you-uncensored/" rel="58508">
+							<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/07/KAMUI-Hes-Behind-You-Uncensored.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="KAMUI: He&#8217;s Behind You (Uncensored)" alt="KAMUI: He&#8217;s Behind You (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/kamui-hes-behind-you-uncensored/" rel="58508">KAMUI: He&#039;s Behind You (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/ecchi/" rel="tag">Ecchi</a>, <a href="https://animenosub.to/genres/supernatural/" rel="tag">Supernatural</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:58%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">5.8</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">9</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/the-exiled-heavy-knight-knows-how-to-game-the-system/" rel="58015">
+							<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/06/The-Exiled-Heavy-Knight-Knows-How-to-Game-the-System.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="The Exiled Heavy Knight Knows How to Game the System" alt="The Exiled Heavy Knight Knows How to Game the System" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/the-exiled-heavy-knight-knows-how-to-game-the-system/" rel="58015">The Exiled Heavy Knight Knows How to Game the System</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:67.1%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">6.71</div>
+							</div>
+						</div>
+											</div>
+				</li>
+					</ul>
+	</div>
+
+
+	<div class='serieslist pop wpop wpop-monthly'>
+		<ul>
+							<li>
+					<div class="ctr">1</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/kamui-hes-behind-you-uncensored/" rel="58508">
+							<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/07/KAMUI-Hes-Behind-You-Uncensored.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="KAMUI: He&#8217;s Behind You (Uncensored)" alt="KAMUI: He&#8217;s Behind You (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/kamui-hes-behind-you-uncensored/" rel="58508">KAMUI: He&#039;s Behind You (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/ecchi/" rel="tag">Ecchi</a>, <a href="https://animenosub.to/genres/supernatural/" rel="tag">Supernatural</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:58%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">5.8</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">2</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/mushoku-tensei-jobless-reincarnation-season-3/" rel="57543">
+							<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/06/Mushoku-Tensei-Jobless-Reincarnation-Season-3.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Mushoku Tensei: Jobless Reincarnation Season 3" alt="Mushoku Tensei: Jobless Reincarnation Season 3" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/mushoku-tensei-jobless-reincarnation-season-3/" rel="57543">Mushoku Tensei: Jobless Reincarnation Season 3</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/drama/" rel="tag">Drama</a>, <a href="https://animenosub.to/genres/ecchi/" rel="tag">Ecchi</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:85%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8.5</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">3</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/that-time-i-got-reincarnated-as-a-slime-season-4/" rel="51612">
+							<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/03/That-Time-I-Got-Reincarnated-as-a-Slime-Season-4-part-2.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="That Time I Got Reincarnated as a Slime Season 4" alt="That Time I Got Reincarnated as a Slime Season 4" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/that-time-i-got-reincarnated-as-a-slime-season-4/" rel="51612">That Time I Got Reincarnated as a Slime Season 4</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:83%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8.3</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">4</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/the-exiled-heavy-knight-knows-how-to-game-the-system/" rel="58015">
+							<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/06/The-Exiled-Heavy-Knight-Knows-How-to-Game-the-System.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="The Exiled Heavy Knight Knows How to Game the System" alt="The Exiled Heavy Knight Knows How to Game the System" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/the-exiled-heavy-knight-knows-how-to-game-the-system/" rel="58015">The Exiled Heavy Knight Knows How to Game the System</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:67.1%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">6.71</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">5</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/rezero-starting-life-in-another-world-season-4/" rel="51142">
+							<img src="https://i3.wp.com/animenosub.to/wp-content/uploads/2026/03/ReZERO-Starting-Life-in-Another-World-Season-4.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Re:ZERO -Starting Life in Another World- Season 4" alt="Re:ZERO -Starting Life in Another World- Season 4" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/rezero-starting-life-in-another-world-season-4/" rel="51142">Re:ZERO -Starting Life in Another World- Season 4</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/drama/" rel="tag">Drama</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://animenosub.to/genres/isekai/" rel="tag">Isekai</a>, <a href="https://animenosub.to/genres/psychological/" rel="tag">Psychological</a>, <a href="https://animenosub.to/genres/suspense/" rel="tag">Suspense</a>, <a href="https://animenosub.to/genres/time-travel/" rel="tag">Time Travel</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:91.1%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">9.11</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">6</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/bleach-thousand-year-blood-war-the-calamity/" rel="57545">
+							<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/06/Bleach-Thousand-Year-Blood-War-–-The-Calamity-anime-online-free.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Bleach: Thousand-Year Blood War &#8211; The Calamity" alt="Bleach: Thousand-Year Blood War &#8211; The Calamity" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/bleach-thousand-year-blood-war-the-calamity/" rel="57545">Bleach: Thousand-Year Blood War - The Calamity</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/supernatural/" rel="tag">Supernatural</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:90.8%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">9.08</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">7</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/one-piece/" rel="25">
+							<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2021/12/One-Piece-Elbaph-arc-Key-Visual.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="One Piece" alt="One Piece" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/one-piece/" rel="25">One Piece</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/drama/" rel="tag">Drama</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://animenosub.to/genres/shounen/" rel="tag">Shounen</a>, <a href="https://animenosub.to/genres/super-power/" rel="tag">Super Power</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:87.3%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8.73</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">8</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing-season-2/" rel="57557">
+							<img src="https://i2.wp.com/animenosub.to/wp-content/uploads/2026/06/Hell-Mode-The-Hardcore-Gamer-Dominates-in-Another-World-with-Garbage-Balancing-Season-2.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2" alt="Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing-season-2/" rel="57557">Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:72%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">7.2</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">9</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/nukitashi-the-animation-uncensored/" rel="42496">
+							<img src="https://i3.wp.com/animenosub.to/wp-content/uploads/2025/07/Nukitashi-the-Animation-Uncensored.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Nukitashi the Animation (Uncensored)" alt="Nukitashi the Animation (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/nukitashi-the-animation-uncensored/" rel="42496">Nukitashi the Animation (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/erotica/" rel="tag">Erotica</a>, <a href="https://animenosub.to/genres/school/" rel="tag">School</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:71.7%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">7.17</div>
+							</div>
+						</div>
+											</div>
+				</li>
+					</ul>
+	</div>
+
+
+	<div class='serieslist pop wpop wpop-alltime'>
+		<ul>
+							<li>
+					<div class="ctr">1</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/nukitashi-the-animation-uncensored/" rel="42496">
+							<img src="https://i3.wp.com/animenosub.to/wp-content/uploads/2025/07/Nukitashi-the-Animation-Uncensored.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Nukitashi the Animation (Uncensored)" alt="Nukitashi the Animation (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/nukitashi-the-animation-uncensored/" rel="42496">Nukitashi the Animation (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/erotica/" rel="tag">Erotica</a>, <a href="https://animenosub.to/genres/school/" rel="tag">School</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:71.7%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">7.17</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">2</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/one-piece/" rel="25">
+							<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2021/12/One-Piece-Elbaph-arc-Key-Visual.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="One Piece" alt="One Piece" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/one-piece/" rel="25">One Piece</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/drama/" rel="tag">Drama</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://animenosub.to/genres/shounen/" rel="tag">Shounen</a>, <a href="https://animenosub.to/genres/super-power/" rel="tag">Super Power</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:87.3%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8.73</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">3</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/ayakashi-triangle-bd-uncensored/" rel="15350">
+							<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2023/09/Ayakashi-Triangle-BD-Uncensored-poster.jpg?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Ayakashi Triangle BD (Uncensored)" alt="Ayakashi Triangle BD (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/ayakashi-triangle-bd-uncensored/" rel="15350">Ayakashi Triangle BD (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/ecchi/" rel="tag">Ecchi</a>, <a href="https://animenosub.to/genres/magical-sex-shift/" rel="tag">Magical Sex Shift</a>, <a href="https://animenosub.to/genres/mythology/" rel="tag">Mythology</a>, <a href="https://animenosub.to/genres/romance/" rel="tag">Romance</a>, <a href="https://animenosub.to/genres/shounen/" rel="tag">Shounen</a>, <a href="https://animenosub.to/genres/supernatural/" rel="tag">Supernatural</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:64.5%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">6.45</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">4</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/" rel="42561">
+							<img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2025/07/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle.jpg?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Demon Slayer: Kimetsu no Yaiba Infinity Castle" alt="Demon Slayer: Kimetsu no Yaiba Infinity Castle" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/demon-slayer-kimetsu-no-yaiba-infinity-castle/" rel="42561">Demon Slayer: Kimetsu no Yaiba Infinity Castle</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/historical/" rel="tag">Historical</a>, <a href="https://animenosub.to/genres/shounen/" rel="tag">Shounen</a>, <a href="https://animenosub.to/genres/supernatural/" rel="tag">Supernatural</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:86.5%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8.65</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">5</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/do-you-like-big-girls-uncensored/" rel="53201">
+							<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/04/do-you-like-big-girls.jpg?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Do You Like Big Girls? (Uncensored)" alt="Do You Like Big Girls? (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/do-you-like-big-girls-uncensored/" rel="53201">Do You Like Big Girls? (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/hentai/" rel="tag">Hentai</a>, <a href="https://animenosub.to/genres/sports/" rel="tag">Sports</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:64.5%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">6.45</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">6</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/kamui-hes-behind-you-uncensored/" rel="58508">
+							<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/07/KAMUI-Hes-Behind-You-Uncensored.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="KAMUI: He&#8217;s Behind You (Uncensored)" alt="KAMUI: He&#8217;s Behind You (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/kamui-hes-behind-you-uncensored/" rel="58508">KAMUI: He&#039;s Behind You (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/ecchi/" rel="tag">Ecchi</a>, <a href="https://animenosub.to/genres/supernatural/" rel="tag">Supernatural</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:58%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">5.8</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">7</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/that-time-i-got-reincarnated-as-a-slime-season-4/" rel="51612">
+							<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2026/03/That-Time-I-Got-Reincarnated-as-a-Slime-Season-4-part-2.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="That Time I Got Reincarnated as a Slime Season 4" alt="That Time I Got Reincarnated as a Slime Season 4" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/that-time-i-got-reincarnated-as-a-slime-season-4/" rel="51612">That Time I Got Reincarnated as a Slime Season 4</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:83%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8.3</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">8</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/solo-leveling-season-2-arise-from-the-shadow/" rel="32268">
+							<img src="https://i0.wp.com/animenosub.to/wp-content/uploads/2024/12/Solo-Leveling-Season-2-Arise-from-the-Shadow.webp?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Solo Leveling Season 2: Arise from the Shadow" alt="Solo Leveling Season 2: Arise from the Shadow" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/solo-leveling-season-2-arise-from-the-shadow/" rel="32268">Solo Leveling Season 2: Arise from the Shadow</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/adult-cast/" rel="tag">Adult Cast</a>, <a href="https://animenosub.to/genres/adventure/" rel="tag">Adventure</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://animenosub.to/genres/urban-fantasy/" rel="tag">Urban Fantasy</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:88.5%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8.85</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">9</div>
+					<div class="imgseries">
+						<a class="series" href="https://animenosub.to/anime/yowayowa-teacher-uncensored/" rel="52491">
+							<img src="https://i3.wp.com/animenosub.to/wp-content/uploads/2026/04/yowayowa-teacher.jpg?resize=65,85" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Yowayowa Teacher (Uncensored)" alt="Yowayowa Teacher (Uncensored)" width="65" height="85"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://animenosub.to/anime/yowayowa-teacher-uncensored/" rel="52491">Yowayowa Teacher (Uncensored)</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/ecchi/" rel="tag">Ecchi</a>, <a href="https://animenosub.to/genres/romance/" rel="tag">Romance</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:66.7%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">6.67</div>
+							</div>
+						</div>
+											</div>
+				</li>
+					</ul>
+	</div>
+</div>
+</div><script>ts_popular_widget.run(1791657251);</script>
+<!--themesia cache end 2026-10-11 18:34:11 0.28176--><!--themesia cache start--><div class="section"><div class="releases"><h3>Recently Added</h3></div><span class="ts-ajax-cache" data-id="2ea97076cee1a666421fc9f805112de2">
+<div class='serieslist'><ul>
+            <li>
+            <div class="imgseries">
+                <a class="series" href="https://animenosub.to/anime/horror-collector/" rel="62486"><img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/10/horror-collector.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="HORROR COLLECTOR" alt="HORROR COLLECTOR" width="56" height="80"/></a>
+            </div>
+        <div class="leftseries">
+            <h4><a class="series" href="https://animenosub.to/anime/horror-collector/" rel="62486">HORROR COLLECTOR</a></h4>
+            <span><b>Genres</b>: <a href="https://animenosub.to/genres/horror/" rel="tag">Horror</a>, <a href="https://animenosub.to/genres/mystery/" rel="tag">Mystery</a>, <a href="https://animenosub.to/genres/supernatural/" rel="tag">Supernatural</a></span>            <span>
+                Studio Palette            </span>
+        </div>
+        </li>
+            <li>
+            <div class="imgseries">
+                <a class="series" href="https://animenosub.to/anime/firefly-wedding/" rel="62415"><img src="https://i1.wp.com/animenosub.to/wp-content/uploads/2026/10/firefly-wedding.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Firefly Wedding" alt="Firefly Wedding" width="56" height="80"/></a>
+            </div>
+        <div class="leftseries">
+            <h4><a class="series" href="https://animenosub.to/anime/firefly-wedding/" rel="62415">Firefly Wedding</a></h4>
+            <span><b>Genres</b>: <a href="https://animenosub.to/genres/drama/" rel="tag">Drama</a>, <a href="https://animenosub.to/genres/romance/" rel="tag">Romance</a></span>            <span>
+                David Production            </span>
+        </div>
+        </li>
+            <li>
+            <div class="imgseries">
+                <a class="series" href="https://animenosub.to/anime/tetsuryo-meet-with-tetsudou-musume/" rel="62389"><img src="https://i3.wp.com/animenosub.to/wp-content/uploads/2026/10/tetsuryo-meet-with-tetsudou-musume.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="TETSURYO! Meet With Tetsudou Musume" alt="TETSURYO! Meet With Tetsudou Musume" width="56" height="80"/></a>
+            </div>
+        <div class="leftseries">
+            <h4><a class="series" href="https://animenosub.to/anime/tetsuryo-meet-with-tetsudou-musume/" rel="62389">TETSURYO! Meet With Tetsudou Musume</a></h4>
+            <span><b>Genres</b>: <a href="https://animenosub.to/genres/slice-of-life/" rel="tag">Slice of Life</a></span>            <span>
+                East Fish Studio            </span>
+        </div>
+        </li>
+            <li>
+            <div class="imgseries">
+                <a class="series" href="https://animenosub.to/anime/dandivine/" rel="62307"><img src="https://i3.wp.com/animenosub.to/wp-content/uploads/2026/10/dandivine.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Dandivine" alt="Dandivine" width="56" height="80"/></a>
+            </div>
+        <div class="leftseries">
+            <h4><a class="series" href="https://animenosub.to/anime/dandivine/" rel="62307">Dandivine</a></h4>
+            <span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/mecha/" rel="tag">Mecha</a></span>            <span>
+                Kayac Animation, LIDENFILMS            </span>
+        </div>
+        </li>
+            <li>
+            <div class="imgseries">
+                <a class="series" href="https://animenosub.to/anime/the-worlds-strongest-witch/" rel="62305"><img src="https://i2.wp.com/animenosub.to/wp-content/uploads/2026/10/the-worlds-strongest-witch.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="The World&#8217;s Strongest Witch" alt="The World&#8217;s Strongest Witch" width="56" height="80"/></a>
+            </div>
+        <div class="leftseries">
+            <h4><a class="series" href="https://animenosub.to/anime/the-worlds-strongest-witch/" rel="62305">The World&#8217;s Strongest Witch</a></h4>
+            <span><b>Genres</b>: <a href="https://animenosub.to/genres/action/" rel="tag">Action</a>, <a href="https://animenosub.to/genres/comedy/" rel="tag">Comedy</a>, <a href="https://animenosub.to/genres/fantasy/" rel="tag">Fantasy</a></span>            <span>
+                Aisle, Bridge            </span>
+        </div>
+        </li>
+        </ul>
+</div>
+</span> <!-- end of ajax cache 2ea97076cee1a666421fc9f805112de2 --><script data-id="2ea97076cee1a666421fc9f805112de2">ts_ajax_cache_buster.run({"id":"2ea97076cee1a666421fc9f805112de2","url":"https:\/\/animenosub.to\/wp-content\/cache\/gov-cache\/ajax\/2ea97076cee1a666421fc9f805112de2.json","time":1791657251});</script> <!-- end of ajax cache script 2ea97076cee1a666421fc9f805112de2 --></div><!--themesia cache end 2026-10-11 18:34:11 0.21451--><!--themesia cache start--><div class="section"><ul class='genre'><li><a href="https://animenosub.to/genres/action/" title="View all Series in Action" >Action</a></li><li><a href="https://animenosub.to/genres/adult-cast/" title="View all Series in Adult Cast" >Adult Cast</a></li><li><a href="https://animenosub.to/genres/adventure/" title="View all Series in Adventure" >Adventure</a></li><li><a href="https://animenosub.to/genres/animation/" title="View all Series in Animation" >Animation</a></li><li><a href="https://animenosub.to/genres/anthropomorphic/" title="View all Series in Anthropomorphic" >Anthropomorphic</a></li><li><a href="https://animenosub.to/genres/avant-garde/" title="View all Series in Avant Garde" >Avant Garde</a></li><li><a href="https://animenosub.to/genres/award-winning/" title="View all Series in Award Winning" >Award Winning</a></li><li><a href="https://animenosub.to/genres/boys-love/" title="View all Series in Boys Love" >Boys Love</a></li><li><a href="https://animenosub.to/genres/cgdct/" title="View all Series in CGDCT" >CGDCT</a></li><li><a href="https://animenosub.to/genres/childcare/" title="View all Series in Childcare" >Childcare</a></li><li><a href="https://animenosub.to/genres/combat-sports/" title="View all Series in Combat Sports" >Combat Sports</a></li><li><a href="https://animenosub.to/genres/comedy/" title="View all Series in Comedy" >Comedy</a></li><li><a href="https://animenosub.to/genres/crime/" title="View all Series in Crime" >Crime</a></li><li><a href="https://animenosub.to/genres/crossdressing/" title="View all Series in Crossdressing" >Crossdressing</a></li><li><a href="https://animenosub.to/genres/delinquents/" title="View all Series in Delinquents" >Delinquents</a></li><li><a href="https://animenosub.to/genres/demons/" title="View all Series in Demons" >Demons</a></li><li><a href="https://animenosub.to/genres/detective/" title="View all Series in Detective" >Detective</a></li><li><a href="https://animenosub.to/genres/drama/" title="View all Series in Drama" >Drama</a></li><li><a href="https://animenosub.to/genres/ecchi/" title="View all Series in Ecchi" >Ecchi</a></li><li><a href="https://animenosub.to/genres/educational/" title="View all Series in Educational" >Educational</a></li><li><a href="https://animenosub.to/genres/erotica/" title="View all Series in Erotica" >Erotica</a></li><li><a href="https://animenosub.to/genres/family/" title="View all Series in Family" >Family</a></li><li><a href="https://animenosub.to/genres/fantasy/" title="View all Series in Fantasy" >Fantasy</a></li><li><a href="https://animenosub.to/genres/gag-humor/" title="View all Series in Gag Humor" >Gag Humor</a></li><li><a href="https://animenosub.to/genres/game/" title="View all Series in Game" >Game</a></li><li><a href="https://animenosub.to/genres/girls-love/" title="View all Series in Girls Love" >Girls Love</a></li><li><a href="https://animenosub.to/genres/gore/" title="View all Series in Gore" >Gore</a></li><li><a href="https://animenosub.to/genres/gourmet/" title="View all Series in Gourmet" >Gourmet</a></li><li><a href="https://animenosub.to/genres/harem/" title="View all Series in Harem" >Harem</a></li><li><a href="https://animenosub.to/genres/hentai/" title="View all Series in Hentai" >Hentai</a></li><li><a href="https://animenosub.to/genres/high-stakes-game/" title="View all Series in High Stakes Game" >High Stakes Game</a></li><li><a href="https://animenosub.to/genres/historical/" title="View all Series in Historical" >Historical</a></li><li><a href="https://animenosub.to/genres/horror/" title="View all Series in Horror" >Horror</a></li><li><a href="https://animenosub.to/genres/idols-female/" title="View all Series in Idols (Female)" >Idols (Female)</a></li><li><a href="https://animenosub.to/genres/idols-male/" title="View all Series in Idols (Male)" >Idols (Male)</a></li><li><a href="https://animenosub.to/genres/isekai/" title="View all Series in Isekai" >Isekai</a></li><li><a href="https://animenosub.to/genres/iyashikei/" title="View all Series in Iyashikei" >Iyashikei</a></li><li><a href="https://animenosub.to/genres/josei/" title="View all Series in Josei" >Josei</a></li><li><a href="https://animenosub.to/genres/kids/" title="View all Series in Kids" >Kids</a></li><li><a href="https://animenosub.to/genres/live-action/" title="View all Series in Live Action" >Live Action</a></li><li><a href="https://animenosub.to/genres/love-polygon/" title="View all Series in Love Polygon" >Love Polygon</a></li><li><a href="https://animenosub.to/genres/love-status-quo/" title="View all Series in Love Status Quo" >Love Status Quo</a></li><li><a href="https://animenosub.to/genres/magical-sex-shift/" title="View all Series in Magical Sex Shift" >Magical Sex Shift</a></li><li><a href="https://animenosub.to/genres/mahou-shoujo/" title="View all Series in Mahou Shoujo" >Mahou Shoujo</a></li><li><a href="https://animenosub.to/genres/martial-arts/" title="View all Series in Martial Arts" >Martial Arts</a></li><li><a href="https://animenosub.to/genres/mecha/" title="View all Series in Mecha" >Mecha</a></li><li><a href="https://animenosub.to/genres/medical/" title="View all Series in Medical" >Medical</a></li><li><a href="https://animenosub.to/genres/military/" title="View all Series in Military" >Military</a></li><li><a href="https://animenosub.to/genres/mistery/" title="View all Series in Mistery" >Mistery</a></li><li><a href="https://animenosub.to/genres/music/" title="View all Series in Music" >Music</a></li><li><a href="https://animenosub.to/genres/mystery/" title="View all Series in Mystery" >Mystery</a></li><li><a href="https://animenosub.to/genres/mythology/" title="View all Series in Mythology" >Mythology</a></li><li><a href="https://animenosub.to/genres/organized-crime/" title="View all Series in Organized Crime" >Organized Crime</a></li><li><a href="https://animenosub.to/genres/otaku-culture/" title="View all Series in Otaku Culture" >Otaku Culture</a></li><li><a href="https://animenosub.to/genres/parody/" title="View all Series in Parody" >Parody</a></li><li><a href="https://animenosub.to/genres/performing-arts/" title="View all Series in Performing Arts" >Performing Arts</a></li><li><a href="https://animenosub.to/genres/pets/" title="View all Series in Pets" >Pets</a></li><li><a href="https://animenosub.to/genres/police/" title="View all Series in Police" >Police</a></li><li><a href="https://animenosub.to/genres/psychological/" title="View all Series in Psychological" >Psychological</a></li><li><a href="https://animenosub.to/genres/racing/" title="View all Series in Racing" >Racing</a></li><li><a href="https://animenosub.to/genres/reincarnation/" title="View all Series in Reincarnation" >Reincarnation</a></li><li><a href="https://animenosub.to/genres/reverse-harem/" title="View all Series in Reverse Harem" >Reverse Harem</a></li><li><a href="https://animenosub.to/genres/romance/" title="View all Series in Romance" >Romance</a></li><li><a href="https://animenosub.to/genres/romantic-subtext/" title="View all Series in Romantic Subtext" >Romantic Subtext</a></li><li><a href="https://animenosub.to/genres/samurai/" title="View all Series in Samurai" >Samurai</a></li><li><a href="https://animenosub.to/genres/school/" title="View all Series in School" >School</a></li><li><a href="https://animenosub.to/genres/sci-fi/" title="View all Series in Sci-Fi" >Sci-Fi</a></li><li><a href="https://animenosub.to/genres/seinen/" title="View all Series in Seinen" >Seinen</a></li><li><a href="https://animenosub.to/genres/shoujo/" title="View all Series in Shoujo" >Shoujo</a></li><li><a href="https://animenosub.to/genres/shounen/" title="View all Series in Shounen" >Shounen</a></li><li><a href="https://animenosub.to/genres/showbiz/" title="View all Series in Showbiz" >Showbiz</a></li><li><a href="https://animenosub.to/genres/slice-of-life/" title="View all Series in Slice of Life" >Slice of Life</a></li><li><a href="https://animenosub.to/genres/space/" title="View all Series in Space" >Space</a></li><li><a href="https://animenosub.to/genres/sports/" title="View all Series in Sports" >Sports</a></li><li><a href="https://animenosub.to/genres/strategy-game/" title="View all Series in Strategy Game" >Strategy Game</a></li><li><a href="https://animenosub.to/genres/super-power/" title="View all Series in Super Power" >Super Power</a></li><li><a href="https://animenosub.to/genres/supernatural/" title="View all Series in Supernatural" >Supernatural</a></li><li><a href="https://animenosub.to/genres/survival/" title="View all Series in Survival" >Survival</a></li><li><a href="https://animenosub.to/genres/suspense/" title="View all Series in Suspense" >Suspense</a></li><li><a href="https://animenosub.to/genres/team-sports/" title="View all Series in Team Sports" >Team Sports</a></li><li><a href="https://animenosub.to/genres/thriller/" title="View all Series in Thriller" >Thriller</a></li><li><a href="https://animenosub.to/genres/time-travel/" title="View all Series in Time Travel" >Time Travel</a></li><li><a href="https://animenosub.to/genres/urban-fantasy/" title="View all Series in Urban Fantasy" >Urban Fantasy</a></li><li><a href="https://animenosub.to/genres/vampire/" title="View all Series in Vampire" >Vampire</a></li><li><a href="https://animenosub.to/genres/video-game/" title="View all Series in Video Game" >Video Game</a></li><li><a href="https://animenosub.to/genres/villainess/" title="View all Series in Villainess" >Villainess</a></li><li><a href="https://animenosub.to/genres/visual-arts/" title="View all Series in Visual Arts" >Visual Arts</a></li><li><a href="https://animenosub.to/genres/work-life/" title="View all Series in Work Life" >Work Life</a></li><li><a href="https://animenosub.to/genres/workplace/" title="View all Series in Workplace" >Workplace</a></li></ul></div><!--themesia cache end 2026-10-10 19:34:11 0.05464-->			
+</div><div class="clear"></div>
+</div>
+</div>
+
+<div id="footer">
+	<footer id="colophon" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" role="contentinfo">
+	<div class="footercopyright">
+				<div class="copyright marx">
+			<div class="txt">
+				<span>Copyright © 2026 Animenosub. All Rights Reserved</span>
+				<p>Disclaimer: This site <i>Animenosub</i> does not store any files on its server. All contents are provided by non-affiliated third parties.</p>
+			</div>
+		</div>
+	</div>
+	<div class="footermenu"><div class="menu-menu-2-container"><ul id="menu-menu-3" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60656"><a target="_blank" href="https://animenosub.com/" itemprop="url">Domains</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://animenosub.to/bookmark/" itemprop="url">Bookmark</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://animenosub.to/schedule/" itemprop="url">Anime Schedule: Up-to-Date Guides &#038; Timelines</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://animenosub.to/az-list/" itemprop="url">Az List</a></li>
+</ul></div></div>	</footer>
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/animestream-child/*","/wp-content/themes/animestream/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+    <script>
+    function tsLoadServerBtn(btn) {
+        var value = btn.getAttribute('data-value');
+        if (!value) return;
+
+        document.querySelectorAll('.ts-server-btn').forEach(function(b) {
+            b.classList.toggle('active', b === btn);
+        });
+
+        var sel = document.querySelector('select.mirror');
+        if (sel) {
+            for (var i = 0; i < sel.options.length; i++) {
+                if (sel.options[i].value === value) { sel.selectedIndex = i; break; }
+            }
+        }
+
+        if (typeof loadMi === 'function') loadMi({ value: value });
+    }
+
+    document.addEventListener('DOMContentLoaded', function () {
+        var sel = document.querySelector('select.mirror');
+        if (sel) {
+            sel.addEventListener('change', function () {
+                var value = this.value;
+                document.querySelectorAll('.ts-server-btn').forEach(function(b) {
+                    b.classList.toggle('active', b.getAttribute('data-value') === value);
+                });
+            });
+        }
+
+        if (!sel) return;
+
+        var episodeNum = (document.querySelector('.entry-title') || {}).textContent || '';
+        var epMatch = episodeNum.match(/Episode\s+(\d+)/i);
+        var epNum = epMatch ? epMatch[1] : '';
+
+        var opts = [];
+        for (var i = 0; i < sel.options.length; i++) {
+            if (sel.options[i].value) {
+                opts.push({ label: sel.options[i].text, value: sel.options[i].value, selected: sel.options[i].selected });
+            }
+        }
+        if (opts.length === 0) return;
+
+		var groups = { SUB: [], RAW: [], DUB: [] };
+        opts.forEach(function(o) {
+    	var upper = o.label.toUpperCase();
+    		if (upper.indexOf('RAW') !== -1) {
+      	  groups.RAW.push(o);
+   			 } else if (upper.indexOf('DUB') !== -1) {
+     	  groups.DUB.push(o);
+    			} else {
+        groups.SUB.push(o);
+    }
+});
+var anySelected = groups.SUB.concat(groups.RAW).concat(groups.DUB).some(function(o) { return o.selected; });
+if (!anySelected && opts.length > 0) opts[0].selected = true;
+
+        function makeRow(type, items) {
+			var labelHTML = type === 'RAW'
+    			? '<span class="ts-server-label"><span class="ts-cc-icon ts-raw-icon">R</span> RAW:</span>'
+    			: type === 'DUB'
+    			? '<span class="ts-server-label"><span class="ts-cc-icon ts-dub-icon">D</span> Dub:</span>'
+    			: '<span class="ts-server-label"><span class="ts-cc-icon">CC</span> Sub:</span>';
+
+            var btns = items.map(function(o) {
+			var match = o.label.match(/^(SUB|RAW|DUB)\s*(v\d+)?\s*[-–]\s*(.+)$/i);				
+			var shortLabel = match ? (match[3] + (match[2] ? ' ' + match[2] : '')) : o.label;
+                return '<button type="button" class="ts-server-btn' + (o.selected ? ' active' : '') + '" ' +
+                    'data-value="' + o.value.replace(/"/g, '&quot;') + '" ' +
+                    'onclick="tsLoadServerBtn(this)">' + shortLabel + '</button>';
+            }).join('');
+
+            return '<div class="ts-server-right">' +
+                labelHTML +
+                '<div class="ts-server-btns">' + btns + '</div>' +
+                '</div>';
+        }
+
+        var rowsHTML = '';
+        if (groups.SUB.length > 0) rowsHTML += makeRow('SUB', groups.SUB);
+        if (groups.DUB.length > 0) rowsHTML += makeRow('DUB', groups.DUB);
+		if (groups.RAW.length > 0) rowsHTML += makeRow('RAW', groups.RAW);
+
+        var block = document.createElement('div');
+        block.className = 'ts-server-block';
+        block.innerHTML =
+            '<div class="ts-server-notice">' +
+                '<p>You are watching <strong>Episode ' + epNum + '</strong>. If current server doesn\'t work please try other servers beside.</p>' +
+            '</div>' +
+            '<div class="ts-server-rows">' + rowsHTML + '</div>';
+
+        var videoNav = document.querySelector('.item.video-nav');
+        if (videoNav && videoNav.parentNode) {
+            videoNav.parentNode.insertBefore(block, videoNav.nextSibling);
+        }
+    });
+    </script>
+    	<style data-noptimize="1">
+	@media only screen and (max-width:570px) {
+		#x1uj2xmyi,#r5566s5gu6hh,#m6zglssox6,#t5avjefu,#s4vbe1cu{display:none;}
+	}
+	</style>
+	<script>
+var dmlogo1 = 'https://animenosub.to/wp-content/uploads/2026/04/logo-animenosub-2026.png';
+var dmlogo2 = 'https://animenosub.to/wp-content/uploads/2024/02/Animenosub-logo.png';
+jQuery("#thememode input[type='checkbox']").on('change', function(){
+	var is_on = jQuery("#thememode input[type='checkbox']").prop("checked");
+	if (is_on == false){
+		if (dmlogo2) jQuery(".logos img").attr('src', dmlogo2);
+		localStorage.setItem("thememode", "lightmode");
+		jQuery("body").addClass("lightmode");
+		jQuery("body").removeClass("darkmode");
+	}else{
+		if (dmlogo1) jQuery(".logos img").attr('src', dmlogo1);
+		localStorage.setItem("thememode", "darkmode");
+		jQuery("body").removeClass("lightmode");
+		jQuery("body").addClass("darkmode");
+	}
+});
+</script>
+
+<script>
+jQuery.event.special.touchstart = {
+    setup: function( _, ns, handle ) {
+        this.addEventListener("touchstart", handle, { passive: !ns.includes("noPreventDefault") });
+    }
+};
+jQuery.event.special.touchmove = {
+    setup: function( _, ns, handle ) {
+        this.addEventListener("touchmove", handle, { passive: !ns.includes("noPreventDefault") });
+    }
+};
+jQuery.event.special.wheel = {
+    setup: function( _, ns, handle ){
+        this.addEventListener("wheel", handle, { passive: true });
+    }
+};
+jQuery.event.special.mousewheel = {
+    setup: function( _, ns, handle ){
+        this.addEventListener("mousewheel", handle, { passive: true });
+    }
+};
+</script>
+<script id="ts-timeago-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/timeago.min.js"></script>
+<script id="ts-timeago-js-after">
+jQuery.timeago.settings.strings = {"prefixAgo":"","prefixFromNow":"","suffixAgo":"ago","suffixFromNow":"from now","seconds":"just now","minute":"a minute","minutes":"%d minutes","hour":"an hour","hours":"%d hours","day":"a day","days":"%d days","month":"a month","months":"%d months","year":"a year","years":"%d years"};
+//# sourceURL=ts-timeago-js-after
+</script>
+<script id="ts-dexie-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/dexie.min.js"></script>
+<script id="ts-series-history-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/series-history.js"></script>
+<script id="ts-qtip-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/jquery.qtip.min.js"></script>
+<script id="ts-imagesloaded-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/imagesloaded.pkg.min.js"></script>
+<script id="ts-filter-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/filter.js"></script>
+<script id="ts-events-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/tsevents.js"></script>
+<script id="ts-search-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/search.js"></script>
+<script id="ts-owl-carousel-js" src="https://animenosub.to/wp-content/themes/animestream/assets/js/owl.carousel.min.js"></script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a48800cebaa4ae45',t:'MTc5MTY2MDI0NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+<!-- Page uncached by LiteSpeed Cache 7.9.1 on 2026-10-10 19:24:04 -->

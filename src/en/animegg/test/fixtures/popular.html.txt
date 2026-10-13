@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Popular, New, Ongoing, HD Anime Series Genres | Animegg.org</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Animegg">
+    <meta property="og:site_name" content="Animegg">
+    <meta property="fb:app_id" content="279321548895951">
+    <meta name="propeller" content="abf9d6cf85ddb56749df1b665eb4d8b1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="a.validate.01" content="8ea3efaecd5dcaf5ad59d855d29deb80d612">
+    <meta name="a.validate.01" content="18450344bdcd1a8d4f8a09f10f7ed13a89da">
+    <meta name="description" content="Watch Popular, New, Ongoing, and Completed Anime Online Free. Anime Streaming Movies and Episodes in Subbed and Dubbed in HD on iPhone and Android mobile.">
+    <meta name="keywords" content="anime,recent anime,most popular anime,new anime,released anime,anime genres, anime categories,ongoing anime, completed anime,mobile,HD">
+    <link rel="stylesheet" type="text/css" href="//bowercdn.net/c/html5-boilerplate-4.3.0/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="//bowercdn.net/c/html5-boilerplate-4.3.0/css/main.css">
+    <link rel="stylesheet" href="//bowercdn.net/c/bootstrap-3.2.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/index2.css?v5">
+    <link rel="icon" href="/images/anime.png?v=2" sizes="16x16" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" sizes="196x196" href="images/anime.png?v=2">
+  </head>
+  <body>
+    <div class="premium-header-bar">
+      <div class="container">
+        <div><a href="/createUser">Missing Chat? Sign in!</a><a href="/premium-advantage" class="rightLink">Click To Discover the Premium Advantage Now!</a></div>
+      </div>
+    </div>
+    <!--.holiday-header-bar
+    .container
+      div
+        a(href='/createUser') Real Free Anime, Animegg.org
+    -->
+    <div role="banner" class="navbar navbar-inverse bs-docs-nav">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" data-toggle="collapse" data-target=".bs-navbar-collapse" class="navbar-toggle"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+          <h1><a href="/" class="navbar-brand"><img id="logo" src="/images/animegg-logo-new.png" alt="Watch Anime Online"></a></h1>
+        </div>
+        <div role="navigation" class="collapse navbar-collapse bs-navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/login" class="usertab">Log In</a>
+            </li>
+            <li class="search">
+              <form action="/search/" x-webkit-speech="x-webkit-speech" _lpchecked="1">
+                <input id="searchsite" type="search" name="q" autocomplete="off" tabindex="1" spellcheck="false" placeholder="Search Anime...">
+              </form>
+            </li>
+            <li><a data-toggle="dropdown" class="dropdown-toggle">Browse</a>
+              <ul class="dropdown-menu">
+                <li><a href="/series">All</a></li>
+                <li><a href="/popular-series">Popular</a></li>
+                <li><a href="/popular-series?ongoing=true">Ongoing</a></li>
+                <li><a href="/popular-series?ongoing=false">Completed</a></li>
+                <li><a href="/popular-series?sortBy=createdAt&amp;sortDirection=DESC">New</a></li>
+                <li><a href="/popular-series">By Genre</a></li>
+                <li><a href="/releases">All Recent Releases</a></li>
+              </ul>
+            </li>
+            <li><a href="/popular-series" class="dropdown-toggle">Popular</a></li>
+            <li><a href="/release-schedule" class="dropdown-toggle">Schedule</a></li>
+            <li><a href="/random" class="blue">Random</a></li>
+          </ul>
+        </div><a name="top"></a>
+      </div>
+      <!--main content-->
+      <div style="margin-top: 15px" class="container">
+        <div class="row">
+          <div class="col-md-7">
+            <div class="cblock">
+              <div id="recentTabs" role="tablist" class="home-tabs recent-anime">
+                <h1><a href="#recentlyReleased" role="tab" data-toggle="tab" class="active">Popular Anime</a></h1>
+              </div>
+              <div class="moose">
+                <ul class="popanime cats">
+                  <div class="sortby">Sort By<a href="/popular-series" class="active">Popular</a><a href="/popular-series?sortBy=createdAt&amp;sortDirection=DESC">Newest</a><a href="/popular-series?ongoing=true">Ongoing</a><a href="/popular-series?ongoing=false">Completed</a><a href="/popular-series?sortBy=sortLetter&amp;sortDirection=ASC">Alphabetical</a></div>
+                  <div id="popularAnime" class="tab-content">
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/80c019e2bd28447c156409f62fc7f01925609db4/jpeg"><a href="/series/one-piece" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/one-piece">One Piece</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/one-piece" class="btn btn-default btn-sm disabled">1165 Episodes</a>
+                            </li>
+                            <li><a href="/series/one-piece" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/slice of life" class="btn btn-default btn-sm">Slice of Life</a></li>
+                          </ul>
+                          <div class="desfea">Plot Summary: Before he was executed, the legendary Pirate King Gold Roger revealed that he had hidden the treasure One Piece somewhere in the Grand Line. Now, many pirates are off looking for this...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/4e272275582432e5edfe2dd528946dbcf075be8d/jpeg"><a href="/series/naruto-shippuden" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/naruto-shippuden">Naruto Shippuden</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/naruto-shippuden" class="btn btn-default btn-sm disabled">500 Episodes</a>
+                            </li>
+                            <li><a href="/series/naruto-shippuden" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/martial arts" class="btn btn-default btn-sm">Martial Arts</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/4bbfe4b9415138646949f08a3e991b954d810390/jpeg"><a href="/series/detectiveconan" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/detectiveconan">Detective Conan</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/detectiveconan" class="btn btn-default btn-sm disabled">1188 Episodes</a>
+                            </li>
+                            <li><a href="/series/detectiveconan" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                          </ul>
+                          <div class="desfea">Shinichi Kudou, a high school student of astounding talent in detective work, is well known for having solved several challenging cases. One day, when Shinichi spots two suspicious men and decides to...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/22827c1e145d261c9743ebfbd40b1af603ef6035/jpeg"><a href="/series/bleach" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/bleach">Bleach</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/bleach" class="btn btn-default btn-sm disabled">366 Episodes</a>
+                            </li>
+                            <li><a href="/series/bleach" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                            <li><a href="/genre/supernatural" class="btn btn-default btn-sm">Supernatural</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">Kurosaki Ichigo is not a regular 15 year old, because he has always had the ability to see spirits and ghosts. One day, a female Shinigami (God of Death) named Kuchiki Rukia appears before him...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/14e96cd4177b17eb1ee85d84d09efcc0fa3e1b69/jpeg"><a href="/series/boruto-naruto-next-generations" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/boruto-naruto-next-generations">Boruto: Naruto Next Generations</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/boruto-naruto-next-generations" class="btn btn-default btn-sm disabled">294 Episodes</a>
+                            </li>
+                            <li><a href="/series/boruto-naruto-next-generations" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/martial arts" class="btn btn-default btn-sm">Martial Arts</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">Naruto was a young shinobi with an incorrigible knack for mischief. He achieved his dream to become the greatest ninja in the village and his face sits atop the Hokage monument. But this is not his...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/54721483e6f4686ef87a3a016a14075467dabbb9/jpeg"><a href="/series/dragon-ball-super" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/dragon-ball-super">Dragon Ball Super</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/dragon-ball-super" class="btn btn-default btn-sm disabled">131 Episodes</a>
+                            </li>
+                            <li><a href="/series/dragon-ball-super" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/martial arts" class="btn btn-default btn-sm">Martial Arts</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">Reuniting the franchise's iconic characters, Dragon Ball Super will follow the aftermath of Goku's fierce battle with Majin Buu as he attempts to maintain earth's fragile peace.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/cdc2259facb6289570e81a4e94bb5aa6dad298fc/jpeg"><a href="/series/naruto" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/naruto">Naruto</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/naruto" class="btn btn-default btn-sm disabled">220 Episodes</a>
+                            </li>
+                            <li><a href="/series/naruto" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/martial arts" class="btn btn-default btn-sm">Martial Arts</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">Before Naruto was born, a great demon fox had attacked the Hidden Leaf Village. A man known as the 4th Hokage sealed the demon inside the newly born Naruto, causing him to unknowingly grow up detested...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/cc323728e2184d6c233bc4a8f0b4d044865deeec/jpeg"><a href="/series/fairy-tail" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/fairy-tail">Fairy Tail</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/fairy-tail" class="btn btn-default btn-sm disabled">175 Episodes</a>
+                            </li>
+                            <li><a href="/series/fairy-tail" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/magic" class="btn btn-default btn-sm">Magic</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isnt...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/b759e355b7ed1e929d89db80dd987d54fe5e5a85/jpeg"><a href="/series/black-clover-tv" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/black-clover-tv">Black Clover (TV)</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/black-clover-tv" class="btn btn-default btn-sm disabled">170 Episodes</a>
+                            </li>
+                            <li><a href="/series/black-clover-tv" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/magic" class="btn btn-default btn-sm">Magic</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">Asta and Yuno were abandoned together at the same church and have been inseparable since. As children, they promised that they would compete against each other to see who would become the next Emperor...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/1a32e6ec0915e749d48f8b4af47c55549e5b1094/jpeg"><a href="/series/dragonball-z" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/dragonball-z">Dragon Ball Z</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/dragonball-z" class="btn btn-default btn-sm disabled">291 Episodes</a>
+                            </li>
+                            <li><a href="/series/dragonball-z" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/martial arts" class="btn btn-default btn-sm">Martial Arts</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">Goku is back with his new son, Gohan, but just when things are getting settled down, the adventures continue. Whether he is facing enemies such as Frieza, Cell, or Buu, Goku is proven to be an elite...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/ef19ea9a8b189369a914f19886a42021f0a1ab55/jpeg"><a href="/series/hunter-x-hunter-2011" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/hunter-x-hunter-2011">Hunter x Hunter (2011)</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/hunter-x-hunter-2011" class="btn btn-default btn-sm disabled">148 Episodes</a>
+                            </li>
+                            <li><a href="/series/hunter-x-hunter-2011" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/martial arts" class="btn btn-default btn-sm">Martial Arts</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                            <li><a href="/genre/violence" class="btn btn-default btn-sm">Violence</a></li>
+                          </ul>
+                          <div class="desfea">A new adaptation of the the manga series by Togashi Yoshihiro.
+
+A Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/a8f0415c34bc5704d4ed28c5b7e8437bfbfa0bb1/jpeg"><a href="/series/fairy-tail-2014" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/fairy-tail-2014">Fairy Tail (2014)</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/fairy-tail-2014" class="btn btn-default btn-sm disabled">102 Episodes</a>
+                            </li>
+                            <li><a href="/series/fairy-tail-2014" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/magic" class="btn btn-default btn-sm">Magic</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">The story follows a teenage girl named Lucy Heartfilla who is determined to join the notorious magical Fairy Tail Guild. During a daring rescue, she encounters Natsu who is part of the guild and...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/0e15d08fada620c28ecee6a4d1ed370227368a43/jpeg"><a href="/series/dragon-ball" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/dragon-ball">Dragon Ball</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/dragon-ball" class="btn btn-default btn-sm disabled">153 Episodes</a>
+                            </li>
+                            <li><a href="/series/dragon-ball" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/martial arts" class="btn btn-default btn-sm">Martial Arts</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">Bulma is a girl in search of the mystical dragonballs that when brought together grant any wish. In her search she bumps into the owner of one of these balls, a strange boy named Goku. The two then...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/54b956dfc62044352617eb437f89b46da835d82f/jpeg"><a href="/series/pokemon" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/pokemon">Pokemon</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/pokemon" class="btn btn-default btn-sm disabled">469 Episodes</a>
+                            </li>
+                            <li><a href="/series/pokemon" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/kids" class="btn btn-default btn-sm">Kids</a></li>
+                          </ul>
+                          <div class="desfea">Pokemon are peculiar creatures with a vast array of different abilities and appearances; many people, known as Pokemon trainers, capture and train them, often with the intent of battling others. Young...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/e773c5d54f5bb94d78a691749c0827ed472c071d/jpeg"><a href="/series/gintama" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/gintama">Gintama</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/gintama" class="btn btn-default btn-sm disabled">263 Episodes</a>
+                            </li>
+                            <li><a href="/series/gintama" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/drama" class="btn btn-default btn-sm">Drama</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/scifi" class="btn btn-default btn-sm">Scifi</a></li>
+                          </ul>
+                          <div class="desfea">Life isn't easy in feudal Japan... especially since the aliens landed and conquered everything! Oh sure, the new health care is great, but the public ban on the use of swords has left a lot of...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/ce6ad0e28eba8edf3c4b98b8eb23970df322cc5b/jpeg"><a href="/series/the-seven-deadly-sins" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/the-seven-deadly-sins">The Seven Deadly Sins</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/the-seven-deadly-sins" class="btn btn-default btn-sm disabled">24 Episodes</a>
+                            </li>
+                            <li><a href="/series/the-seven-deadly-sins" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/supernatural" class="btn btn-default btn-sm">Supernatural</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">The &quot;Seven Deadly Sins,&quot; a group of evil knights who conspired to overthrow the kingdom of Britannia, were said to have been eradicated by the Holy Knights, although some claim that they still live...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/5d585bb6ac6ea3e128eee2cf022ea9eb75afd7d5/jpeg"><a href="/series/attack-on-titan" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/attack-on-titan">Attack on Titan</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/attack-on-titan" class="btn btn-default btn-sm disabled">26 Episodes</a>
+                            </li>
+                            <li><a href="/series/attack-on-titan" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/drama" class="btn btn-default btn-sm">Drama</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                          </ul>
+                          <div class="desfea">Several hundred years ago, humans were nearly exterminated by giants. Giants are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/0048f485cc82261df2cec4266d988fadd44db806/jpeg"><a href="/series/inuyasha" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/inuyasha">Inuyasha</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/inuyasha" class="btn btn-default btn-sm disabled">164 Episodes</a>
+                            </li>
+                            <li><a href="/series/inuyasha" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/martial arts" class="btn btn-default btn-sm">Martial Arts</a></li>
+                            <li><a href="/genre/demons" class="btn btn-default btn-sm">Demons</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/magic" class="btn btn-default btn-sm">Magic</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                            <li><a href="/genre/romance" class="btn btn-default btn-sm">Romance</a></li>
+                            <li><a href="/genre/violence" class="btn btn-default btn-sm">Violence</a></li>
+                            <li><a href="/genre/swordplay" class="btn btn-default btn-sm">Swordplay</a></li>
+                            <li><a href="/genre/slapstick" class="btn btn-default btn-sm">Slapstick</a></li>
+                            <li><a href="/genre/juujin" class="btn btn-default btn-sm">Juujin</a></li>
+                            <li><a href="/genre/time travel" class="btn btn-default btn-sm">Time Travel</a></li>
+                            <li><a href="/genre/love polygon" class="btn btn-default btn-sm">Love Polygon</a></li>
+                          </ul>
+                          <div class="desfea">Higurashi Kagome, after being pulled down a well by a demon, finds herself in Feudal Japan, where she learns that a powerful jewel has been reborn inside her body. After the jewel shatters in an...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/e08b5a743d40ec7f1a4e2e1e46579743e0f738e5/jpeg"><a href="/series/prince-of-tennis" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/prince-of-tennis">Prince of Tennis</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/prince-of-tennis" class="btn btn-default btn-sm disabled">171 Episodes</a>
+                            </li>
+                            <li><a href="/series/prince-of-tennis" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                            <li><a href="/genre/sports" class="btn btn-default btn-sm">Sports</a></li>
+                            <li><a href="/genre/middle school" class="btn btn-default btn-sm">Middle School</a></li>
+                            <li><a href="/genre/school life" class="btn btn-default btn-sm">School Life</a></li>
+                            <li><a href="/genre/clubs" class="btn btn-default btn-sm">Clubs</a></li>
+                            <li><a href="/genre/tennis" class="btn btn-default btn-sm">Tennis</a></li>
+                          </ul>
+                          <div class="desfea">Echizen Ryoma is a young tennis prodigy who has won 4 consecutive tennis championships but who constantly lies in the shadow of his father, a former pro tennis player. He joins the Seishun Gakuen...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/abca33fdbb39dc85e00f8274db60cf576d93a548/jpeg"><a href="/series/yu-gi-oh" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/yu-gi-oh">Yu-Gi-Oh!</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/yu-gi-oh" class="btn btn-default btn-sm disabled">224 Episodes</a>
+                            </li>
+                            <li><a href="/series/yu-gi-oh" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/game" class="btn btn-default btn-sm">Game</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                          </ul>
+                          <div class="desfea">Game loving Mutou Yugi was given an ancient relic by his grandfather called the Sennen (Thousand-Year) Puzzle. He completed the puzzle and was possessed by the spirit of an ancient Pharaoh. The...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/b50a6dfd344cc8be3e5230abd2cc4695e0227b84/jpeg"><a href="/series/full-metal-alchemist-brotherhood" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/full-metal-alchemist-brotherhood">Fullmetal Alchemist: Brotherhood</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/full-metal-alchemist-brotherhood" class="btn btn-default btn-sm disabled">64 Episodes</a>
+                            </li>
+                            <li><a href="/series/full-metal-alchemist-brotherhood" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/drama" class="btn btn-default btn-sm">Drama</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/magic" class="btn btn-default btn-sm">Magic</a></li>
+                            <li><a href="/genre/military" class="btn btn-default btn-sm">Military</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                            <li><a href="/genre/violence" class="btn btn-default btn-sm">Violence</a></li>
+                          </ul>
+                          <div class="desfea">In this world there exist alchemists, people who study and perform the art of alchemical transmutation - to manipulate objects and transform one object into another. They are bounded by the basic law...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/6382df77abe680b06bea83a1fded41bce28b771e/jpeg"><a href="/series/boku-no-hero-academia-3rd-season" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/boku-no-hero-academia-3rd-season">Boku no Hero Academia 3rd Season</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/boku-no-hero-academia-3rd-season" class="btn btn-default btn-sm disabled">25 Episodes</a>
+                            </li>
+                            <li><a href="/series/boku-no-hero-academia-3rd-season" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/super power" class="btn btn-default btn-sm">Super Power</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                            <li><a href="/genre/school" class="btn btn-default btn-sm">School</a></li>
+                          </ul>
+                          <div class="desfea">Third season of Boku no Hero Academia.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/b1f40c89e5105e204d0c7822db68bdc72a329414/jpeg"><a href="/series/folktales-from-japan" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/folktales-from-japan">Folktales from Japan</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/folktales-from-japan" class="btn btn-default btn-sm disabled">257 Episodes</a>
+                            </li>
+                            <li><a href="/series/folktales-from-japan" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/historical" class="btn btn-default btn-sm">Historical</a></li>
+                          </ul>
+                          <div class="desfea">Like in any culture, Japanese kids grow up listening to the stories repeatedly told by their parents and grandparents. The boy born from a peach; the princess from the moon who is discovered inside a...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/d807859f21b4e2c7421e79b8d9e187e622ea6058/jpeg"><a href="/series/pokemon-xy" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/pokemon-xy">Pokemon XY</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/pokemon-xy" class="btn btn-default btn-sm disabled">93 Episodes</a>
+                            </li>
+                            <li><a href="/series/pokemon-xy" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/adventure" class="btn btn-default btn-sm">Adventure</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/comedy" class="btn btn-default btn-sm">Comedy</a></li>
+                            <li><a href="/genre/shounen" class="btn btn-default btn-sm">Shounen</a></li>
+                            <li><a href="/genre/kids" class="btn btn-default btn-sm">Kids</a></li>
+                          </ul>
+                          <div class="desfea">Satoshi and Pikachu will travel to Miare City at the center of the Kalos region.
+There, they will encounter never-before-seen Pokémon and make new friends.
+Thus begins a new adventure as Satoshi...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/b988941597cc58fdcb786e7c675041bffcd7bc8f/jpeg"><a href="/series/yu-gi-oh-arc-v" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/yu-gi-oh-arc-v">Yu-Gi-Oh! Arc-V</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/yu-gi-oh-arc-v" class="btn btn-default btn-sm disabled">148 Episodes</a>
+                            </li>
+                            <li><a href="/series/yu-gi-oh-arc-v" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <ul class="tags">
+                            <li><a href="/genre/action" class="btn btn-default btn-sm">Action</a></li>
+                            <li><a href="/genre/fantasy" class="btn btn-default btn-sm">Fantasy</a></li>
+                            <li><a href="/genre/game" class="btn btn-default btn-sm">Game</a></li>
+                          </ul>
+                          <div class="desfea">The 5th Yu-Gi-Oh! series with an original storyline.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <div class="text-center">
+                      <ul class="pagination">
+                        <li><a href="?start=0"><<</a></li>
+                        <li><a href="/popular-series?sortBy=hits&amp;sortDirection=DESC&amp;ongoing&amp;limit=25&amp;start=0">Previous</a></li>
+                        <li><span>1 - 25 of 11304 Shows</span></li>
+                        <li><a href="/popular-series?sortBy=hits&amp;sortDirection=DESC&amp;ongoing&amp;limit=25&amp;start=25">Next</a></li>
+                        <li><a href="?start=11300">>></a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="cblock">
+              <div class="ctitle">
+                <div id="recentTabs" role="tablist" class="home-tabs recent-anime"><a href="#recentlyReleased" role="tab" data-toggle="tab" class="active">Categories</a></div>
+                <ul class="newmanga category">
+                  <li class="selected">
+                    <div><a href="/popular-series" class="anm_det_pop"><strong>All</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/(ova)" class="anm_det_pop"><strong>(Ova)</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/.hack//gift" class="anm_det_pop"><strong>.Hack//gift</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/.hack//roots" class="anm_det_pop"><strong>.Hack//roots</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/009" class="anm_det_pop"><strong>009</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/1+2=paradise" class="anm_det_pop"><strong>1+2=paradise</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/15 children space adventure" class="anm_det_pop"><strong>15 Children Space Adventure</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/2" class="anm_det_pop"><strong>2</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/2020 wonder kiddy sci-fi" class="anm_det_pop"><strong>2020 Wonder Kiddy Sci-Fi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/21 min. per episode" class="anm_det_pop"><strong>21 Min. per Episode</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/21-emon" class="anm_det_pop"><strong>21-Emon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/21emon space" class="anm_det_pop"><strong>21emon Space</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/3 choume no tama: onegai! momo-chan wo sagashite!!" class="anm_det_pop"><strong>3 Choume No Tama: Onegai! Momo-Chan Wo Sagashite!!</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/9 o'clock woman" class="anm_det_pop"><strong>9 O'clock Woman</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/a-real" class="anm_det_pop"><strong>A-Real</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/action" class="anm_det_pop"><strong>Action</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/action comedy" class="anm_det_pop"><strong>Action Comedy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/action game" class="anm_det_pop"><strong>Action Game</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/adult cartoons" class="anm_det_pop"><strong>Adult Cartoons</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/adult cast" class="anm_det_pop"><strong>Adult Cast</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/adventure" class="anm_det_pop"><strong>Adventure</strong></a></div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="ads"><img src="/images/animegg-banner-right-1.jpg"><img src="/images/animegg-banner-right-2.jpg"></div>
+          </div>
+        </div>
+      </div>
+      <!--footer-->
+      <div class="container">
+        <hr>
+        <ul class="footer-links pull-right">
+          <li><a href="/terms-of-service" class="btn btn-default btn-sm"> Terms of Service</a></li>
+          <li><a href="/privacy-policy" class="btn btn-default btn-sm"> Privacy Policy</a></li>
+          <li><a href="/complaint" class="btn btn-default btn-sm"> DMCA Complaint</a></li>
+          <li><a href="/contact" class="btn btn-default btn-sm"> Contact Us</a></li>
+          <li><a href="/rss" target="_blank" class="btn btn-sm btn-default">RSS Feed</a></li>
+        </ul>
+        <ul class="footer-links">
+          <li><a class="btn btn-sm btn-default disabled">Animegg.org 2026</a></li>
+        </ul>
+      </div>
+      <!-- if !user
+      .dropup.pull-right
+        button.btn.dropbtn.dropdown-toggle(type='button', data-toggle='dropdown', aria-haspopup='true', aria-expanded='false')
+          | Missing Chat?
+          span
+          span.caret
+        .dropdown-menu
+          p.head It still exists!
+          p Chat still exists! To use chat, all you have to do is sign in to your free Animegg account!
+          p You can create an account
+            span
+            a.dropLink(href='/createUser')  here!
+      -->
+      <!--load scripts-->
+      <!--local scripts-->
+      <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+      <script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+      <script src="//bowercdn.net/c/bootstrap-3.2.0/dist/js/bootstrap.min.js"></script>
+      <script src="//bowercdn.net/c/moment-2.7.0/min/moment.min.js"></script>
+      <script src="//bowercdn.net/c/string-3.3.1/dist/string.min.js"></script>
+      <script src="https://www.google.com/recaptcha/api.js"></script>
+      <script src="/js/search.js"></script>
+      <!--end local scripts-->
+      <!-- Chatango Chat Box-->
+      <!-- script(id='sid0020000065135929203').
+      (function() {function async_load(){
+      s.id="cid0020000065135929203";
+      s.src=(window.location.href.indexOf('file:///') > -1 ? 'http:' : '') + '//st.chatango.com/js/gz/emb.js';
+      s.style.cssText="width:275px;height:315px;";
+      s.async=true;
+      s.text='{"handle":"chatanimegg","arch":"js","styles":{"a":"000","b":100,"c":"eb7d06","d":"000","h":"FFFFFF","k":"000000","l":"000000","m":"FFFFFF","n":"FFFFFF","o":"100","q":"000","r":000000,"t":0,"showx":"0","pos":"br","cv":0,"cvbg":"000","usricon":0.99,"surl":0,"cnrs":"0.35","usricon":"1"}}';
+      var ss = document.getElementsByTagName('script');
+      for (var i=0, l=ss.length; i < l; i++){
+      if (ss[i].id=='sid0020000065135929203'){
+      ss[i].id +='_';ss[i].parentNode.insertBefore(s, ss[i]);break;}}}
+      var s=document.createElement('script');
+      if (s.async==undefined){
+      if (window.addEventListener) {addEventListener('load',async_load,false);
+      }else if (window.attachEvent) {attachEvent('onload',async_load);}}else {async_load();}})();
+      -->
+      <!--end chatango ChatBox-->
+      <script>
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+          var u = "https://stats.esecured.net/";
+          _paq.push(['setTrackerUrl',u + 'matomo.php']);
+          _paq.push(['setSiteId','7']);
+          var d = document,g = d.createElement('script'),
+            s = d.getElementsByTagName('script')[0];
+          g.type = 'text/javascript';
+          g.async = true;
+          g.src = u + 'matomo.js';
+          s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+      <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-51999698-1"></script>
+      <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-51999698-1');
+        
+        
+      </script>
+    </div>
+  </body>
+</html>

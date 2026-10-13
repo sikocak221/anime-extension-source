@@ -1,0 +1,11 @@
+node_modules
+dist
+pnpm-lock.yaml
+LICENSE
+# Saved pages of the real sites: the markup must stay untouched.
+src/*/*/test/fixtures
+docs/.vitepress/dist
+docs/.vitepress/cache
+# Written by scripts/build-site.mjs
+docs/repository.md
+docs/extensions.md

@@ -1,0 +1,19 @@
+{
+  "name": "@matane-anime/donghuastream-extension",
+  "version": "0.1.1",
+  "private": true,
+  "description": "Extension for donghuastream.org (donghua with multiple subtitle languages).",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "ma-ext build",
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "test:live": "LIVE=1 vitest run test/live.test.ts"
+  },
+  "devDependencies": {
+    "@matane-anime/extension-cli": "catalog:",
+    "@matane-anime/extension-runtime": "catalog:",
+    "@matane-anime/extension-sdk": "catalog:"
+  }
+}

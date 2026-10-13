@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4 # version comes from "packageManager" in package.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm format:check
+      # The table in README.md comes from the manifests.
+      - run: node scripts/readme-table.mjs --check
+      - run: pnpm typecheck
+      # Bundles every extension the way the app loads it and checks it loads in the sandbox.
+      - run: pnpm build
+      # Offline: saved pages of the real sites (test/fixtures). The live tests need the sites: see smoke.yml.
+      - run: pnpm test
+      # Every extension must build into a repository exactly as Publish would (unsigned here).
+      - run: pnpm repo:build:unsigned
+      # A changed extension needs a higher version, or the app never offers the change.
+      - run: node scripts/check-versions.mjs "$REPO_URL"
+        env:
+          REPO_URL: ${{ vars.REPO_URL }}
+      # The documentation site builds from what was just built.
+      - run: node scripts/build-site.mjs

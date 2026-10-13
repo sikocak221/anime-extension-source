@@ -1,0 +1,1899 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Popular, New, Ongoing, HD Anime Series Genres | Animegg.org</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Animegg">
+    <meta property="og:site_name" content="Animegg">
+    <meta property="fb:app_id" content="279321548895951">
+    <meta name="propeller" content="abf9d6cf85ddb56749df1b665eb4d8b1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="a.validate.01" content="8ea3efaecd5dcaf5ad59d855d29deb80d612">
+    <meta name="a.validate.01" content="18450344bdcd1a8d4f8a09f10f7ed13a89da">
+    <meta name="description" content="Watch Popular, New, Ongoing, and Completed Anime Online Free. Anime Streaming Movies and Episodes in Subbed and Dubbed in HD on iPhone and Android mobile.">
+    <meta name="keywords" content="anime,recent anime,most popular anime,new anime,released anime,anime genres, anime categories,ongoing anime, completed anime,mobile,HD">
+    <link rel="stylesheet" type="text/css" href="//bowercdn.net/c/html5-boilerplate-4.3.0/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="//bowercdn.net/c/html5-boilerplate-4.3.0/css/main.css">
+    <link rel="stylesheet" href="//bowercdn.net/c/bootstrap-3.2.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/index2.css?v5">
+    <link rel="icon" href="/images/anime.png?v=2" sizes="16x16" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" sizes="196x196" href="images/anime.png?v=2">
+  </head>
+  <body>
+    <div class="premium-header-bar">
+      <div class="container">
+        <div><a href="/createUser">Missing Chat? Sign in!</a><a href="/premium-advantage" class="rightLink">Click To Discover the Premium Advantage Now!</a></div>
+      </div>
+    </div>
+    <!--.holiday-header-bar
+    .container
+      div
+        a(href='/createUser') Real Free Anime, Animegg.org
+    -->
+    <div role="banner" class="navbar navbar-inverse bs-docs-nav">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" data-toggle="collapse" data-target=".bs-navbar-collapse" class="navbar-toggle"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+          <h1><a href="/" class="navbar-brand"><img id="logo" src="/images/animegg-logo-new.png" alt="Watch Anime Online"></a></h1>
+        </div>
+        <div role="navigation" class="collapse navbar-collapse bs-navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/login" class="usertab">Log In</a>
+            </li>
+            <li class="search">
+              <form action="/search/" x-webkit-speech="x-webkit-speech" _lpchecked="1">
+                <input id="searchsite" type="search" name="q" autocomplete="off" tabindex="1" spellcheck="false" placeholder="Search Anime...">
+              </form>
+            </li>
+            <li><a data-toggle="dropdown" class="dropdown-toggle">Browse</a>
+              <ul class="dropdown-menu">
+                <li><a href="/series">All</a></li>
+                <li><a href="/popular-series">Popular</a></li>
+                <li><a href="/popular-series?ongoing=true">Ongoing</a></li>
+                <li><a href="/popular-series?ongoing=false">Completed</a></li>
+                <li><a href="/popular-series?sortBy=createdAt&amp;sortDirection=DESC">New</a></li>
+                <li><a href="/popular-series">By Genre</a></li>
+                <li><a href="/releases">All Recent Releases</a></li>
+              </ul>
+            </li>
+            <li><a href="/popular-series" class="dropdown-toggle">Popular</a></li>
+            <li><a href="/release-schedule" class="dropdown-toggle">Schedule</a></li>
+            <li><a href="/random" class="blue">Random</a></li>
+          </ul>
+        </div><a name="top"></a>
+      </div>
+      <!--main content-->
+      <div style="margin-top: 15px" class="container">
+        <div class="row">
+          <div class="col-md-7">
+            <div class="cblock">
+              <div id="recentTabs" role="tablist" class="home-tabs recent-anime">
+                <h1><a href="#recentlyReleased" role="tab" data-toggle="tab" class="active">Adventure</a></h1>
+              </div>
+              <div class="moose">
+                <ul class="popanime cats">
+                  <div id="popularAnime" class="tab-content">
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/4bbfe4b9415138646949f08a3e991b954d810390/jpeg"><a href="/series/detectiveconan" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/detectiveconan">Detective Conan</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/detectiveconan" class="btn btn-default btn-sm disabled">1188 Episodes</a></li>
+                            <li><a href="/series/detectiveconan" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <div class="desfea">Shinichi Kudou, a high school student of astounding talent in detective work, is well known for having solved several challenging cases. One day, when Shinichi spots two suspicious men and decides to follow them, he inadvertently becomes witness to a disturbing illegal activity. Unfortunately, he is caught in the act, so the men dose him with an experimental drug formulated by their criminal organization, leaving him to his death. However, to his own astonishment, Shinichi lives to see another...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/14e96cd4177b17eb1ee85d84d09efcc0fa3e1b69/jpeg"><a href="/series/boruto-naruto-next-generations" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/boruto-naruto-next-generations">Boruto: Naruto Next Generations</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/boruto-naruto-next-generations" class="btn btn-default btn-sm disabled">294 Episodes</a></li>
+                            <li><a href="/series/boruto-naruto-next-generations" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Naruto was a young shinobi with an incorrigible knack for mischief. He achieved his dream to become the greatest ninja in the village and his face sits atop the Hokage monument. But this is not his story... A new generation of ninja are ready to take the stage, led by Naruto's own son, Boruto!</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/54721483e6f4686ef87a3a016a14075467dabbb9/jpeg"><a href="/series/dragon-ball-super" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/dragon-ball-super">Dragon Ball Super</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/dragon-ball-super" class="btn btn-default btn-sm disabled">131 Episodes</a></li>
+                            <li><a href="/series/dragon-ball-super" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Reuniting the franchise's iconic characters, Dragon Ball Super will follow the aftermath of Goku's fierce battle with Majin Buu as he attempts to maintain earth's fragile peace.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/cc323728e2184d6c233bc4a8f0b4d044865deeec/jpeg"><a href="/series/fairy-tail" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/fairy-tail">Fairy Tail</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/fairy-tail" class="btn btn-default btn-sm disabled">175 Episodes</a></li>
+                            <li><a href="/series/fairy-tail" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isnt just any ordinary kid, he's a member of one of the world's most (in)famous mage guilds: Fairy Tail.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/1a32e6ec0915e749d48f8b4af47c55549e5b1094/jpeg"><a href="/series/dragonball-z" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/dragonball-z">Dragon Ball Z</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/dragonball-z" class="btn btn-default btn-sm disabled">291 Episodes</a></li>
+                            <li><a href="/series/dragonball-z" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Goku is back with his new son, Gohan, but just when things are getting settled down, the adventures continue. Whether he is facing enemies such as Frieza, Cell, or Buu, Goku is proven to be an elite of his own and discovers his race, Saiyan and is able to reach Super Saiyan 3 form. He meets many new people, gaining allies and well as enemies, as he still finds time to raise a family and be the happy-go-lucky Saiyan he is.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/ef19ea9a8b189369a914f19886a42021f0a1ab55/jpeg"><a href="/series/hunter-x-hunter-2011" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/hunter-x-hunter-2011">Hunter x Hunter (2011)</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/hunter-x-hunter-2011" class="btn btn-default btn-sm disabled">148 Episodes</a></li>
+                            <li><a href="/series/hunter-x-hunter-2011" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">A new adaptation of the the manga series by Togashi Yoshihiro.
+
+A Hunter is one who travels the world doing all sorts of dangerous tasks. From capturing criminals to searching deep within uncharted lands for any lost treasures. Gon is a young boy whose father disappeared long ago, being a Hunter. He believes if he could also follow his father's path, he could one day reunite with him.
+
+After becoming 12, Gon leaves his home and takes on the task of entering the Hunter exam, notorious for its...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/a8f0415c34bc5704d4ed28c5b7e8437bfbfa0bb1/jpeg"><a href="/series/fairy-tail-2014" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/fairy-tail-2014">Fairy Tail (2014)</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/fairy-tail-2014" class="btn btn-default btn-sm disabled">102 Episodes</a></li>
+                            <li><a href="/series/fairy-tail-2014" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">The story follows a teenage girl named Lucy Heartfilla who is determined to join the notorious magical Fairy Tail Guild. During a daring rescue, she encounters Natsu who is part of the guild and eventually offers her a place. They become teammates performing various missions for the Fairy Tail Guild. Be prepared for an action-packed adventure!</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/0e15d08fada620c28ecee6a4d1ed370227368a43/jpeg"><a href="/series/dragon-ball" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/dragon-ball">Dragon Ball</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/dragon-ball" class="btn btn-default btn-sm disabled">153 Episodes</a></li>
+                            <li><a href="/series/dragon-ball" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Bulma is a girl in search of the mystical dragonballs that when brought together grant any wish. In her search she bumps into the owner of one of these balls, a strange boy named Goku. The two then set off together, Bulma in search of the dragonballs and Goku on a quest to become stronger.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/54b956dfc62044352617eb437f89b46da835d82f/jpeg"><a href="/series/pokemon" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/pokemon">Pokemon</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/pokemon" class="btn btn-default btn-sm disabled">469 Episodes</a></li>
+                            <li><a href="/series/pokemon" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <div class="desfea">Pokemon are peculiar creatures with a vast array of different abilities and appearances; many people, known as Pokemon trainers, capture and train them, often with the intent of battling others. Young Satoshi has not only dreamed of becoming a Pokemon trainer but also a &quot;Pokemon Master,&quot; and on the arrival of his 10th birthday, he finally has a chance to make that dream a reality. Unfortunately for him, all three Pokemon available to beginning trainers have already been claimed and only Pikachu...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/e773c5d54f5bb94d78a691749c0827ed472c071d/jpeg"><a href="/series/gintama" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/gintama">Gintama</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/gintama" class="btn btn-default btn-sm disabled">263 Episodes</a></li>
+                            <li><a href="/series/gintama" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Life isn't easy in feudal Japan... especially since the aliens landed and conquered everything! Oh sure, the new health care is great, but the public ban on the use of swords has left a lot of defeated samurai with a difficult decision to make concerning their future career paths! This is especially true if, as in the case of Gintoki Sakata, they're not particularly inclined towards holding a day job, which is why Gintoki's opted for the freelance route, taking any job that's offered to him as...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/ce6ad0e28eba8edf3c4b98b8eb23970df322cc5b/jpeg"><a href="/series/the-seven-deadly-sins" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/the-seven-deadly-sins">The Seven Deadly Sins</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/the-seven-deadly-sins" class="btn btn-default btn-sm disabled">24 Episodes</a></li>
+                            <li><a href="/series/the-seven-deadly-sins" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <div class="desfea">The &quot;Seven Deadly Sins,&quot; a group of evil knights who conspired to overthrow the kingdom of Britannia, were said to have been eradicated by the Holy Knights, although some claim that they still live. Ten years later, the Holy Knights have staged a Coup d'état and assassinated the king, becoming the new, tyrannical rulers of the kingdom. Elizabeth, the king's only daughter, sets out on a journey to find the &quot;Seven Deadly Sins,&quot; and to enlist their help in taking back the kingdom.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/0048f485cc82261df2cec4266d988fadd44db806/jpeg"><a href="/series/inuyasha" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/inuyasha">Inuyasha</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/inuyasha" class="btn btn-default btn-sm disabled">164 Episodes</a></li>
+                            <li><a href="/series/inuyasha" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Higurashi Kagome, after being pulled down a well by a demon, finds herself in Feudal Japan, where she learns that a powerful jewel has been reborn inside her body. After the jewel shatters in an attempt to retrieve it from one of the many demons who was after its power, Kagome must join forces with the half-demon Inu Yasha (also after the jewel's power) to track down the shards of the jewel before its power falls into the wrong hands.
+</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/b50a6dfd344cc8be3e5230abd2cc4695e0227b84/jpeg"><a href="/series/full-metal-alchemist-brotherhood" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/full-metal-alchemist-brotherhood">Fullmetal Alchemist: Brotherhood</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/full-metal-alchemist-brotherhood" class="btn btn-default btn-sm disabled">64 Episodes</a></li>
+                            <li><a href="/series/full-metal-alchemist-brotherhood" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">In this world there exist alchemists, people who study and perform the art of alchemical transmutation - to manipulate objects and transform one object into another. They are bounded by the basic law of alchemy: in order to gain something you have to sacrifice something of the same value.
+The main character is the famous alchemist Edward Elric - also known as the Fullmetal Alchemist - who almost lost his little brother, Alphonse, in an alchemical accident. Edward managed to attach his brother's...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/d807859f21b4e2c7421e79b8d9e187e622ea6058/jpeg"><a href="/series/pokemon-xy" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/pokemon-xy">Pokemon XY</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/pokemon-xy" class="btn btn-default btn-sm disabled">93 Episodes</a></li>
+                            <li><a href="/series/pokemon-xy" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Satoshi and Pikachu will travel to Miare City at the center of the Kalos region.
+There, they will encounter never-before-seen Pokémon and make new friends.
+Thus begins a new adventure as Satoshi takes on the Kalos League.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/a195a7ee3a23907f64a89fcde1e2aceb90371af5/jpeg"><a href="/series/toriko" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/toriko">Toriko</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/toriko" class="btn btn-default btn-sm disabled">147 Episodes</a></li>
+                            <li><a href="/series/toriko" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">In the world where the taste and texture of food are very important there is Toriko, a hunter of precious foods regularly hired by restaurants and the rich. A man with inhuman skills to capture the ferocious, evasive and rare animals to complete his ultimate dinner course and then the chef Komatsu, his current accomplice: a weak timid person who was inspired by Toriko's greatness and accompanies him on all his journeys on his quest for the course of his life.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/a0e8a725257f4dbd800d501c6bda1e244f5cfe1d/jpeg"><a href="/series/dragon-ball-kai" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/dragon-ball-kai">Dragon Ball Kai</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/dragon-ball-kai" class="btn btn-default btn-sm disabled">98 Episodes</a></li>
+                            <li><a href="/series/dragon-ball-kai" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">A remastered version of Dragon Ball Z that adheres more to the manga's story. This version includes newly recorded dialog by the original voice actors, new sound effects, new OP/ED sequences, and a brand new HD video transfer.
+</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/204221c05fea03a6169a569593f9d5477c8a7df0/jpeg"><a href="/series/sword-art-online" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/sword-art-online">Sword Art Online</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/sword-art-online" class="btn btn-default btn-sm disabled">26 Episodes</a></li>
+                            <li><a href="/series/sword-art-online" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">The only way to escape is to 'clear' the game. Death in game means actual 'death' ----
+The ten thousand who have logged onto the as of yet mysterious game 'Sword Art Online' using their Nerve Gear have been forced into this perilous death game and are trapped inside.
+
+Protagonist Kirito, one of the many gamers, has greeted this 'truth'.
+He plays as a solo player in the giant castle that is the stage for this game ---- 'Aincrad'.
+
+To meet the conditions of clearing the game and leaving this...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/6beb1f54f0a7ee20abb6b8c0df2c6894be1abc19/jpeg"><a href="/series/pokemon-2019" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/pokemon-2019">Pokemon (2019)</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/pokemon-2019" class="btn btn-default btn-sm disabled">142 Episodes</a></li>
+                            <li><a href="/series/pokemon-2019" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <div class="desfea">The official YouTube channel for the Pokemon franchise announced on Sunday that the franchise is getting a new television anime series titled Pocket Monster. The title is the same title as the original 1997 Pokemon television anime series.
+The new series will feature all of the regions covered in the franchise so far, from the Kanto to the Galar region. The episode of Pokemon Sun &amp; Moon that will air on September 29 will reveal more information about the new show.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/6834f3960b1d0fb01106f0e5121a8f911c3f1f1a/jpeg"><a href="/series/sword-art-online-ii" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/sword-art-online-ii">Sword Art Online II</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/sword-art-online-ii" class="btn btn-default btn-sm disabled">25 Episodes</a></li>
+                            <li><a href="/series/sword-art-online-ii" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">A year has passed since Sword Art Online (SAO) was cleared. Kirito is asked by Kikuoka to investigate Gun Gale Online, specifically Death Gun, a weapon which seemed to link deaths in the virtual reality world to those in the real world.
+Upon entering the game, Kirito meets Sinon who teaches him the ropes of the game. They both enter the Gun Gale Online tournament, Bullet of Bullets. Kirito displays his amazing skills although he is only a newcomer to the game. Later, Kirito finds out that the...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/398286968e1effa0ef8567bfb269deb38ee302ea/jpeg"><a href="/series/fairy-tail-final-series" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/fairy-tail-final-series">Fairy Tail: Final Series</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/fairy-tail-final-series" class="btn btn-default btn-sm disabled">51 Episodes</a></li>
+                            <li><a href="/series/fairy-tail-final-series" class="btn btn-default btn-sm disabled">Ongoing</a></li>
+                          </ul>
+                          <div class="desfea">The final season of Fairy Tail.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/bc0782d86e681d6ed207e598837e0406b33d7936/jpeg"><a href="/series/rurouni-kenshin" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/rurouni-kenshin">Rurouni Kenshin</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/rurouni-kenshin" class="btn btn-default btn-sm disabled">95 Episodes</a></li>
+                            <li><a href="/series/rurouni-kenshin" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Himura Kenshin is a vagabond with a dark past and sunny disposition. Not a ronin but a rurouni, he was never a samurai, but an assassin of utmost skill in the Meiji restoration, who in the turning point of the war simply walked away. His travels lead him to Tokyo in the 11th year of the Meiji era, where he befriends a female Kendo master, a former thief, a brawler and a doctor all with their own secrets. Together they fight off the enemies surfacing from the dark past that Kenshin cannot escape.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/42280108ab4b02612dfd01a085cf4c79f26f97f7/jpeg"><a href="/series/fullmetal-alchemist" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/fullmetal-alchemist">Fullmetal Alchemist</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/fullmetal-alchemist" class="btn btn-default btn-sm disabled">51 Episodes</a></li>
+                            <li><a href="/series/fullmetal-alchemist" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">After losing their mother, Alphonse and Edward Elric attempt to bring her back using the forbidden science of human alchemy. However, alchemy operates on the theory of equivalent trade, and breaking the human alchemy taboo carries a heavy price. Ed loses his leg, and Al loses his body. Ed is able to seal Al's soul inside of a huge suit of armor, at the cost of his arm. Years later, Ed (now with two mechanical limbs) and Al (still trapped in the armor) leave their childhood home, each brother...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/6d112d6e6130d29acbb5ff49533782b56329b565/jpeg"><a href="/series/dragonball-gt" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/dragonball-gt">Dragon Ball GT</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/dragonball-gt" class="btn btn-default btn-sm disabled">64 Episodes</a></li>
+                            <li><a href="/series/dragonball-gt" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Goku, the hero who destroyed the evil of Frieza, Cell, and Buu in DBZ, learns that an old foe, Emperor Pilaf from DB has captured the 7 magical Black Star Dragon Balls, which, at the cost of the planet the balls are on, can grant any wish. Pilaf wishes that Goku is a child, and Goku becomes a child. In order to save both the planet and restore Goku to adulthood, Goku must allign himself with Trunks and his granddaughter Pan to find all 7 Balls all over the universe. Over time, they encounter...</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/bca8f33e41590aea462c4514ce58b0f86705d6d7/jpeg"><a href="/series/dragon-ball-kai-2014" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/dragon-ball-kai-2014">Dragon Ball Kai (2014)</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/dragon-ball-kai-2014" class="btn btn-default btn-sm disabled">61 Episodes</a></li>
+                            <li><a href="/series/dragon-ball-kai-2014" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Remastered version of the Majin Buu saga that adheres more to the manga's story.</div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="fea">
+                      <div class="img"><img src="https://vidcache.net:8161/static/ba4c3d383bad66c2a6ad27ddb624a0eefe9c0341/jpeg"><a href="/series/dgray-man" class="fealink">Watch Anime</a></div>
+                      <div class="rightpop"><a href="/series/dgray-man">D.Gray-man</a>
+                        <div>
+                          <ul class="tags">
+                            <li><a href="/series/dgray-man" class="btn btn-default btn-sm disabled">103 Episodes</a></li>
+                            <li><a href="/series/dgray-man" class="btn btn-default btn-sm disabled">Completed</a></li>
+                          </ul>
+                          <div class="desfea">Towards the end of the 19th century, Allen Walker officially joins the organization of Exorcists that destroy the beings known as Akuma; mechanic weapons made by the Millennium Earl with the suffering souls of the dead. Allen has both a cursed eye and an anti-Akuma weapon as an arm, bearing the power of &quot;Innocence&quot;, a gift given to him as an apostle of God. Allen, along with his fellow Exorcists must put a stop to the Millennium Earl's ultimate plot that could lead to the destruction of the...</div>
+                        </div>
+                      </div>
+                    </li>
+                  </div>
+                </ul>
+                <div class="text-center">
+                  <ul class="pagination">
+                    <li><a href="?start=0"><<</a></li>
+                    <li><a href="?start=0">Previous</a></li>
+                    <li><span>1 - 25 of 2791 Shows</span></li>
+                    <li><a href="?start=25">Next</a></li>
+                    <li><a href="?start=2775">>></a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="cblock">
+              <div class="ctitle">
+                <div id="recentTabs" role="tablist" class="home-tabs recent-anime"><a href="#recentlyReleased" role="tab" data-toggle="tab" class="active">Categories</a></div>
+                <ul class="newmanga category">
+                  <li>
+                    <div><a href="/popular-series" class="anm_det_pop"><strong>All</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/(ova)" class="anm_det_pop"><strong>(Ova)</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/.hack//gift" class="anm_det_pop"><strong>.Hack//gift</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/.hack//roots" class="anm_det_pop"><strong>.Hack//roots</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/009" class="anm_det_pop"><strong>009</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/1+2=paradise" class="anm_det_pop"><strong>1+2=paradise</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/15 children space adventure" class="anm_det_pop"><strong>15 Children Space Adventure</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/2" class="anm_det_pop"><strong>2</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/2020 wonder kiddy sci-fi" class="anm_det_pop"><strong>2020 Wonder Kiddy Sci-Fi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/21 min. per episode" class="anm_det_pop"><strong>21 Min. per Episode</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/21-emon" class="anm_det_pop"><strong>21-Emon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/21emon space" class="anm_det_pop"><strong>21emon Space</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/3 choume no tama: onegai! momo-chan wo sagashite!!" class="anm_det_pop"><strong>3 Choume No Tama: Onegai! Momo-Chan Wo Sagashite!!</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/9 o'clock woman" class="anm_det_pop"><strong>9 O'clock Woman</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/a-real" class="anm_det_pop"><strong>A-Real</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/action" class="anm_det_pop"><strong>Action</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/action comedy" class="anm_det_pop"><strong>Action Comedy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/action game" class="anm_det_pop"><strong>Action Game</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/adult cartoons" class="anm_det_pop"><strong>Adult Cartoons</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/adult cast" class="anm_det_pop"><strong>Adult Cast</strong></a></div>
+                  </li>
+                  <li class="selected">
+                    <div><a href="/genre/adventure" class="anm_det_pop"><strong>Adventure</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/airforce" class="anm_det_pop"><strong>Airforce</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/alchemist: brotherhood ova" class="anm_det_pop"><strong>Alchemist: Brotherhood Ova</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/aliens" class="anm_det_pop"><strong>Aliens</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ancient china" class="anm_det_pop"><strong>Ancient China</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/and 3 wishes dattebayo!! (ova)" class="anm_det_pop"><strong>And 3 Wishes Dattebayo!! (Ova)</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/android" class="anm_det_pop"><strong>Android</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/androids" class="anm_det_pop"><strong>Androids</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/angel dokuro-chan" class="anm_det_pop"><strong>Angel Dokuro-Chan</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/angels" class="anm_det_pop"><strong>Angels</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/angst" class="anm_det_pop"><strong>Angst</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/animation" class="anm_det_pop"><strong>Animation</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/anime" class="anm_det_pop"><strong>Anime</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/anthropomorphic" class="anm_det_pop"><strong>Anthropomorphic</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/anthropomorphism" class="anm_det_pop"><strong>Anthropomorphism</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/art" class="anm_det_pop"><strong>Art</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/artland" class="anm_det_pop"><strong>Artland</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/asura" class="anm_det_pop"><strong>Asura</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/avant garde" class="anm_det_pop"><strong>Avant Garde</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/avatar:" class="anm_det_pop"><strong>Avatar:</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/aventure" class="anm_det_pop"><strong>Aventure</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/award winning" class="anm_det_pop"><strong>Award Winning</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ball" class="anm_det_pop"><strong>Ball</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/band" class="anm_det_pop"><strong>Band</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/banner" class="anm_det_pop"><strong>Banner</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/baseball" class="anm_det_pop"><strong>Baseball</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/beelzebub" class="anm_det_pop"><strong>Beelzebub</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/bishounen" class="anm_det_pop"><strong>Bishounen</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/bizarre adventure: stardust crusaders" class="anm_det_pop"><strong>Bizarre Adventure: Stardust Crusaders</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/bludgeoning" class="anm_det_pop"><strong>Bludgeoning</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/boing" class="anm_det_pop"><strong>Boing</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/boku wa" class="anm_det_pop"><strong>Boku Wa</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/bounty hunters" class="anm_det_pop"><strong>Bounty Hunters</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/boxing" class="anm_det_pop"><strong>Boxing</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/boys love" class="anm_det_pop"><strong>Boys Love</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/brothers" class="anm_det_pop"><strong>Brothers</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/bunri no crime edge" class="anm_det_pop"><strong>Bunri No Crime Edge</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/car racing" class="anm_det_pop"><strong>Car Racing</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/cars" class="anm_det_pop"><strong>Cars</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/cartoon" class="anm_det_pop"><strong>Cartoon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/catgirl" class="anm_det_pop"><strong>Catgirl</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/catgirls" class="anm_det_pop"><strong>Catgirls</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/cgdct" class="anm_det_pop"><strong>Cgdct</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/chara! doki" class="anm_det_pop"><strong>Chara! Doki</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/chibi" class="anm_det_pop"><strong>Chibi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/childcare" class="anm_det_pop"><strong>Childcare</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/children's fiction" class="anm_det_pop"><strong>Children's Fiction</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/chinese anime" class="anm_det_pop"><strong>Chinese Anime</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/chinese cartoon" class="anm_det_pop"><strong>Chinese Cartoon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/chobits" class="anm_det_pop"><strong>Chobits</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/chronicles" class="anm_det_pop"><strong>Chronicles</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/chuunibyou" class="anm_det_pop"><strong>Chuunibyou</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/clubs" class="anm_det_pop"><strong>Clubs</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/code" class="anm_det_pop"><strong>Code</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/code-e" class="anm_det_pop"><strong>Code-E</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/code:breaker" class="anm_det_pop"><strong>Code:breaker</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/college" class="anm_det_pop"><strong>College</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/combat" class="anm_det_pop"><strong>Combat</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/combat sports" class="anm_det_pop"><strong>Combat Sports</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/comed" class="anm_det_pop"><strong>Comed</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/comedy" class="anm_det_pop"><strong>Comedy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/comedy 11eyes" class="anm_det_pop"><strong>Comedy 11eyes</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/comic" class="anm_det_pop"><strong>Comic</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/coming of age" class="anm_det_pop"><strong>Coming of Age</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/conan: shinichi kudou's written challenge" class="anm_det_pop"><strong>Conan: Shinichi Kudou's Written Challenge</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/conan: the challenge to kudo shinichi" class="anm_det_pop"><strong>Conan: The Challenge to Kudo Shinichi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/conflict" class="anm_det_pop"><strong>Conflict</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/conspiracy" class="anm_det_pop"><strong>Conspiracy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/contemporary fantasy" class="anm_det_pop"><strong>Contemporary Fantasy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/cooking" class="anm_det_pop"><strong>Cooking</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/cops" class="anm_det_pop"><strong>Cops</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/corda d'oro ~secondo passo~" class="anm_det_pop"><strong>Corda D'oro ~Secondo Passo~</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/crime" class="anm_det_pop"><strong>Crime</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/crisis!" class="anm_det_pop"><strong>Crisis!</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/crossdressing" class="anm_det_pop"><strong>Crossdressing</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/cryin season 2" class="anm_det_pop"><strong>Cryin Season 2</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ction" class="anm_det_pop"><strong>Ction</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/cultivation" class="anm_det_pop"><strong>Cultivation</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/currently airing" class="anm_det_pop"><strong>Currently Airing</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/cyberpunk" class="anm_det_pop"><strong>Cyberpunk</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/cyborg" class="anm_det_pop"><strong>Cyborg</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/cyborgs" class="anm_det_pop"><strong>Cyborgs</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/daikon brothers" class="anm_det_pop"><strong>Daikon Brothers</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/daily" class="anm_det_pop"><strong>Daily</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/daily life" class="anm_det_pop"><strong>Daily Life</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dakara" class="anm_det_pop"><strong>Dakara</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dance" class="anm_det_pop"><strong>Dance</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dansai" class="anm_det_pop"><strong>Dansai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dantalian" class="anm_det_pop"><strong>Dantalian</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/darker" class="anm_det_pop"><strong>Darker</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/data girl" class="anm_det_pop"><strong>Data Girl</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/deadman" class="anm_det_pop"><strong>Deadman</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/deity" class="anm_det_pop"><strong>Deity</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/delinquents" class="anm_det_pop"><strong>Delinquents</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dementia" class="anm_det_pop"><strong>Dementia</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dementia action" class="anm_det_pop"><strong>Dementia Action</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/demo koi ga shitai! lite" class="anm_det_pop"><strong>Demo Koi Ga Shitai! Lite</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/demon" class="anm_det_pop"><strong>Demon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/demons" class="anm_det_pop"><strong>Demons</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/denpa" class="anm_det_pop"><strong>Denpa</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/desert" class="anm_det_pop"><strong>Desert</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/detective" class="anm_det_pop"><strong>Detective</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/digimon" class="anm_det_pop"><strong>Digimon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dragon" class="anm_det_pop"><strong>Dragon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dragonball" class="anm_det_pop"><strong>Dragonball</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/drama" class="anm_det_pop"><strong>Drama</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/drame" class="anm_det_pop"><strong>Drame</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dreams" class="anm_det_pop"><strong>Dreams</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/driving" class="anm_det_pop"><strong>Driving</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dub" class="anm_det_pop"><strong>Dub</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/dystopia" class="anm_det_pop"><strong>Dystopia</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/e kickoff!!" class="anm_det_pop"><strong>E Kickoff!!</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ecchi" class="anm_det_pop"><strong>Ecchi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/educational" class="anm_det_pop"><strong>Educational</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/eikoku" class="anm_det_pop"><strong>Eikoku</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/elementary school" class="anm_det_pop"><strong>Elementary School</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/elves" class="anm_det_pop"><strong>Elves</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/erotica" class="anm_det_pop"><strong>Erotica</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/examurai" class="anm_det_pop"><strong>Examurai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/family" class="anm_det_pop"><strong>Family</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/fantastique" class="anm_det_pop"><strong>Fantastique</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/fantasy" class="anm_det_pop"><strong>Fantasy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/fart" class="anm_det_pop"><strong>Fart</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/female student" class="anm_det_pop"><strong>Female Student</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/female students" class="anm_det_pop"><strong>Female Students</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/female teachers" class="anm_det_pop"><strong>Female Teachers</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/feudal warfare" class="anm_det_pop"><strong>Feudal Warfare</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/fifteen children space adventure action sci-fi shounen space 15 sonyeon uju pyoryugi" class="anm_det_pop"><strong>Fifteen Children Space Adventure Action Sci-Fi Shounen Space 15 Sonyeon Uju Pyoryugi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/football" class="anm_det_pop"><strong>Football</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/four play" class="anm_det_pop"><strong>Four Play</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/fractale" class="anm_det_pop"><strong>Fractale</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/freezing" class="anm_det_pop"><strong>Freezing</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/fu panda: legends of awesomeness" class="anm_det_pop"><strong>Fu Panda: Legends of Awesomeness</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/fullmetal" class="anm_det_pop"><strong>Fullmetal</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/funimation entertainmentl" class="anm_det_pop"><strong>Funimation Entertainmentl</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ga" class="anm_det_pop"><strong>Ga</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gag humor" class="anm_det_pop"><strong>Gag Humor</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gambling" class="anm_det_pop"><strong>Gambling</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/game" class="anm_det_pop"><strong>Game</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gantz" class="anm_det_pop"><strong>Gantz</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/geass: lelouch of the rebellion r2 special edition zero requiem" class="anm_det_pop"><strong>Geass: Lelouch of the Rebellion R2 Special Edition Zero Requiem</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gekitouhen (ova)" class="anm_det_pop"><strong>Gekitouhen (Ova)</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/genco" class="anm_det_pop"><strong>Genco</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gender bender" class="anm_det_pop"><strong>Gender Bender</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gender switch" class="anm_det_pop"><strong>Gender Switch</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/geneon universal entertainment" class="anm_det_pop"><strong>Geneon Universal Entertainment</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/genetic modification" class="anm_det_pop"><strong>Genetic Modification</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ghost" class="anm_det_pop"><strong>Ghost</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ghost in the shell arise introduction" class="anm_det_pop"><strong>Ghost in the Shell Arise Introduction</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ghost pipoaction" class="anm_det_pop"><strong>Ghost Pipoaction</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ginga" class="anm_det_pop"><strong>Ginga</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/girls" class="anm_det_pop"><strong>Girls</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/girls love" class="anm_det_pop"><strong>Girls Love</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/girls z" class="anm_det_pop"><strong>Girls Z</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/glovision" class="anm_det_pop"><strong>Glovision</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/goddesses" class="anm_det_pop"><strong>Goddesses</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gore" class="anm_det_pop"><strong>Gore</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gourmet" class="anm_det_pop"><strong>Gourmet</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gravitation" class="anm_det_pop"><strong>Gravitation</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/great god legend ideon" class="anm_det_pop"><strong>Great God Legend Ideon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/green" class="anm_det_pop"><strong>Green</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/grooove" class="anm_det_pop"><strong>Grooove</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gundam sangokuden brave battle warriors" class="anm_det_pop"><strong>Gundam Sangokuden Brave Battle Warriors</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gundam:" class="anm_det_pop"><strong>Gundam:</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gunfights" class="anm_det_pop"><strong>Gunfights</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/gymnastics" class="anm_det_pop"><strong>Gymnastics</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/h ga dekinai. ova" class="anm_det_pop"><strong>H Ga Dekinai. Ova</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/hamlet" class="anm_det_pop"><strong>Hamlet</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/harappa" class="anm_det_pop"><strong>Harappa</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/harem" class="anm_det_pop"><strong>Harem</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/harem duration: 24 min. per episode" class="anm_det_pop"><strong>Harem Duration: 24 Min. per Episode</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/hataraki" class="anm_det_pop"><strong>Hataraki</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/heartcatch" class="anm_det_pop"><strong>Heartcatch</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/hen" class="anm_det_pop"><strong>Hen</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/hentai" class="anm_det_pop"><strong>Hentai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/hetalia" class="anm_det_pop"><strong>Hetalia</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/higepiyo" class="anm_det_pop"><strong>Higepiyo</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/high fantasy" class="anm_det_pop"><strong>High Fantasy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/high school" class="anm_det_pop"><strong>High School</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/high stakes game" class="anm_det_pop"><strong>High Stakes Game</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/higurashi" class="anm_det_pop"><strong>Higurashi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/himawari!" class="anm_det_pop"><strong>Himawari!</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/historical" class="anm_det_pop"><strong>Historical</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/history" class="anm_det_pop"><strong>History</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/horror" class="anm_det_pop"><strong>Horror</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/houkago" class="anm_det_pop"><strong>Houkago</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/human enhancement" class="anm_det_pop"><strong>Human Enhancement</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/humanoid" class="anm_det_pop"><strong>Humanoid</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ice" class="anm_det_pop"><strong>Ice</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ichigo" class="anm_det_pop"><strong>Ichigo</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ideon" class="anm_det_pop"><strong>Ideon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/idols" class="anm_det_pop"><strong>Idols</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/idols (female)" class="anm_det_pop"><strong>Idols (Female)</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ii: perfect answer" class="anm_det_pop"><strong>Ii: Perfect Answer</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/iinayo." class="anm_det_pop"><strong>Iinayo.</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/in the shell: stand alone complex 2nd gig" class="anm_det_pop"><strong>In the Shell: Stand Alone Complex 2nd Gig</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/inu" class="anm_det_pop"><strong>Inu</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/isekai" class="anm_det_pop"><strong>Isekai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/iyashikei" class="anm_det_pop"><strong>Iyashikei</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/jigoku" class="anm_det_pop"><strong>Jigoku</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/jinrui" class="anm_det_pop"><strong>Jinrui</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/jojo's" class="anm_det_pop"><strong>Jojo's</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/josei" class="anm_det_pop"><strong>Josei</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/juujin" class="anm_det_pop"><strong>Juujin</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kage" class="anm_det_pop"><strong>Kage</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kai" class="anm_det_pop"><strong>Kai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kakusei e no prologue" class="anm_det_pop"><strong>Kakusei E No Prologue</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kamichu!" class="anm_det_pop"><strong>Kamichu!</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kids" class="anm_det_pop"><strong>Kids</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kids music" class="anm_det_pop"><strong>Kids Music</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kimi" class="anm_det_pop"><strong>Kimi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/knight" class="anm_det_pop"><strong>Knight</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/koizora" class="anm_det_pop"><strong>Koizora</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/koukaku kidoutai nyuumon arise" class="anm_det_pop"><strong>Koukaku Kidoutai Nyuumon Arise</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kung" class="anm_det_pop"><strong>Kung</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kuroshitsuji" class="anm_det_pop"><strong>Kuroshitsuji</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kyoukai" class="anm_det_pop"><strong>Kyoukai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/kyousougiga" class="anm_det_pop"><strong>Kyousougiga</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/la" class="anm_det_pop"><strong>La</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/large breasts" class="anm_det_pop"><strong>Large Breasts</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/law" class="anm_det_pop"><strong>Law</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/law and order" class="anm_det_pop"><strong>Law and Order</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/legendary giant-god ideon" class="anm_det_pop"><strong>Legendary Giant-God Ideon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/litchi" class="anm_det_pop"><strong>Litchi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/lives of high school boys specials" class="anm_det_pop"><strong>Lives of High School Boys Specials</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/love polygon" class="anm_det_pop"><strong>Love Polygon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/machi wa mawatteiru" class="anm_det_pop"><strong>Machi Wa Mawatteiru</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/madhouse" class="anm_det_pop"><strong>Madhouse</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/madlax" class="anm_det_pop"><strong>Madlax</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/mafia" class="anm_det_pop"><strong>Mafia</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/magic" class="anm_det_pop"><strong>Magic</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/magic slice of life" class="anm_det_pop"><strong>Magic Slice of Life</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/magical girl" class="anm_det_pop"><strong>Magical Girl</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/magical sex shift" class="anm_det_pop"><strong>Magical Sex Shift</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/mahou shoujo" class="anm_det_pop"><strong>Mahou Shoujo</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/man live action" class="anm_det_pop"><strong>Man Live Action</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/manga" class="anm_det_pop"><strong>Manga</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/marshmallow" class="anm_det_pop"><strong>Marshmallow</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/martial arts" class="anm_det_pop"><strong>Martial Arts</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/marvelous aql" class="anm_det_pop"><strong>Marvelous Aql</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/mecha" class="anm_det_pop"><strong>Mecha</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/media factory" class="anm_det_pop"><strong>Media Factory</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/medical" class="anm_det_pop"><strong>Medical</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/megas" class="anm_det_pop"><strong>Megas</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/melancholy" class="anm_det_pop"><strong>Melancholy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/mewtwo:" class="anm_det_pop"><strong>Mewtwo:</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/michiko" class="anm_det_pop"><strong>Michiko</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/middle school" class="anm_det_pop"><strong>Middle School</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/militar" class="anm_det_pop"><strong>Militar</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/military" class="anm_det_pop"><strong>Military</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/military read more at http://myanimelist.net/anime/58/blue_gender#tczdellyx0c5ibbs.99" class="anm_det_pop"><strong>Military Read More at http://myanimelist.net/anime/58/blue_gender#tczdellyx0c5ibbs.99</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/miracle" class="anm_det_pop"><strong>Miracle</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/misaki" class="anm_det_pop"><strong>Misaki</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/mobile suit gundam unicorn" class="anm_det_pop"><strong>Mobile Suit Gundam Unicorn</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/movie" class="anm_det_pop"><strong>Movie</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/mushi-shi" class="anm_det_pop"><strong>Mushi-Shi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/music" class="anm_det_pop"><strong>Music</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/mystery" class="anm_det_pop"><strong>Mystery</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/mythology" class="anm_det_pop"><strong>Mythology</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/nana" class="anm_det_pop"><strong>Nana</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/narue" class="anm_det_pop"><strong>Narue</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/naruto:" class="anm_det_pop"><strong>Naruto:</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/navy" class="anm_det_pop"><strong>Navy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/nazo" class="anm_det_pop"><strong>Nazo</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/nerima" class="anm_det_pop"><strong>Nerima</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/net" class="anm_det_pop"><strong>Net</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ni todoke: the movie" class="anm_det_pop"><strong>Ni Todoke: The Movie</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/nine o'clock woman" class="anm_det_pop"><strong>Nine O'clock Woman</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ninja" class="anm_det_pop"><strong>Ninja</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ninjas" class="anm_det_pop"><strong>Ninjas</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/no gargantia" class="anm_det_pop"><strong>No Gargantia</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/no genres yet. please notify us." class="anm_det_pop"><strong>No Genres Yet. Please Notify Us.</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/no moribito" class="anm_det_pop"><strong>No Moribito</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/no naku koro ni chikai" class="anm_det_pop"><strong>No Naku Koro Ni Chikai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/no pleiades" class="anm_det_pop"><strong>No Pleiades</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/no sekai" class="anm_det_pop"><strong>No Sekai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/no shoka" class="anm_det_pop"><strong>No Shoka</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/norageki!" class="anm_det_pop"><strong>Norageki!</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/novel" class="anm_det_pop"><strong>Novel</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/nudity" class="anm_det_pop"><strong>Nudity</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/of haruhi suzumiya season 2" class="anm_det_pop"><strong>Of Haruhi Suzumiya Season 2</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/of tennis: another story ii - ano toki no bokura (ova)" class="anm_det_pop"><strong>Of Tennis: Another Story Ii - Ano Toki No Bokura (Ova)</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/of the stars iii" class="anm_det_pop"><strong>Of the Stars Iii</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ona" class="anm_det_pop"><strong>Ona</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/onna to seishun otoko" class="anm_det_pop"><strong>Onna to Seishun Otoko</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/organized crime" class="anm_det_pop"><strong>Organized Crime</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/osaka" class="anm_det_pop"><strong>Osaka</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/otaku" class="anm_det_pop"><strong>Otaku</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/otaku culture" class="anm_det_pop"><strong>Otaku Culture</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ova" class="anm_det_pop"><strong>Ova</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/panic!" class="anm_det_pop"><strong>Panic!</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/parallel universe" class="anm_det_pop"><strong>Parallel Universe</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/parasites" class="anm_det_pop"><strong>Parasites</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/parody" class="anm_det_pop"><strong>Parody</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/performance" class="anm_det_pop"><strong>Performance</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/performing arts" class="anm_det_pop"><strong>Performing Arts</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/pets" class="anm_det_pop"><strong>Pets</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/piloted robot" class="anm_det_pop"><strong>Piloted Robot</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/piloted robots" class="anm_det_pop"><strong>Piloted Robots</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/police" class="anm_det_pop"><strong>Police</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/post-apocalypse" class="anm_det_pop"><strong>Post-Apocalypse</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/post-apocalyptic" class="anm_det_pop"><strong>Post-Apocalyptic</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/powerpuff" class="anm_det_pop"><strong>Powerpuff</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/prince" class="anm_det_pop"><strong>Prince</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/proxy battles" class="anm_det_pop"><strong>Proxy Battles</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/psychological" class="anm_det_pop"><strong>Psychological</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/punk" class="anm_det_pop"><strong>Punk</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/racing" class="anm_det_pop"><strong>Racing</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/red" class="anm_det_pop"><strong>Red</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/rei zero" class="anm_det_pop"><strong>Rei Zero</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/reincarnation" class="anm_det_pop"><strong>Reincarnation</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/report" class="anm_det_pop"><strong>Report</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/revenge" class="anm_det_pop"><strong>Revenge</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/reverse harem" class="anm_det_pop"><strong>Reverse Harem</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/riders" class="anm_det_pop"><strong>Riders</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/rinne" class="anm_det_pop"><strong>Rinne</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/rio:" class="anm_det_pop"><strong>Rio:</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/robot girl" class="anm_det_pop"><strong>Robot Girl</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/robots" class="anm_det_pop"><strong>Robots</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/romance" class="anm_det_pop"><strong>Romance</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/romance romance" class="anm_det_pop"><strong>Romance Romance</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/romantic subtext" class="anm_det_pop"><strong>Romantic Subtext</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/rozen" class="anm_det_pop"><strong>Rozen</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/rurouni" class="anm_det_pop"><strong>Rurouni</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/ryoko no kaiki jikenbo" class="anm_det_pop"><strong>Ryoko No Kaiki Jikenbo</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sailor" class="anm_det_pop"><strong>Sailor</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/samurai" class="anm_det_pop"><strong>Samurai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/san choume no tama uchi no tama shirimasenka?" class="anm_det_pop"><strong>San Choume No Tama Uchi No Tama Shirimasenka?</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sanchome no tama: uchi no tama shirimasenka?" class="anm_det_pop"><strong>Sanchome No Tama: Uchi No Tama Shirimasenka?</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/scfi" class="anm_det_pop"><strong>Scfi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/school" class="anm_det_pop"><strong>School</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/school life" class="anm_det_pop"><strong>School Life</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sci-fi" class="anm_det_pop"><strong>Sci-Fi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sci-fi 21 emon uchuu e irasshai!" class="anm_det_pop"><strong>Sci-Fi 21 Emon Uchuu E Irasshai!</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sci-fiss" class="anm_det_pop"><strong>Sci-Fiss</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/science fiction" class="anm_det_pop"><strong>Science Fiction</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/scifi" class="anm_det_pop"><strong>Scifi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sd" class="anm_det_pop"><strong>Sd</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/seinen" class="anm_det_pop"><strong>Seinen</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/seirei" class="anm_det_pop"><strong>Seirei</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sekirei" class="anm_det_pop"><strong>Sekirei</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sengoku" class="anm_det_pop"><strong>Sengoku</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/senran kagura partners" class="anm_det_pop"><strong>Senran Kagura Partners</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shinryaku!?" class="anm_det_pop"><strong>Shinryaku!?</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/short" class="anm_det_pop"><strong>Short</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shoujo" class="anm_det_pop"><strong>Shoujo</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shoujo ai" class="anm_det_pop"><strong>Shoujo Ai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shoujo futakomori" class="anm_det_pop"><strong>Shoujo Futakomori</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shoun" class="anm_det_pop"><strong>Shoun</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shoune" class="anm_det_pop"><strong>Shoune</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shounen" class="anm_det_pop"><strong>Shounen</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shounen action" class="anm_det_pop"><strong>Shounen Action</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shounen ai" class="anm_det_pop"><strong>Shounen Ai</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shounen read more at http://myanimelist.net/anime/296/dragon_drive#oscxuvigegdeecmm.99" class="anm_det_pop"><strong>Shounen Read More at http://myanimelist.net/anime/296/dragon_drive#oscxuvigegdeecmm.99</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/show" class="anm_det_pop"><strong>Show</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/showbiz" class="anm_det_pop"><strong>Showbiz</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/shugo" class="anm_det_pop"><strong>Shugo</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/silent" class="anm_det_pop"><strong>Silent</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/slapstick" class="anm_det_pop"><strong>Slapstick</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/slice of life" class="anm_det_pop"><strong>Slice of Life</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/slice of life read more at http://myanimelist.net/anime/3745/crayon_shin-chan_movie_02:_buriburi_oukoku_no_hihou#yz8siwhzzol9lflj.99" class="anm_det_pop"><strong>Slice of Life Read More at http://myanimelist.net/anime/3745/crayon_shin-chan_movie_02:_buriburi_oukoku_no_hihou#yz8siwhzzol9lflj.99</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sola ova; sola" class="anm_det_pop"><strong>Sola Ova; Sola</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/soredemo" class="anm_det_pop"><strong>Soredemo</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/space" class="anm_det_pop"><strong>Space</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/space 21 emon uchuu ike! hadashi no princess" class="anm_det_pop"><strong>Space 21 Emon Uchuu Ike! Hadashi No Princess</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/space runaway ideon" class="anm_det_pop"><strong>Space Runaway Ideon</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/space travel" class="anm_det_pop"><strong>Space Travel</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/spawn" class="anm_det_pop"><strong>Spawn</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/special" class="anm_det_pop"><strong>Special</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/special squads" class="anm_det_pop"><strong>Special Squads</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/specials" class="anm_det_pop"><strong>Specials</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/spider" class="anm_det_pop"><strong>Spider</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sport" class="anm_det_pop"><strong>Sport</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sports" class="anm_det_pop"><strong>Sports</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/story of saiunkoku season 2" class="anm_det_pop"><strong>Story of Saiunkoku Season 2</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/strategy game" class="anm_det_pop"><strong>Strategy Game</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/strawberry" class="anm_det_pop"><strong>Strawberry</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sudden girlfriend appearance" class="anm_det_pop"><strong>Sudden Girlfriend Appearance</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/suisei" class="anm_det_pop"><strong>Suisei</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/sukitte" class="anm_det_pop"><strong>Sukitte</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/super" class="anm_det_pop"><strong>Super</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/super deformed" class="anm_det_pop"><strong>Super Deformed</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/super power" class="anm_det_pop"><strong>Super Power</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/super powers" class="anm_det_pop"><strong>Super Powers</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/supernaatural" class="anm_det_pop"><strong>Supernaatural</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/supernatura" class="anm_det_pop"><strong>Supernatura</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/supernatural" class="anm_det_pop"><strong>Supernatural</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/supernatural description:" class="anm_det_pop"><strong>Supernatural Description:</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/superpower" class="anm_det_pop"><strong>Superpower</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/survival" class="anm_det_pop"><strong>Survival</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/suspense" class="anm_det_pop"><strong>Suspense</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/swordplay" class="anm_det_pop"><strong>Swordplay</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/system" class="anm_det_pop"><strong>System</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/taidouhen (ova)" class="anm_det_pop"><strong>Taidouhen (Ova)</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/tama &amp; friends" class="anm_det_pop"><strong>Tama &amp; Friends</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/tama and friends" class="anm_det_pop"><strong>Tama and Friends</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/team sports" class="anm_det_pop"><strong>Team Sports</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/teen" class="anm_det_pop"><strong>Teen</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/tennis" class="anm_det_pop"><strong>Tennis</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/teo and friends" class="anm_det_pop"><strong>Teo and Friends</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/testing" class="anm_det_pop"><strong>Testing</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/than black" class="anm_det_pop"><strong>Than Black</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/the" class="anm_det_pop"><strong>The</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/the genie" class="anm_det_pop"><strong>The Genie</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/the legend of korra book 2: spirit" class="anm_det_pop"><strong>The Legend of Korra Book 2: Spirit</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/the story of 15 beautiful girls adrift comedy hentai harem" class="anm_det_pop"><strong>The Story of 15 Beautiful Girls Adrift Comedy Hentai Harem</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/thriller" class="anm_det_pop"><strong>Thriller</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/thriller mystery" class="anm_det_pop"><strong>Thriller Mystery</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/time travel" class="anm_det_pop"><strong>Time Travel</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/titans go!" class="anm_det_pop"><strong>Titans Go!</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/to hatchin" class="anm_det_pop"><strong>To Hatchin</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/to kaoru live action movie" class="anm_det_pop"><strong>To Kaoru Live Action Movie</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/tournament" class="anm_det_pop"><strong>Tournament</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/tragedy" class="anm_det_pop"><strong>Tragedy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/trains" class="anm_det_pop"><strong>Trains</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/trains comedy" class="anm_det_pop"><strong>Trains Comedy</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/transforming robot" class="anm_det_pop"><strong>Transforming Robot</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/transforming robots" class="anm_det_pop"><strong>Transforming Robots</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/underworld" class="anm_det_pop"><strong>Underworld</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/vampire" class="anm_det_pop"><strong>Vampire</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/vampires" class="anm_det_pop"><strong>Vampires</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/vandread" class="anm_det_pop"><strong>Vandread</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/video game" class="anm_det_pop"><strong>Video Game</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/villainess" class="anm_det_pop"><strong>Villainess</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/violence" class="anm_det_pop"><strong>Violence</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/virtual reality" class="anm_det_pop"><strong>Virtual Reality</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/visual arts" class="anm_det_pop"><strong>Visual Arts</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/waitresses" class="anm_det_pop"><strong>Waitresses</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/work life" class="anm_det_pop"><strong>Work Life</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/workplace" class="anm_det_pop"><strong>Workplace</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/wuxia" class="anm_det_pop"><strong>Wuxia</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/wwii" class="anm_det_pop"><strong>Wwii</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/xros wars" class="anm_det_pop"><strong>Xros Wars</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/yakushiji" class="anm_det_pop"><strong>Yakushiji</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/yakuza" class="anm_det_pop"><strong>Yakuza</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/yaoi" class="anm_det_pop"><strong>Yaoi</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/yuri" class="anm_det_pop"><strong>Yuri</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/zemi ova" class="anm_det_pop"><strong>Zemi Ova</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/タイムボカン24" class="anm_det_pop"><strong>タイムボカン24</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/伝説巨神イデオン" class="anm_det_pop"><strong>伝説巨神イデオン</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/幻影闘士バストフレモン" class="anm_det_pop"><strong>幻影闘士バストフレモン</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/映画 クレヨンしんちゃん　アクション仮面ｖｓハイグレ魔王" class="anm_det_pop"><strong>映画 クレヨンしんちゃん　アクション仮面ｖｓハイグレ魔王</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/洲崎西 the animation" class="anm_det_pop"><strong>洲崎西 the Animation</strong></a></div>
+                  </li>
+                  <li>
+                    <div><a href="/genre/魔法少女育成計画" class="anm_det_pop"><strong>魔法少女育成計画</strong></a></div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2">
+            <div class="ads"><img src="/images/animegg-banner-right-1.jpg"><img src="/images/animegg-banner-right-2.jpg"></div>
+          </div>
+          <div class="clearfix"></div>
+        </div>
+      </div>
+      <!--footer-->
+      <div class="container">
+        <hr>
+        <ul class="footer-links pull-right">
+          <li><a href="/terms-of-service" class="btn btn-default btn-sm"> Terms of Service</a></li>
+          <li><a href="/privacy-policy" class="btn btn-default btn-sm"> Privacy Policy</a></li>
+          <li><a href="/complaint" class="btn btn-default btn-sm"> DMCA Complaint</a></li>
+          <li><a href="/contact" class="btn btn-default btn-sm"> Contact Us</a></li>
+          <li><a href="/rss" target="_blank" class="btn btn-sm btn-default">RSS Feed</a></li>
+        </ul>
+        <ul class="footer-links">
+          <li><a class="btn btn-sm btn-default disabled">Animegg.org 2026</a></li>
+        </ul>
+      </div>
+      <!-- if !user
+      .dropup.pull-right
+        button.btn.dropbtn.dropdown-toggle(type='button', data-toggle='dropdown', aria-haspopup='true', aria-expanded='false')
+          | Missing Chat?
+          span
+          span.caret
+        .dropdown-menu
+          p.head It still exists!
+          p Chat still exists! To use chat, all you have to do is sign in to your free Animegg account!
+          p You can create an account
+            span
+            a.dropLink(href='/createUser')  here!
+      -->
+      <!--load scripts-->
+      <!--local scripts-->
+      <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+      <script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+      <script src="//bowercdn.net/c/bootstrap-3.2.0/dist/js/bootstrap.min.js"></script>
+      <script src="//bowercdn.net/c/moment-2.7.0/min/moment.min.js"></script>
+      <script src="//bowercdn.net/c/string-3.3.1/dist/string.min.js"></script>
+      <script src="https://www.google.com/recaptcha/api.js"></script>
+      <script src="/js/search.js"></script>
+      <!--end local scripts-->
+      <!-- Chatango Chat Box-->
+      <!-- script(id='sid0020000065135929203').
+      (function() {function async_load(){
+      s.id="cid0020000065135929203";
+      s.src=(window.location.href.indexOf('file:///') > -1 ? 'http:' : '') + '//st.chatango.com/js/gz/emb.js';
+      s.style.cssText="width:275px;height:315px;";
+      s.async=true;
+      s.text='{"handle":"chatanimegg","arch":"js","styles":{"a":"000","b":100,"c":"eb7d06","d":"000","h":"FFFFFF","k":"000000","l":"000000","m":"FFFFFF","n":"FFFFFF","o":"100","q":"000","r":000000,"t":0,"showx":"0","pos":"br","cv":0,"cvbg":"000","usricon":0.99,"surl":0,"cnrs":"0.35","usricon":"1"}}';
+      var ss = document.getElementsByTagName('script');
+      for (var i=0, l=ss.length; i < l; i++){
+      if (ss[i].id=='sid0020000065135929203'){
+      ss[i].id +='_';ss[i].parentNode.insertBefore(s, ss[i]);break;}}}
+      var s=document.createElement('script');
+      if (s.async==undefined){
+      if (window.addEventListener) {addEventListener('load',async_load,false);
+      }else if (window.attachEvent) {attachEvent('onload',async_load);}}else {async_load();}})();
+      -->
+      <!--end chatango ChatBox-->
+      <script>
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+          var u = "https://stats.esecured.net/";
+          _paq.push(['setTrackerUrl',u + 'matomo.php']);
+          _paq.push(['setSiteId','7']);
+          var d = document,g = d.createElement('script'),
+            s = d.getElementsByTagName('script')[0];
+          g.type = 'text/javascript';
+          g.async = true;
+          g.src = u + 'matomo.js';
+          s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+      <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-51999698-1"></script>
+      <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-51999698-1');
+        
+        
+      </script>
+    </div>
+  </body>
+</html>

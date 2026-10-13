@@ -1,0 +1,330 @@
+import '@matane-anime/extension-sdk/globals';
+import {
+  type AnimeDetails,
+  type AnimePage,
+  type AnimeSummary,
+  type Episode,
+  type Filter,
+  type FilterState,
+  type HtmlElement,
+  NotFoundError,
+  ParseError,
+  defineExtension,
+} from '@matane-anime/extension-sdk';
+import { DEFAULT_BASE_URL, base, fetchPage, sharedFetch } from './site';
+import { readServers, resolveServers } from './streams';
+import { STATUSES, TYPES, collapse, entityPath, episodeName, parseEpisodeDate, parseNumber, releaseYear } from './text';
+import { labelPlaylists } from './hls-quality';
+
+// donghuastream.org: WordPress with the AnimeStream theme, donghua with several subtitle languages in the video. Everything
+// is read from HTML. Entity urls are paths: "/anime/<slug>/" for a series, "/<slug>-episode-<n>-multiple-subtitles/" for
+// an episode. The series list lives at "/anime/" (filters and order, pages with "?page="), the text search at "/?s="
+// (pages at "/pagg/<n>/?s=").
+
+const EMPTY: AnimePage = { items: [], hasNextPage: false };
+
+/** The site's genre checkboxes (`/anime/` filter form). */
+const GENRES: [slug: string, label: string][] = [
+  ['action', 'Action'],
+  ['adventure', 'Adventure'],
+  ['another-world', 'Another world'],
+  ['assassin', 'Assassin'],
+  ['beast', 'Beast'],
+  ['drama', 'Drama'],
+  ['fantasy', 'Fantasy'],
+  ['funny', 'Funny'],
+  ['game', 'Game'],
+  ['martial-arts', 'Martial arts'],
+  ['monsters', 'Monsters'],
+  ['movie', 'Movie'],
+  ['my-favourite', 'My favourite'],
+  ['mystery', 'Mystery'],
+  ['popular', 'Popular'],
+  ['reincarnated', 'Reincarnated'],
+  ['romance', 'Romance'],
+  ['sci-fi', 'Sci-Fi'],
+  ['slice-of-life', 'Slice of Life'],
+  ['supernatural', 'Supernatural'],
+  ['swords-fight', 'Swords fight'],
+  ['thriller', 'Thriller'],
+  ['vengeance', 'Vengeance'],
+];
+
+const STATUS_OPTIONS = [
+  ['', 'All'],
+  ['ongoing', 'Ongoing'],
+  ['completed', 'Completed'],
+  ['upcoming', 'Upcoming'],
+  ['hiatus', 'Hiatus'],
+] as const;
+
+const TYPE_OPTIONS = [
+  ['', 'All'],
+  ['ona', 'ONA'],
+  ['movie', 'Movie'],
+  ['special', 'Special'],
+  ['tv', 'TV Series'],
+  ['ova', 'OVA'],
+] as const;
+
+const ORDER_OPTIONS = [
+  ['update', 'Latest Update'],
+  ['popular', 'Popular'],
+  ['rating', 'Rating'],
+  ['latest', 'Latest Added'],
+  ['title', 'A-Z'],
+  ['titlereverse', 'Z-A'],
+] as const;
+
+const SUB_OPTIONS = [
+  ['', 'All'],
+  ['sub', 'Sub'],
+  ['dub', 'Dub'],
+  ['raw', 'RAW'],
+] as const;
+
+const pick = (filters: FilterState, id: string, allowed: readonly (readonly [string, string])[]): string => {
+  const value = filters[id];
+  return typeof value === 'string' && allowed.some(([v]) => v === value) ? value : '';
+};
+
+/** The picture of a lazy-loaded image: `src` is a placeholder svg, the real address is in `data-src`. */
+function imageUrl(img: HtmlElement | null): string | undefined {
+  if (!img) return undefined;
+  for (const name of ['data-src', 'data-lazy-src', 'src']) {
+    const url = img.attr(name) ? img.absUrl(name) : undefined;
+    if (url && !url.startsWith('data:')) return url;
+  }
+  return undefined;
+}
+
+/** Reads the cards of a listing. A page that is past the end answers 200 with no cards, or 404. */
+function readCards(doc: HtmlElement, baseUrl: string): AnimeSummary[] {
+  const items: AnimeSummary[] = [];
+  const seen = new Set<string>();
+  for (const card of doc.select('.listupd article.bs')) {
+    const link = card.selectFirst('a[itemprop=url]') ?? card.selectFirst('a');
+    const href = link?.attr('href');
+    const title = collapse(card.selectFirst('.tt h2')?.text() ?? link?.attr('title') ?? '');
+    if (!href || !title) throw new ParseError('A card has no link or title: the site layout changed');
+    const url = entityPath(href, baseUrl);
+    if (seen.has(url)) continue;
+    seen.add(url);
+    const cover = imageUrl(card.selectFirst('img'));
+    items.push({ url, title, ...(cover && { thumbnailUrl: cover }) });
+  }
+  return items;
+}
+
+async function listing(path: string, page: number): Promise<AnimePage> {
+  const url = `${base()}${path}`;
+  let text: string;
+  try {
+    text = (await fetchPage(url)).text;
+  } catch (error) {
+    if (page > 1 && error instanceof NotFoundError) return EMPTY;
+    throw error;
+  }
+  const doc = html.load(text, { baseUrl: url });
+  const items = readCards(doc, url);
+  if (items.length === 0 && !doc.selectFirst('#sidebar, .listupd, .releases')) {
+    throw new ParseError('The listing has no cards and no page frame: the site layout changed');
+  }
+  // The series list has a "Next" link (`a.r`) after the cards; the search results are paginated with `a.next.page-numbers`.
+  const hasNextPage = doc.selectFirst('.listupd ~ a.r') !== null || doc.selectFirst('a.next.page-numbers') !== null;
+  return { items, hasNextPage };
+}
+
+function browse(params: Record<string, string>, page: number): Promise<AnimePage> {
+  const query = new URLSearchParams();
+  for (const [key, value] of Object.entries(params)) if (value) query.append(key, value);
+  if (page > 1) query.set('page', String(Math.floor(page)));
+  const qs = query.toString();
+  return listing(`/anime/${qs ? `?${qs}` : ''}`, page);
+}
+
+async function seriesPage(anime: AnimeSummary): Promise<HtmlElement> {
+  const url = `${base()}${anime.url}`;
+  // The app asks for the details and the episodes of an anime together; both read this page.
+  const doc = html.load((await sharedFetch(url, fetchPage)).text, { baseUrl: url });
+  if (!doc.selectFirst('h1.entry-title')) throw new ParseError('The series page has no title: the site layout changed');
+  return doc;
+}
+
+/** `<span><b>Label:</b> value</span>` rows of the info block. */
+function readInfo(doc: HtmlElement): (label: string) => string | undefined {
+  const lines = doc.select('.info-content .spe span').map((span) => collapse(span.text()));
+  return (label) => {
+    const prefix = `${label.toLowerCase()}:`;
+    const line = lines.find((l) => l.toLowerCase().startsWith(prefix));
+    const value = line?.slice(prefix.length).trim();
+    return value && !/^(?:\?|-|unknown)$/i.test(value) ? value : undefined;
+  };
+}
+
+/** The synopsis paragraphs; the page has no other text in `.synp .entry-content`. */
+function readSynopsis(doc: HtmlElement): string {
+  return doc
+    .select('.synp .entry-content p')
+    .map((p) => collapse(p.text()))
+    .filter(Boolean)
+    .join('\n\n');
+}
+
+export default defineExtension({
+  preferences: () => [
+    {
+      type: 'text',
+      key: 'baseUrl',
+      label: 'Site address',
+      description: 'Use another address if the site moves. Libraries store paths, so they survive.',
+      default: DEFAULT_BASE_URL,
+    },
+  ],
+
+  createSource: () => ({
+    get baseUrl() {
+      return base();
+    },
+
+    getPopular: (page) => browse({ order: 'popular' }, page),
+
+    /** Series ordered by their newest episode. */
+    getLatest: (page) => browse({ order: 'update' }, page),
+
+    search(query: string, page: number, filters: FilterState): Promise<AnimePage> {
+      const text = query.trim();
+      if (text) {
+        // The site's own search ignores the filters.
+        const path = page > 1 ? `/pagg/${Math.floor(page)}/` : '/';
+        return listing(`${path}?${new URLSearchParams({ s: text }).toString()}`, page);
+      }
+      const genre = filters['genre'];
+      const params: Record<string, string> = {
+        status: pick(filters, 'status', STATUS_OPTIONS),
+        type: pick(filters, 'type', TYPE_OPTIONS),
+        sub: pick(filters, 'sub', SUB_OPTIONS),
+        order: pick(filters, 'order', ORDER_OPTIONS) || 'update',
+      };
+      const query2 = new URLSearchParams();
+      for (const [key, value] of Object.entries(params)) if (value) query2.append(key, value);
+      if (typeof genre === 'string' && GENRES.some(([slug]) => slug === genre)) query2.append('genre[]', genre);
+      if (page > 1) query2.set('page', String(Math.floor(page)));
+      return listing(`/anime/?${query2.toString()}`, page);
+    },
+
+    getFilters: (): Filter[] => [
+      { type: 'header', label: 'These filters apply only when the search box is empty.' },
+      {
+        type: 'select',
+        id: 'genre',
+        label: 'Genre',
+        options: [{ value: '', label: 'Any' }, ...GENRES.map(([value, label]) => ({ value, label }))],
+        default: '',
+      },
+      {
+        type: 'select',
+        id: 'status',
+        label: 'Status',
+        options: STATUS_OPTIONS.map(([value, label]) => ({ value, label })),
+        default: '',
+      },
+      {
+        type: 'select',
+        id: 'type',
+        label: 'Type',
+        options: TYPE_OPTIONS.map(([value, label]) => ({ value, label })),
+        default: '',
+      },
+      {
+        type: 'select',
+        id: 'sub',
+        label: 'Language',
+        options: SUB_OPTIONS.map(([value, label]) => ({ value, label })),
+        default: '',
+      },
+      {
+        type: 'select',
+        id: 'order',
+        label: 'Order by',
+        options: ORDER_OPTIONS.map(([value, label]) => ({ value, label })),
+        default: 'update',
+      },
+    ],
+
+    async getAnimeDetails(anime: AnimeSummary): Promise<AnimeDetails> {
+      const doc = await seriesPage(anime);
+      const info = readInfo(doc);
+      const title = collapse(doc.selectFirst('h1.entry-title')?.text() ?? '');
+      if (!title) throw new ParseError('The series page has no title');
+
+      const alt = (doc.selectFirst('.alter')?.text() ?? '')
+        .split(',')
+        .map(collapse)
+        .filter((name) => name && name.toLowerCase() !== title.toLowerCase());
+      const genres = doc
+        .select('.genxed a')
+        .map((a) => collapse(a.text()))
+        .filter(Boolean);
+      const cover = imageUrl(doc.selectFirst('.thumbook .thumb img'));
+      const synopsis = readSynopsis(doc);
+      return {
+        url: anime.url,
+        title,
+        thumbnailUrl: cover,
+        altTitles: alt.length > 0 ? alt : undefined,
+        description: synopsis || undefined,
+        genres: genres.length > 0 ? genres : undefined,
+        studio: info('Studio') ?? info('Network'),
+        year: releaseYear(info('Released')),
+        status: STATUSES[(info('Status') ?? '').toLowerCase()] ?? 'unknown',
+        type: TYPES[(info('Type') ?? '').toLowerCase()],
+      };
+    },
+
+    /** The page lists newest first already; numbered episodes are sorted by number anyway. */
+    async getEpisodes(anime: AnimeSummary): Promise<Episode[]> {
+      const doc = await seriesPage(anime);
+      const seen = new Set<string>();
+      const episodes: Episode[] = [];
+      for (const row of doc.select('.eplister ul li')) {
+        const link = row.selectFirst('a');
+        const href = link?.attr('href');
+        if (!link || !href) continue;
+        const url = entityPath(href, base());
+        if (seen.has(url)) continue;
+        seen.add(url);
+        const label = collapse(row.selectFirst('.epl-num')?.text() ?? '');
+        const number = parseNumber(label);
+        const title = collapse(row.selectFirst('.epl-title')?.text() ?? '');
+        episodes.push({
+          url,
+          name: episodeName(title, label),
+          ...(number !== undefined && { number }),
+          uploadedAt: parseEpisodeDate(row.selectFirst('.epl-date')?.text() ?? ''),
+        });
+      }
+      // A film or a single special is "episode 1" of itself.
+      const only = episodes.length === 1 ? episodes[0] : undefined;
+      if (only && only.number === undefined) only.number = 1;
+      // Array.sort is stable, so unnumbered entries keep the page order, after the numbered ones.
+      return episodes.sort((a, b) => (b.number ?? -Infinity) - (a.number ?? -Infinity) || 0);
+    },
+
+    async getStreams(episode: Episode) {
+      const url = `${base()}${episode.url}`;
+      const doc = html.load((await fetchPage(url)).text, { baseUrl: url });
+      return labelPlaylists(await resolveServers(readServers(doc)));
+    },
+
+    resolveUrl(url: string): AnimeSummary | null {
+      const match = /^https?:\/\/(?:www\.)?donghuastream\.[a-z]+\/anime\/([^/?#]+)\/?$/i.exec(url);
+      const slug = match?.[1];
+      // Only series live under "/anime/<slug>/"; the list itself, its pages and the list mode are not series.
+      if (!slug || /^(?:pagg|page|list-mode|feed)$/i.test(slug)) return null;
+      return { url: `/anime/${slug}/`, title: slug.replace(/-/g, ' ') };
+    },
+
+    getWebUrl: (item: AnimeSummary | Episode) => `${base()}${item.url}`,
+  }),
+});

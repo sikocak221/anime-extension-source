@@ -1,0 +1,28 @@
+name: Broken extension
+description: An extension no longer lists, opens or plays something.
+labels: [broken]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Sites change, stall and sometimes block requests. The daily **Smoke test** opens an issue ("Smoke test failing: …") when an extension fails, so check the open issues first and add what you saw there.
+  - type: input
+    id: extension
+    attributes:
+      label: Extension and version
+      placeholder: gogoanime 0.1.0
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected and what happened instead. Say whether the site itself works in a browser.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log
+      description: In Matane Anime, Settings → Advanced (Developer mode) shows the extension's log. Paste the last lines. Remove anything private.
+      render: text

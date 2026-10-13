@@ -1,0 +1,1364 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Watch Dragon Ball Z Episodes</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Animegg">
+    <meta property="og:site_name" content="Animegg">
+    <meta property="fb:app_id" content="279321548895951">
+    <meta name="propeller" content="abf9d6cf85ddb56749df1b665eb4d8b1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="a.validate.01" content="8ea3efaecd5dcaf5ad59d855d29deb80d612">
+    <meta name="a.validate.01" content="18450344bdcd1a8d4f8a09f10f7ed13a89da">
+    <meta name="description" content="Watch Dragon Ball Z Episodes Subbed &amp; Dubbed in High Definition">
+    <meta name="keywords">
+    <link rel="stylesheet" type="text/css" href="//bowercdn.net/c/html5-boilerplate-4.3.0/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="//bowercdn.net/c/html5-boilerplate-4.3.0/css/main.css">
+    <link rel="stylesheet" href="//bowercdn.net/c/bootstrap-3.2.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/index2.css?v5">
+    <link rel="stylesheet" href="/css/index2.css">
+    <link rel="icon" href="/images/anime.png?v=2" sizes="16x16" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" sizes="196x196" href="images/anime.png?v=2">
+  </head>
+  <body>
+    <div class="premium-header-bar">
+      <div class="container">
+        <div><a href="/createUser">Missing Chat? Sign in!</a><a href="/premium-advantage" class="rightLink">Click To Discover the Premium Advantage Now!</a></div>
+      </div>
+    </div>
+    <!--.holiday-header-bar
+    .container
+      div
+        a(href='/createUser') Real Free Anime, Animegg.org
+    -->
+    <div role="banner" class="navbar navbar-inverse bs-docs-nav">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" data-toggle="collapse" data-target=".bs-navbar-collapse" class="navbar-toggle"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+          <h1><a href="/" class="navbar-brand"><img id="logo" src="/images/animegg-logo-new.png" alt="Watch Anime Online"></a></h1>
+        </div>
+        <div role="navigation" class="collapse navbar-collapse bs-navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/login" class="usertab">Log In</a>
+            </li>
+            <li class="search">
+              <form action="/search/" x-webkit-speech="x-webkit-speech" _lpchecked="1">
+                <input id="searchsite" type="search" name="q" autocomplete="off" tabindex="1" spellcheck="false" placeholder="Search Anime...">
+              </form>
+            </li>
+            <li><a data-toggle="dropdown" class="dropdown-toggle">Browse</a>
+              <ul class="dropdown-menu">
+                <li><a href="/series">All</a></li>
+                <li><a href="/popular-series">Popular</a></li>
+                <li><a href="/popular-series?ongoing=true">Ongoing</a></li>
+                <li><a href="/popular-series?ongoing=false">Completed</a></li>
+                <li><a href="/popular-series?sortBy=createdAt&amp;sortDirection=DESC">New</a></li>
+                <li><a href="/popular-series">By Genre</a></li>
+                <li><a href="/releases">All Recent Releases</a></li>
+              </ul>
+            </li>
+            <li><a href="/popular-series" class="dropdown-toggle">Popular</a></li>
+            <li><a href="/release-schedule" class="dropdown-toggle">Schedule</a></li>
+            <li><a href="/random" class="blue">Random</a></li>
+          </ul>
+        </div><a name="top"></a>
+      </div>
+      <!--main content-->
+      <div class="fattynav">
+        <div class="fattynavinside">
+          <div class="container">
+            <div class="media"><a href="" class="pull-left"><img src="https://vidcache.net:8161/static/1a32e6ec0915e749d48f8b4af47c55549e5b1094/jpeg" alt=" " class="media-object"></a>
+              <div class="media-body">
+                <div class="first">
+                  <h1>Dragon Ball Z</h1>
+                  <p class="infoami"><span>Episodes: 291</span><span>Status: Completed</span></p>
+                  <p style="color: #FFF" class="infoami"><span>Alternate Titles: DBZ, Dragonball Z  ，ドラゴンボールZ</span></p>
+                  <div class="pull-right">
+                    <div class="socialMedia">
+                      <div class="pw-widget pw-counter-none"><a class="pw-button-facebook pw-look-native"></a><a class="pw-button-twitter pw-look-native"></a><a class="pw-button-linkedin pw-look-native"></a><a class="pw-button-googleplus pw-look-native"></a><a class="pw-button-post-share"></a></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="second">
+                  <ul class="tagscat">
+                    <li><a href="/genre/action">Action</a></li>
+                    <li><a href="/genre/adventure">Adventure</a></li>
+                    <li><a href="/genre/martial arts">Martial Arts</a></li>
+                    <li><a href="/genre/fantasy">Fantasy</a></li>
+                    <li><a href="/genre/super power">Super Power</a></li>
+                    <li><a href="/genre/comedy">Comedy</a></li>
+                    <li><a href="/genre/shounen">Shounen</a></li>
+                  </ul>
+                  <div class="clearfix"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="container">
+          <p class="ptext">Goku is back with his new son, Gohan, but just when things are getting settled down, the adventures continue. Whether he is facing enemies such as Frieza, Cell, or Buu, Goku is proven to be an elite of his own and discovers his race, Saiyan and is able to reach Super Saiyan 3 form. He meets many new people, gaining allies and well as enemies, as he still finds time to raise a family and be the happy-go-lucky Saiyan he is.</p>
+          <div class="upbit">
+            <div class="row">
+              <div class="col-md-12">
+                <div class="des">Watch Dragon Ball Z Episodes Online at Animegg.org. <strong>Dragon Ball Z</strong> is available in High Definition only through Animegg.org. Choose an episode below and start watching Dragon Ball Z in Subbed & Dubbed HD now.</div>
+                <div class="cblock">
+                  <div id="recentTabs" role="tablist" class="home-tabs recent-anime"><a href="#recentlyReleased" role="tab" data-toggle="tab" class="active">Dragon Ball Z Episodes</a></div>
+                  <ul class="newmanga">
+                    <li>
+                      <div><a href="/dragonball-z-episode-291" class="anm_det_pop"><strong>Dragon Ball Z 291</strong></a><i class="anititle">Goku`s Next Journey	</i><a href="/dragonball-z-episode-291#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-291#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-290" class="anm_det_pop"><strong>Dragon Ball Z 290</strong></a><i class="anititle">Buu`s Reincarnation	</i><a href="/dragonball-z-episode-290#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-290#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-289" class="anm_det_pop"><strong>Dragon Ball Z 289</strong></a><i class="anititle">Granddaughter Pan	</i><a href="/dragonball-z-episode-289#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-289#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-288" class="anm_det_pop"><strong>Dragon Ball Z 288</strong></a><i class="anititle">He`s Always Late	</i><a href="/dragonball-z-episode-288#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-288#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-287" class="anm_det_pop"><strong>Dragon Ball Z 287</strong></a><i class="anititle">Celebrations with Majin Buu	</i><a href="/dragonball-z-episode-287#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-287#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-286" class="anm_det_pop"><strong>Dragon Ball Z 286</strong></a><i class="anititle">Spirit Bomb Triumphant	</i><a href="/dragonball-z-episode-286#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-286#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-285" class="anm_det_pop"><strong>Dragon Ball Z 285</strong></a><i class="anititle">People of Earth Unite	</i><a href="/dragonball-z-episode-285#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-285#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-284" class="anm_det_pop"><strong>Dragon Ball Z 284</strong></a><i class="anititle">Call to Action	</i><a href="/dragonball-z-episode-284#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-284#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-283" class="anm_det_pop"><strong>Dragon Ball Z 283</strong></a><i class="anititle">Earth Reborn	</i><a href="/dragonball-z-episode-283#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-283#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-282" class="anm_det_pop"><strong>Dragon Ball Z 282</strong></a><i class="anititle">Old Buu Emerges	</i><a href="/dragonball-z-episode-282#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-282#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-281" class="anm_det_pop"><strong>Dragon Ball Z 281</strong></a><i class="anititle">Minute of Desperation	</i><a href="/dragonball-z-episode-281#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-281#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-280" class="anm_det_pop"><strong>Dragon Ball Z 280</strong></a><i class="anititle">Vegeta`s Respect	</i><a href="/dragonball-z-episode-280#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-280#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-279" class="anm_det_pop"><strong>Dragon Ball Z 279</strong></a><i class="anititle">Battle for the Universe Begins	</i><a href="/dragonball-z-episode-279#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-279#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-278" class="anm_det_pop"><strong>Dragon Ball Z 278</strong></a><i class="anititle">True Saiyans Fight Alone	</i><a href="/dragonball-z-episode-278#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-278#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-277" class="anm_det_pop"><strong>Dragon Ball Z 277</strong></a><i class="anititle">End of Earth	</i><a href="/dragonball-z-episode-277#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-277#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-276" class="anm_det_pop"><strong>Dragon Ball Z 276</strong></a><i class="anititle">Evil Kid Buu!	</i><a href="/dragonball-z-episode-276#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-276#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-275" class="anm_det_pop"><strong>Dragon Ball Z 275</strong></a><i class="anititle">Deadly Vision	</i><a href="/dragonball-z-episode-275#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-275#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-274" class="anm_det_pop"><strong>Dragon Ball Z 274</strong></a><i class="anititle">Mind Trap	</i><a href="/dragonball-z-episode-274#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-274#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-273" class="anm_det_pop"><strong>Dragon Ball Z 273</strong></a><i class="anititle">The Innards of Buu	</i><a href="/dragonball-z-episode-273#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-273#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-272" class="anm_det_pop"><strong>Dragon Ball Z 272</strong></a><i class="anititle">The Incredible Fighting Candy	</i><a href="/dragonball-z-episode-272#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-272#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-271" class="anm_det_pop"><strong>Dragon Ball Z 271</strong></a><i class="anititle">Vegito... Downsized	</i><a href="/dragonball-z-episode-271#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-271#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-270" class="anm_det_pop"><strong>Dragon Ball Z 270</strong></a><i class="anititle">Rip in the Universe	</i><a href="/dragonball-z-episode-270#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-270#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-269" class="anm_det_pop"><strong>Dragon Ball Z 269</strong></a><i class="anititle">Meet Vegito	</i><a href="/dragonball-z-episode-269#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-269#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-268" class="anm_det_pop"><strong>Dragon Ball Z 268</strong></a><i class="anititle">Union of Rivals	</i><a href="/dragonball-z-episode-268#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-268#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-267" class="anm_det_pop"><strong>Dragon Ball Z 267</strong></a><i class="anititle">Ready to Fuse?	</i><a href="/dragonball-z-episode-267#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-267#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-266" class="anm_det_pop"><strong>Dragon Ball Z 266</strong></a><i class="anititle">The Old Kai`s Weapon	</i><a href="/dragonball-z-episode-266#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-266#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-265" class="anm_det_pop"><strong>Dragon Ball Z 265</strong></a><i class="anititle">Majin-Buu Transforms	</i><a href="/dragonball-z-episode-265#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-265#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-264" class="anm_det_pop"><strong>Dragon Ball Z 264</strong></a><i class="anititle">Search for Survivors	</i><a href="/dragonball-z-episode-264#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-264#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-263" class="anm_det_pop"><strong>Dragon Ball Z 263</strong></a><i class="anititle">A Whole New Gohan	</i><a href="/dragonball-z-episode-263#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-263#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-262" class="anm_det_pop"><strong>Dragon Ball Z 262</strong></a><i class="anititle">Unlucky Break	</i><a href="/dragonball-z-episode-262#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-262#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-261" class="anm_det_pop"><strong>Dragon Ball Z 261</strong></a><i class="anititle">Gotenks Is Awesome!	</i><a href="/dragonball-z-episode-261#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-261#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-260" class="anm_det_pop"><strong>Dragon Ball Z 260</strong></a><i class="anititle">Feeding Frenzy	</i><a href="/dragonball-z-episode-260#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-260#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-259" class="anm_det_pop"><strong>Dragon Ball Z 259</strong></a><i class="anititle">Trapped in Forever	</i><a href="/dragonball-z-episode-259#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-259#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-258" class="anm_det_pop"><strong>Dragon Ball Z 258</strong></a><i class="anititle">Super Moves of Gotenks	</i><a href="/dragonball-z-episode-258#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-258#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-257" class="anm_det_pop"><strong>Dragon Ball Z 257</strong></a><i class="anititle">Time Struggle	</i><a href="/dragonball-z-episode-257#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-257#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-256" class="anm_det_pop"><strong>Dragon Ball Z 256</strong></a><i class="anititle">Empty Planet	</i><a href="/dragonball-z-episode-256#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-256#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-255" class="anm_det_pop"><strong>Dragon Ball Z 255</strong></a><i class="anititle">Buu Against Buu	</i><a href="/dragonball-z-episode-255#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-255#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-254" class="anm_det_pop"><strong>Dragon Ball Z 254</strong></a><i class="anititle">The Evil of Men	</i><a href="/dragonball-z-episode-254#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-254#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-253" class="anm_det_pop"><strong>Dragon Ball Z 253</strong></a><i class="anititle">I Kill No More	</i><a href="/dragonball-z-episode-253#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-253#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-252" class="anm_det_pop"><strong>Dragon Ball Z 252</strong></a><i class="anititle">Unlikely Friendship	</i><a href="/dragonball-z-episode-252#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-252#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-251" class="anm_det_pop"><strong>Dragon Ball Z 251</strong></a><i class="anititle">Gotenks Is Born	</i><a href="/dragonball-z-episode-251#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-251#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-250" class="anm_det_pop"><strong>Dragon Ball Z 250</strong></a><i class="anititle">Out from the Broken Sword	</i><a href="/dragonball-z-episode-250#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-250#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-249" class="anm_det_pop"><strong>Dragon Ball Z 249</strong></a><i class="anititle">Return to Other World	</i><a href="/dragonball-z-episode-249#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-249#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-248" class="anm_det_pop"><strong>Dragon Ball Z 248</strong></a><i class="anititle">Goku`s Time Is Up	</i><a href="/dragonball-z-episode-248#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-248#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-247" class="anm_det_pop"><strong>Dragon Ball Z 247</strong></a><i class="anititle">The Fusion Dance	</i><a href="/dragonball-z-episode-247#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-247#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-246" class="anm_det_pop"><strong>Dragon Ball Z 246</strong></a><i class="anititle">Buu`s Mutiny	</i><a href="/dragonball-z-episode-246#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-246#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-245" class="anm_det_pop"><strong>Dragon Ball Z 245</strong></a><i class="anititle">Super Saiyan 3?!	</i><a href="/dragonball-z-episode-245#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-245#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-244" class="anm_det_pop"><strong>Dragon Ball Z 244</strong></a><i class="anititle">Race to Capsule Corp.	</i><a href="/dragonball-z-episode-244#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-244#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-243" class="anm_det_pop"><strong>Dragon Ball Z 243</strong></a><i class="anititle">The Z Sword	</i><a href="/dragonball-z-episode-243#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-243#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-242" class="anm_det_pop"><strong>Dragon Ball Z 242</strong></a><i class="anititle">Learn to Fuse!	</i><a href="/dragonball-z-episode-242#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-242#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-241-1" class="anm_det_pop"><strong>Dragon Ball Z 241</strong></a><i class="anititle">Global Announcement	</i><a href="/dragonball-z-episode-241-1#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-241-1#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-240" class="anm_det_pop"><strong>Dragon Ball Z 240</strong></a><i class="anititle">Revival	</i><a href="/dragonball-z-episode-240#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-240#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-239" class="anm_det_pop"><strong>Dragon Ball Z 239</strong></a><i class="anititle">Find the Dragon Balls	</i><a href="/dragonball-z-episode-239#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-239#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-238" class="anm_det_pop"><strong>Dragon Ball Z 238</strong></a><i class="anititle">Evil Lives On	</i><a href="/dragonball-z-episode-238#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-238#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-237" class="anm_det_pop"><strong>Dragon Ball Z 237</strong></a><i class="anititle">Final Atonement	</i><a href="/dragonball-z-episode-237#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-237#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-236" class="anm_det_pop"><strong>Dragon Ball Z 236</strong></a><i class="anititle">The Warrior`s Decision	</i><a href="/dragonball-z-episode-236#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-236#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-235" class="anm_det_pop"><strong>Dragon Ball Z 235</strong></a><i class="anititle">Meal Time	</i><a href="/dragonball-z-episode-235#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-235#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-234" class="anm_det_pop"><strong>Dragon Ball Z 234</strong></a><i class="anititle">The Terror of Mr. Buu	</i><a href="/dragonball-z-episode-234#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-234#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-233" class="anm_det_pop"><strong>Dragon Ball Z 233</strong></a><i class="anititle">The Losses Begin	</i><a href="/dragonball-z-episode-233#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-233#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-232" class="anm_det_pop"><strong>Dragon Ball Z 232</strong></a><i class="anititle">Buu Is Hatched	</i><a href="/dragonball-z-episode-232#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-232#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-231" class="anm_det_pop"><strong>Dragon Ball Z 231</strong></a><i class="anititle">Magic Ball of Buu	</i><a href="/dragonball-z-episode-231#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-231#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-230" class="anm_det_pop"><strong>Dragon Ball Z 230</strong></a><i class="anititle">The Long Awaited Fight	</i><a href="/dragonball-z-episode-230#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-230#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-229" class="anm_det_pop"><strong>Dragon Ball Z 229</strong></a><i class="anititle">Vegeta`s Pride	</i><a href="/dragonball-z-episode-229#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-229#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-228" class="anm_det_pop"><strong>Dragon Ball Z 228</strong></a><i class="anititle">The Dark Prince Returns	</i><a href="/dragonball-z-episode-228#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-228#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-227" class="anm_det_pop"><strong>Dragon Ball Z 227</strong></a><i class="anititle">Heart of a Villain	</i><a href="/dragonball-z-episode-227#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-227#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-226" class="anm_det_pop"><strong>Dragon Ball Z 226</strong></a><i class="anititle">Pay to Win	</i><a href="/dragonball-z-episode-226#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-226#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-225" class="anm_det_pop"><strong>Dragon Ball Z 225</strong></a><i class="anititle">Eighteen Unmasks	</i><a href="/dragonball-z-episode-225#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-225#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-224" class="anm_det_pop"><strong>Dragon Ball Z 224</strong></a><i class="anititle">Battle Supreme	</i><a href="/dragonball-z-episode-224#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-224#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-223" class="anm_det_pop"><strong>Dragon Ball Z 223</strong></a><i class="anititle">Next Up, Goku	</i><a href="/dragonball-z-episode-223#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-223#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-222" class="anm_det_pop"><strong>Dragon Ball Z 222</strong></a><i class="anititle">Vegeta Attacks	</i><a href="/dragonball-z-episode-222#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-222#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-221" class="anm_det_pop"><strong>Dragon Ball Z 221</strong></a><i class="anititle">King of the Demons	</i><a href="/dragonball-z-episode-221#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-221#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-220" class="anm_det_pop"><strong>Dragon Ball Z 220</strong></a><i class="anititle">The Wizard`s Curse	</i><a href="/dragonball-z-episode-220#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-220#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-219" class="anm_det_pop"><strong>Dragon Ball Z 219</strong></a><i class="anititle">Energy Drain	</i><a href="/dragonball-z-episode-219#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-219#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-218" class="anm_det_pop"><strong>Dragon Ball Z 218</strong></a><i class="anititle">Identities Revealed	</i><a href="/dragonball-z-episode-218#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-218#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-217" class="anm_det_pop"><strong>Dragon Ball Z 217</strong></a><i class="anititle">Videl Is Crushed	</i><a href="/dragonball-z-episode-217#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-217#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-216" class="anm_det_pop"><strong>Dragon Ball Z 216</strong></a><i class="anititle">A Dark and Secret Power	</i><a href="/dragonball-z-episode-216#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-216#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-215" class="anm_det_pop"><strong>Dragon Ball Z 215</strong></a><i class="anititle">Forfeit of Piccolo	</i><a href="/dragonball-z-episode-215#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-215#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-214" class="anm_det_pop"><strong>Dragon Ball Z 214</strong></a><i class="anititle">Who Will Fight Who?	</i><a href="/dragonball-z-episode-214#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-214#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-213" class="anm_det_pop"><strong>Dragon Ball Z 213</strong></a><i class="anititle">Big Trouble, Little Trunks	</i><a href="/dragonball-z-episode-213#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-213#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-212" class="anm_det_pop"><strong>Dragon Ball Z 212</strong></a><i class="anititle">Best of the Boys	</i><a href="/dragonball-z-episode-212#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-212#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-211" class="anm_det_pop"><strong>Dragon Ball Z 211</strong></a><i class="anititle">Trunks vs. Goten	</i><a href="/dragonball-z-episode-211#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-211#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-210" class="anm_det_pop"><strong>Dragon Ball Z 210</strong></a><i class="anititle">The World Tournament	</i><a href="/dragonball-z-episode-210#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-210#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-209" class="anm_det_pop"><strong>Dragon Ball Z 209</strong></a><i class="anititle">Camera Shy	</i><a href="/dragonball-z-episode-209#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-209#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-208" class="anm_det_pop"><strong>Dragon Ball Z 208</strong></a><i class="anititle">Gather for the Tournament	</i><a href="/dragonball-z-episode-208#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-208#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-207" class="anm_det_pop"><strong>Dragon Ball Z 207</strong></a><i class="anititle">Take Flight, Videl	</i><a href="/dragonball-z-episode-207#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-207#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-206" class="anm_det_pop"><strong>Dragon Ball Z 206</strong></a><i class="anititle">The Newest Super Saiyan	</i><a href="/dragonball-z-episode-206#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-206#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-205" class="anm_det_pop"><strong>Dragon Ball Z 205</strong></a><i class="anititle">I`ll Fight Too!	</i><a href="/dragonball-z-episode-205#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-205#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-204" class="anm_det_pop"><strong>Dragon Ball Z 204</strong></a><i class="anititle">Blackmail	</i><a href="/dragonball-z-episode-204#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-204#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-203" class="anm_det_pop"><strong>Dragon Ball Z 203</strong></a><i class="anititle">Rescue Videl	</i><a href="/dragonball-z-episode-203#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-203#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-202" class="anm_det_pop"><strong>Dragon Ball Z 202</strong></a><i class="anititle">Gohan`s First Date	</i><a href="/dragonball-z-episode-202#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-202#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-201" class="anm_det_pop"><strong>Dragon Ball Z 201</strong></a><i class="anititle">I Am Saiyaman!	</i><a href="/dragonball-z-episode-201#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-201#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-200" class="anm_det_pop"><strong>Dragon Ball Z 200</strong></a><i class="anititle">Gohan Goes to High School	</i><a href="/dragonball-z-episode-200#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-200#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-199" class="anm_det_pop"><strong>Dragon Ball Z 199</strong></a><i class="anititle">Goku vs. Pikkon	</i><a href="/dragonball-z-episode-199#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-199#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-198" class="anm_det_pop"><strong>Dragon Ball Z 198</strong></a><i class="anititle">Final Round	</i><a href="/dragonball-z-episode-198#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-198#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-197" class="anm_det_pop"><strong>Dragon Ball Z 197</strong></a><i class="anititle">Water Fight	</i><a href="/dragonball-z-episode-197#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-197#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-196" class="anm_det_pop"><strong>Dragon Ball Z 196</strong></a><i class="anititle">Tournament Begins	</i><a href="/dragonball-z-episode-196#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-196#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-195" class="anm_det_pop"><strong>Dragon Ball Z 195</strong></a><i class="anititle">Warriors of the Dead	</i><a href="/dragonball-z-episode-195#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-195#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-194" class="anm_det_pop"><strong>Dragon Ball Z 194</strong></a><i class="anititle">Free the Future	</i><a href="/dragonball-z-episode-194#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-194#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-193" class="anm_det_pop"><strong>Dragon Ball Z 193</strong></a><i class="anititle">One More Wish	</i><a href="/dragonball-z-episode-193#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-193#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-192" class="anm_det_pop"><strong>Dragon Ball Z 192</strong></a><i class="anititle">Goku`s Decision	</i><a href="/dragonball-z-episode-192#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-192#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-191" class="anm_det_pop"><strong>Dragon Ball Z 191</strong></a><i class="anititle">Save the World	</i><a href="/dragonball-z-episode-191#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-191#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-190" class="anm_det_pop"><strong>Dragon Ball Z 190</strong></a><i class="anititle">The Horror Won`t End	</i><a href="/dragonball-z-episode-190#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-190#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-189" class="anm_det_pop"><strong>Dragon Ball Z 189</strong></a><i class="anititle">Cell Returns!	</i><a href="/dragonball-z-episode-189#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-189#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-188" class="anm_det_pop"><strong>Dragon Ball Z 188</strong></a><i class="anititle">A Hero`s Farewell	</i><a href="/dragonball-z-episode-188#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-188#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-187" class="anm_det_pop"><strong>Dragon Ball Z 187</strong></a><i class="anititle">Cell`s Break Down	</i><a href="/dragonball-z-episode-187#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-187#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-186" class="anm_det_pop"><strong>Dragon Ball Z 186</strong></a><i class="anititle">The Unstoppable Gohan	</i><a href="/dragonball-z-episode-186#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-186#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-185" class="anm_det_pop"><strong>Dragon Ball Z 185</strong></a><i class="anititle">Awakening	</i><a href="/dragonball-z-episode-185#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-185#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-184" class="anm_det_pop"><strong>Dragon Ball Z 184</strong></a><i class="anititle">Cell Juniors Attack!	</i><a href="/dragonball-z-episode-184#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-184#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-183" class="anm_det_pop"><strong>Dragon Ball Z 183</strong></a><i class="anititle">Android Explosion	</i><a href="/dragonball-z-episode-183#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-183#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-182" class="anm_det_pop"><strong>Dragon Ball Z 182</strong></a><i class="anititle">Gohan`s Plea	</i><a href="/dragonball-z-episode-182#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-182#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-181" class="anm_det_pop"><strong>Dragon Ball Z 181</strong></a><i class="anititle">Faith in a Boy</i><a href="/dragonball-z-episode-181#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-181#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-180" class="anm_det_pop"><strong>Dragon Ball Z 180</strong></a><i class="anititle">The Fight Is Over	</i><a href="/dragonball-z-episode-180#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-180#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-179" class="anm_det_pop"><strong>Dragon Ball Z 179</strong></a><i class="anititle">No More Rules	</i><a href="/dragonball-z-episode-179#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-179#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-178" class="anm_det_pop"><strong>Dragon Ball Z 178</strong></a><i class="anititle">Cell`s Bag of Tricks</i><a href="/dragonball-z-episode-178#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-178#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-177" class="anm_det_pop"><strong>Dragon Ball Z 177</strong></a><i class="anititle">Goku vs. Cell</i><a href="/dragonball-z-episode-177#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-177#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-176" class="anm_det_pop"><strong>Dragon Ball Z 176</strong></a><i class="anititle">Losers Fight First</i><a href="/dragonball-z-episode-176#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-176#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-175" class="anm_det_pop"><strong>Dragon Ball Z 175</strong></a><i class="anititle">The Games Begin</i><a href="/dragonball-z-episode-175#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-175#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-174" class="anm_det_pop"><strong>Dragon Ball Z 174</strong></a><i class="anititle">The Puzzle of General Tao</i><a href="/dragonball-z-episode-174#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-174#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-173" class="anm_det_pop"><strong>Dragon Ball Z 173</strong></a><i class="anititle">Dende`s Dragon</i><a href="/dragonball-z-episode-173#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-173#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-172" class="anm_det_pop"><strong>Dragon Ball Z 172</strong></a><i class="anititle">A New Guardian</i><a href="/dragonball-z-episode-172#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-172#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-171" class="anm_det_pop"><strong>Dragon Ball Z 171</strong></a><i class="anititle">Memories of Gohan</i><a href="/dragonball-z-episode-171#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-171#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-170" class="anm_det_pop"><strong>Dragon Ball Z 170</strong></a><i class="anititle">A Girl Named Lime</i><a href="/dragonball-z-episode-170#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-170#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-169" class="anm_det_pop"><strong>Dragon Ball Z 169</strong></a><i class="anititle">No Worries Here</i><a href="/dragonball-z-episode-169#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-169#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-168" class="anm_det_pop"><strong>Dragon Ball Z 168</strong></a><i class="anititle">Meet Me in the Ring</i><a href="/dragonball-z-episode-168#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-168#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-167" class="anm_det_pop"><strong>Dragon Ball Z 167</strong></a><i class="anititle">The Doomsday Broadcast	</i><a href="/dragonball-z-episode-167#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-167#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-166" class="anm_det_pop"><strong>Dragon Ball Z 166</strong></a><i class="anititle">What Is the Tournament?</i><a href="/dragonball-z-episode-166#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-166#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-165" class="anm_det_pop"><strong>Dragon Ball Z 165</strong></a><i class="anititle">The Cell Games</i><a href="/dragonball-z-episode-165#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-165#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-164" class="anm_det_pop"><strong>Dragon Ball Z 164</strong></a><i class="anititle">Ghosts from Tomorrow</i><a href="/dragonball-z-episode-164#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-164#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-163" class="anm_det_pop"><strong>Dragon Ball Z 163</strong></a><i class="anititle">Saving Throw</i><a href="/dragonball-z-episode-163#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-163#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-162" class="anm_det_pop"><strong>Dragon Ball Z 162</strong></a><i class="anititle">Trunks Ascends</i><a href="/dragonball-z-episode-162#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-162#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-161" class="anm_det_pop"><strong>Dragon Ball Z 161</strong></a><i class="anititle">Vegeta Must Pay</i><a href="/dragonball-z-episode-161#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-161#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-160" class="anm_det_pop"><strong>Dragon Ball Z 160</strong></a><i class="anititle">Cell Is Complete</i><a href="/dragonball-z-episode-160#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-160#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-159" class="anm_det_pop"><strong>Dragon Ball Z 159</strong></a><i class="anititle">The Last Defense</i><a href="/dragonball-z-episode-159#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-159#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-158" class="anm_det_pop"><strong>Dragon Ball Z 158</strong></a><i class="anititle">Krillin`s Decision	</i><a href="/dragonball-z-episode-158#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-158#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-157" class="anm_det_pop"><strong>Dragon Ball Z 157</strong></a><i class="anititle">Hour of Temptation</i><a href="/dragonball-z-episode-157#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-157#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-156" class="anm_det_pop"><strong>Dragon Ball Z 156</strong></a><i class="anititle">Bow to the Prince</i><a href="/dragonball-z-episode-156#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-156#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-155" class="anm_det_pop"><strong>Dragon Ball Z 155</strong></a><i class="anititle">Super Vegeta</i><a href="/dragonball-z-episode-155#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-155#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-154" class="anm_det_pop"><strong>Dragon Ball Z 154</strong></a><i class="anititle">Saiyans Emerge</i><a href="/dragonball-z-episode-154#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-154#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-153" class="anm_det_pop"><strong>Dragon Ball Z 153</strong></a><i class="anititle">Sacrifice</i><a href="/dragonball-z-episode-153#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-153#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-152" class="anm_det_pop"><strong>Dragon Ball Z 152</strong></a><i class="anititle">Say Goodbye, 17</i><a href="/dragonball-z-episode-152#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-152#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-151" class="anm_det_pop"><strong>Dragon Ball Z 151</strong></a><i class="anititle">Silent Warrior</i><a href="/dragonball-z-episode-151#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-151#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-150" class="anm_det_pop"><strong>Dragon Ball Z 150</strong></a><i class="anititle">Up to Piccolo</i><a href="/dragonball-z-episode-150#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-150#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-149" class="anm_det_pop"><strong>Dragon Ball Z 149</strong></a><i class="anititle">He`s Here	</i><a href="/dragonball-z-episode-149#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-149#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-148" class="anm_det_pop"><strong>Dragon Ball Z 148</strong></a><i class="anititle">The Monster Is Coming</i><a href="/dragonball-z-episode-148#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-148#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-147" class="anm_det_pop"><strong>Dragon Ball Z 147</strong></a><i class="anititle">Time Chamber</i><a href="/dragonball-z-episode-147#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-147#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-146" class="anm_det_pop"><strong>Dragon Ball Z 146</strong></a><i class="anititle">Our Hero Awakes</i><a href="/dragonball-z-episode-146#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-146#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-145" class="anm_det_pop"><strong>Dragon Ball Z 145</strong></a><i class="anititle">Laboratory Basement</i><a href="/dragonball-z-episode-145#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-145#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-144" class="anm_det_pop"><strong>Dragon Ball Z 144</strong></a><i class="anititle">Piccolo`s Folly</i><a href="/dragonball-z-episode-144#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-144#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-143" class="anm_det_pop"><strong>Dragon Ball Z 143</strong></a><i class="anititle">His Name Is Cell</i><a href="/dragonball-z-episode-143#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-143#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-142" class="anm_det_pop"><strong>Dragon Ball Z 142</strong></a><i class="anititle">Borrowed Powers</i><a href="/dragonball-z-episode-142#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-142#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-141" class="anm_det_pop"><strong>Dragon Ball Z 141</strong></a><i class="anititle">The Reunion</i><a href="/dragonball-z-episode-141#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-141#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-140" class="anm_det_pop"><strong>Dragon Ball Z 140</strong></a><i class="anititle">Seized with Fear</i><a href="/dragonball-z-episode-140#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-140#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-139" class="anm_det_pop"><strong>Dragon Ball Z 139</strong></a><i class="anititle">Unwelcome Discovery</i><a href="/dragonball-z-episode-139#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-139#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-138" class="anm_det_pop"><strong>Dragon Ball Z 138</strong></a><i class="anititle">Closing In</i><a href="/dragonball-z-episode-138#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-138#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-137" class="anm_det_pop"><strong>Dragon Ball Z 137</strong></a><i class="anititle">Last Ditch Effort</i><a href="/dragonball-z-episode-137#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-137#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-136" class="anm_det_pop"><strong>Dragon Ball Z 136</strong></a><i class="anititle">No Match for the Androids</i><a href="/dragonball-z-episode-136#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-136#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-135" class="anm_det_pop"><strong>Dragon Ball Z 135</strong></a><i class="anititle">Deadly Beauty</i><a href="/dragonball-z-episode-135#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-135#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-134" class="anm_det_pop"><strong>Dragon Ball Z 134</strong></a><i class="anititle">Goku`s Assassin</i><a href="/dragonball-z-episode-134#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-134#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-133" class="anm_det_pop"><strong>Dragon Ball Z 133</strong></a><i class="anititle">Nightmare Comes True</i><a href="/dragonball-z-episode-133#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-133#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-132" class="anm_det_pop"><strong>Dragon Ball Z 132</strong></a><i class="anititle">Follow Dr. Gero</i><a href="/dragonball-z-episode-132#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">HD</span><a href="/dragonball-z-episode-132#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-131" class="anm_det_pop"><strong>Dragon Ball Z 131</strong></a><i class="anititle">More Androids?!</i><a href="/dragonball-z-episode-131#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-131#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-130" class="anm_det_pop"><strong>Dragon Ball Z 130</strong></a><i class="anititle">The Secret of Dr. Gero</i><a href="/dragonball-z-episode-130#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-130#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-129" class="anm_det_pop"><strong>Dragon Ball Z 129</strong></a><i class="anititle">Upgrade to Super Saiyan</i><a href="/dragonball-z-episode-129#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-129#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-128" class="anm_det_pop"><strong>Dragon Ball Z 128</strong></a><i class="anititle">Double Trouble for Goku</i><a href="/dragonball-z-episode-128#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-128#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-127" class="anm_det_pop"><strong>Dragon Ball Z 127</strong></a><i class="anititle">A Handy Trick</i><a href="/dragonball-z-episode-127#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-127#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-126" class="anm_det_pop"><strong>Dragon Ball Z 126</strong></a><i class="anititle">The Androids Appear</i><a href="/dragonball-z-episode-126#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-126#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-125" class="anm_det_pop"><strong>Dragon Ball Z 125</strong></a><i class="anititle">Goku`s Ordeal</i><a href="/dragonball-z-episode-125#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-125#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-124" class="anm_det_pop"><strong>Dragon Ball Z 124</strong></a><i class="anititle">Z Warriors Prepare</i><a href="/dragonball-z-episode-124#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-124#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-123" class="anm_det_pop"><strong>Dragon Ball Z 123</strong></a><i class="anititle">Goku`s Special Technique</i><a href="/dragonball-z-episode-123#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-123#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-122" class="anm_det_pop"><strong>Dragon Ball Z 122</strong></a><i class="anititle">Mystery Revealed</i><a href="/dragonball-z-episode-122#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-122#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-121" class="anm_det_pop"><strong>Dragon Ball Z 121</strong></a><i class="anititle">Welcome Back Goku</i><a href="/dragonball-z-episode-121#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-121#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-120" class="anm_det_pop"><strong>Dragon Ball Z 120</strong></a><i class="anititle">Another Super Saiyan?</i><a href="/dragonball-z-episode-120#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-120#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-119" class="anm_det_pop"><strong>Dragon Ball Z 119</strong></a><i class="anititle">The Mysterious Youth</i><a href="/dragonball-z-episode-119#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-119#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-118" class="anm_det_pop"><strong>Dragon Ball Z 118</strong></a><i class="anititle">Frieza`s Counterattack</i><a href="/dragonball-z-episode-118#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-118#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-117" class="anm_det_pop"><strong>Dragon Ball Z 117</strong></a><i class="anititle">Krillin`s Proposal</i><a href="/dragonball-z-episode-117#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-117#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-116" class="anm_det_pop"><strong>Dragon Ball Z 116</strong></a><i class="anititle">Brief Chance for Victory</i><a href="/dragonball-z-episode-116#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-116#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-115" class="anm_det_pop"><strong>Dragon Ball Z 115</strong></a><i class="anititle">The World Awakens</i><a href="/dragonball-z-episode-115#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-115#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-114" class="anm_det_pop"><strong>Dragon Ball Z 114</strong></a><i class="anititle">Extreme Measures</i><a href="/dragonball-z-episode-114#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-114#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-113" class="anm_det_pop"><strong>Dragon Ball Z 113</strong></a><i class="anititle">Suicidal Course</i><a href="/dragonball-z-episode-113#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-113#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-112" class="anm_det_pop"><strong>Dragon Ball Z 112</strong></a><i class="anititle">Call for Restoration</i><a href="/dragonball-z-episode-112#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-112#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-111" class="anm_det_pop"><strong>Dragon Ball Z 111</strong></a><i class="anititle">Fight with Piccolo</i><a href="/dragonball-z-episode-111#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-111#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-110" class="anm_det_pop"><strong>Dragon Ball Z 110</strong></a><i class="anititle">Battle in Kami`s Lookout</i><a href="/dragonball-z-episode-110#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-110#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-109" class="anm_det_pop"><strong>Dragon Ball Z 109</strong></a><i class="anititle">Black Fog of Terror</i><a href="/dragonball-z-episode-109#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-109#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-108" class="anm_det_pop"><strong>Dragon Ball Z 108</strong></a><i class="anititle">The Heavens Tremble</i><a href="/dragonball-z-episode-108#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-108#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-107" class="anm_det_pop"><strong>Dragon Ball Z 107</strong></a><i class="anititle">Goku`s Alive!!</i><a href="/dragonball-z-episode-107#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-107#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-106" class="anm_det_pop"><strong>Dragon Ball Z 106</strong></a><i class="anititle">Namek`s Explosion? Goku`s End?</i><a href="/dragonball-z-episode-106#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-106#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-105" class="anm_det_pop"><strong>Dragon Ball Z 105</strong></a><i class="anititle">Mighty Blast of Rage</i><a href="/dragonball-z-episode-105#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-105#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-104" class="anm_det_pop"><strong>Dragon Ball Z 104</strong></a><i class="anititle">Frieza Defeated!!</i><a href="/dragonball-z-episode-104#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-104#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-103" class="anm_det_pop"><strong>Dragon Ball Z 103</strong></a><i class="anititle">Pathos of Frieza</i><a href="/dragonball-z-episode-103#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-103#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-102" class="anm_det_pop"><strong>Dragon Ball Z 102</strong></a><i class="anititle">Duel on a Vanishing Planet</i><a href="/dragonball-z-episode-102#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-102#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-101" class="anm_det_pop"><strong>Dragon Ball Z 101</strong></a><i class="anititle">The Last Wish</i><a href="/dragonball-z-episode-101#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-101#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-100" class="anm_det_pop"><strong>Dragon Ball Z 100</strong></a><i class="anititle">Gohan Returns</i><a href="/dragonball-z-episode-100#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-100#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-99" class="anm_det_pop"><strong>Dragon Ball Z 99</strong></a><i class="anititle">Approaching Destruction</i><a href="/dragonball-z-episode-99#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-99#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-98" class="anm_det_pop"><strong>Dragon Ball Z 98</strong></a><i class="anititle">A Final Attack</i><a href="/dragonball-z-episode-98#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-98#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-97" class="anm_det_pop"><strong>Dragon Ball Z 97</strong></a><i class="anititle">Namek`s Destruction</i><a href="/dragonball-z-episode-97#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-97#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-96" class="anm_det_pop"><strong>Dragon Ball Z 96</strong></a><i class="anititle">Explosion of Anger</i><a href="/dragonball-z-episode-96#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-96#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-95" class="anm_det_pop"><strong>Dragon Ball Z 95</strong></a><i class="anititle">Transformed at Last</i><a href="/dragonball-z-episode-95#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-95#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-94" class="anm_det_pop"><strong>Dragon Ball Z 94</strong></a><i class="anititle">Power of the Spirit</i><a href="/dragonball-z-episode-94#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-94#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-93" class="anm_det_pop"><strong>Dragon Ball Z 93</strong></a><i class="anititle">Keep the Chance Alive</i><a href="/dragonball-z-episode-93#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-93#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-92" class="anm_det_pop"><strong>Dragon Ball Z 92</strong></a><i class="anititle">Trump Card</i><a href="/dragonball-z-episode-92#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-92#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-91" class="anm_det_pop"><strong>Dragon Ball Z 91</strong></a><i class="anititle">Embodiment of Fire</i><a href="/dragonball-z-episode-91#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-91#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-90" class="anm_det_pop"><strong>Dragon Ball Z 90</strong></a><i class="anititle">Bold and Fearless</i><a href="/dragonball-z-episode-90#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-90#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-89" class="anm_det_pop"><strong>Dragon Ball Z 89</strong></a><i class="anititle">Frieza`s Boast</i><a href="/dragonball-z-episode-89#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-89#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-88" class="anm_det_pop"><strong>Dragon Ball Z 88</strong></a><i class="anititle">Clash of the Super Powers</i><a href="/dragonball-z-episode-88#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-88#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-87" class="anm_det_pop"><strong>Dragon Ball Z 87</strong></a><i class="anititle">The Ultimate Battle</i><a href="/dragonball-z-episode-87#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-87#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-86" class="anm_det_pop"><strong>Dragon Ball Z 86</strong></a><i class="anititle">The End of Vegeta</i><a href="/dragonball-z-episode-86#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-86#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-85" class="anm_det_pop"><strong>Dragon Ball Z 85</strong></a><i class="anititle">The Renewed Goku</i><a href="/dragonball-z-episode-85#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-85#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-84" class="anm_det_pop"><strong>Dragon Ball Z 84</strong></a><i class="anititle">Dende`s Demise</i><a href="/dragonball-z-episode-84#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-84#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-83" class="anm_det_pop"><strong>Dragon Ball Z 83</strong></a><i class="anititle">Another Transformation?</i><a href="/dragonball-z-episode-83#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-83#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-82" class="anm_det_pop"><strong>Dragon Ball Z 82</strong></a><i class="anititle">Frieza`s Second Transformation</i><a href="/dragonball-z-episode-82#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-82#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-81" class="anm_det_pop"><strong>Dragon Ball Z 81</strong></a><i class="anititle">Deja Vu</i><a href="/dragonball-z-episode-81#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-81#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-80" class="anm_det_pop"><strong>Dragon Ball Z 80</strong></a><i class="anititle">Piccolo the Super-Namek</i><a href="/dragonball-z-episode-80#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-80#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-79" class="anm_det_pop"><strong>Dragon Ball Z 79</strong></a><i class="anititle">Gohan Attacks</i><a href="/dragonball-z-episode-79#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-79#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-78" class="anm_det_pop"><strong>Dragon Ball Z 78</strong></a><i class="anititle">Fighting Power: One Million??</i><a href="/dragonball-z-episode-78#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-78#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-77" class="anm_det_pop"><strong>Dragon Ball Z 77</strong></a><i class="anititle">The Fusion</i><a href="/dragonball-z-episode-77#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-77#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-76" class="anm_det_pop"><strong>Dragon Ball Z 76</strong></a><i class="anititle">Piccolo`s Return</i><a href="/dragonball-z-episode-76#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-76#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-75" class="anm_det_pop"><strong>Dragon Ball Z 75</strong></a><i class="anititle">Password Is Porunga</i><a href="/dragonball-z-episode-75#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-75#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-74" class="anm_det_pop"><strong>Dragon Ball Z 74</strong></a><i class="anititle">Captain Ginyu... The Frog</i><a href="/dragonball-z-episode-74#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-74#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-73" class="anm_det_pop"><strong>Dragon Ball Z 73</strong></a><i class="anititle">Gohan Defeat Your Dad!!</i><a href="/dragonball-z-episode-73#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-73#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-72" class="anm_det_pop"><strong>Dragon Ball Z 72</strong></a><i class="anititle">Calling the Eternal Dragon</i><a href="/dragonball-z-episode-72#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-72#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-71" class="anm_det_pop"><strong>Dragon Ball Z 71</strong></a><i class="anititle">Goku Is Ginyu and Ginyu Is Goku</i><a href="/dragonball-z-episode-71#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-71#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-70" class="anm_det_pop"><strong>Dragon Ball Z 70</strong></a><i class="anititle">Frieza Approaches</i><a href="/dragonball-z-episode-70#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-70#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-69" class="anm_det_pop"><strong>Dragon Ball Z 69</strong></a><i class="anititle">Incredible Force!</i><a href="/dragonball-z-episode-69#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-69#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-68" class="anm_det_pop"><strong>Dragon Ball Z 68</strong></a><i class="anititle">Ginyu Assault</i><a href="/dragonball-z-episode-68#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-68#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-67" class="anm_det_pop"><strong>Dragon Ball Z 67</strong></a><i class="anititle">A Legend Revealed</i><a href="/dragonball-z-episode-67#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-67#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-66" class="anm_det_pop"><strong>Dragon Ball Z 66</strong></a><i class="anititle">Goku`s New Power</i><a href="/dragonball-z-episode-66#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-66#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-65" class="anm_det_pop"><strong>Dragon Ball Z 65</strong></a><i class="anititle">Let the Battle Begin</i><a href="/dragonball-z-episode-65#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-65#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-64" class="anm_det_pop"><strong>Dragon Ball Z 64</strong></a><i class="anititle">Recoome Unleashed</i><a href="/dragonball-z-episode-64#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-64#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-63" class="anm_det_pop"><strong>Dragon Ball Z 63</strong></a><i class="anititle">Guldo`s Mind Binds</i><a href="/dragonball-z-episode-63#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-63#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-62" class="anm_det_pop"><strong>Dragon Ball Z 62</strong></a><i class="anititle">New Ally, New Problem</i><a href="/dragonball-z-episode-62#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-62#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-61" class="anm_det_pop"><strong>Dragon Ball Z 61</strong></a><i class="anititle">Hidden Power</i><a href="/dragonball-z-episode-61#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-61#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-60" class="anm_det_pop"><strong>Dragon Ball Z 60</strong></a><i class="anititle">Bulma`s Big Day</i><a href="/dragonball-z-episode-60#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-60#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-59" class="anm_det_pop"><strong>Dragon Ball Z 59</strong></a><i class="anititle">Destination: Guru</i><a href="/dragonball-z-episode-59#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-59#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-58" class="anm_det_pop"><strong>Dragon Ball Z 58</strong></a><i class="anititle">Unknown Enemies</i><a href="/dragonball-z-episode-58#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-58#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-57" class="anm_det_pop"><strong>Dragon Ball Z 57</strong></a><i class="anititle">Gohan, the Hunted</i><a href="/dragonball-z-episode-57#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">HD</span><a href="/dragonball-z-episode-57#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-56" class="anm_det_pop"><strong>Dragon Ball Z 56</strong></a><i class="anititle">Zarbon`s Mission</i><a href="/dragonball-z-episode-56#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-56#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-55" class="anm_det_pop"><strong>Dragon Ball Z 55</strong></a><i class="anititle">Piccolo vs. Everyone</i><a href="/dragonball-z-episode-55#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-55#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-54" class="anm_det_pop"><strong>Dragon Ball Z 54</strong></a><i class="anititle">Guru`s Gift</i><a href="/dragonball-z-episode-54#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">HD</span><a href="/dragonball-z-episode-54#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-53" class="anm_det_pop"><strong>Dragon Ball Z 53</strong></a><i class="anititle">Zarbon`s Special Surprise</i><a href="/dragonball-z-episode-53#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-53#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-52" class="anm_det_pop"><strong>Dragon Ball Z 52</strong></a><i class="anititle">The Past and the Future</i><a href="/dragonball-z-episode-52#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-52#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-51" class="anm_det_pop"><strong>Dragon Ball Z 51</strong></a><i class="anititle">Vegeta Has a Ball</i><a href="/dragonball-z-episode-51#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-51#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-50" class="anm_det_pop"><strong>Dragon Ball Z 50</strong></a><i class="anititle">Unexpected Problem</i><a href="/dragonball-z-episode-50#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-50#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-49" class="anm_det_pop"><strong>Dragon Ball Z 49</strong></a><i class="anititle">The Prince Fights Back</i><a href="/dragonball-z-episode-49#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">HD</span><a href="/dragonball-z-episode-49#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-48" class="anm_det_pop"><strong>Dragon Ball Z 48</strong></a><i class="anititle">The Hunted</i><a href="/dragonball-z-episode-48#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-48#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-47-4341" class="anm_det_pop"><strong>Dragon Ball Z 47</strong></a><i class="anititle">Namek`s Defense</i><a href="/dragonball-z-episode-47-4341#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-46" class="anm_det_pop"><strong>Dragon Ball Z 46</strong></a><i class="anititle">Defying Orders</i><a href="/dragonball-z-episode-46#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-46#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-45" class="anm_det_pop"><strong>Dragon Ball Z 45</strong></a><i class="anititle">Frieza Strikes!</i><a href="/dragonball-z-episode-45#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-45#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-44" class="anm_det_pop"><strong>Dragon Ball Z 44</strong></a><i class="anititle">Brood of Evil</i><a href="/dragonball-z-episode-44#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-44#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-43-1" class="anm_det_pop"><strong>Dragon Ball Z 43</strong></a><i class="anititle">A Friendly Surprise</i><a href="/dragonball-z-episode-43-1#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-43-1#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-42" class="anm_det_pop"><strong>Dragon Ball Z 42</strong></a><i class="anititle">The Search Continues</i><a href="/dragonball-z-episode-42#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-42#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-41" class="anm_det_pop"><strong>Dragon Ball Z 41</strong></a><i class="anititle">Look Out Below</i><a href="/dragonball-z-episode-41#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">HD</span><a href="/dragonball-z-episode-41#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-40" class="anm_det_pop"><strong>Dragon Ball Z 40</strong></a><i class="anititle">Held Captive</i><a href="/dragonball-z-episode-40#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-40#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-39" class="anm_det_pop"><strong>Dragon Ball Z 39</strong></a><i class="anititle">Friends or Foes?</i><a href="/dragonball-z-episode-39#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-39#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-38" class="anm_det_pop"><strong>Dragon Ball Z 38</strong></a><i class="anititle">Nursing Wounds</i><a href="/dragonball-z-episode-38#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-38#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-37" class="anm_det_pop"><strong>Dragon Ball Z 37</strong></a><i class="anititle">Plans for Departure</i><a href="/dragonball-z-episode-37#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-37#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-36" class="anm_det_pop"><strong>Dragon Ball Z 36</strong></a><i class="anititle">Picking Up the Pieces</i><a href="/dragonball-z-episode-36#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-36#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-35" class="anm_det_pop"><strong>Dragon Ball Z 35</strong></a><i class="anititle">Mercy</i><a href="/dragonball-z-episode-35#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">HD</span><a href="/dragonball-z-episode-35#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-34" class="anm_det_pop"><strong>Dragon Ball Z 34</strong></a><i class="anititle">Krillin`s Offensive</i><a href="/dragonball-z-episode-34#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-34#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-33" class="anm_det_pop"><strong>Dragon Ball Z 33</strong></a><i class="anititle">Hero in the Shadows</i><a href="/dragonball-z-episode-33#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-33#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-32" class="anm_det_pop"><strong>Dragon Ball Z 32</strong></a><i class="anititle">Spirit Bomb Away!</i><a href="/dragonball-z-episode-32#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-32#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-31" class="anm_det_pop"><strong>Dragon Ball Z 31</strong></a><i class="anititle">Saiyan Sized Secret</i><a href="/dragonball-z-episode-31#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-31#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-30" class="anm_det_pop"><strong>Dragon Ball Z 30</strong></a><i class="anititle">Goku vs. Vegeta</i><a href="/dragonball-z-episode-30#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-30#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-29" class="anm_det_pop"><strong>Dragon Ball Z 29</strong></a><i class="anititle">Lesson Number One</i><a href="/dragonball-z-episode-29#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-29#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-28-4973" class="anm_det_pop"><strong>Dragon Ball Z 28</strong></a><i class="anititle">Goku`s Arrival</i><a href="/dragonball-z-episode-28-4973#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-28-4973#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-27" class="anm_det_pop"><strong>Dragon Ball Z 27</strong></a><i class="anititle">Nimbus Speed</i><a href="/dragonball-z-episode-27#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-27#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-26" class="anm_det_pop"><strong>Dragon Ball Z 26</strong></a><i class="anititle">Nappa`s Rampage</i><a href="/dragonball-z-episode-26#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-26#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-25" class="anm_det_pop"><strong>Dragon Ball Z 25</strong></a><i class="anititle">Sacrifice</i><a href="/dragonball-z-episode-25#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-24" class="anm_det_pop"><strong>Dragon Ball Z 24</strong></a><i class="anititle">The Power of Nappa</i><a href="/dragonball-z-episode-24#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-24#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-23" class="anm_det_pop"><strong>Dragon Ball Z 23</strong></a><i class="anititle">Saibamen Attack!</i><a href="/dragonball-z-episode-23#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-23#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-22" class="anm_det_pop"><strong>Dragon Ball Z 22</strong></a><i class="anititle">The Darkest Day</i><a href="/dragonball-z-episode-22#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-22#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-21" class="anm_det_pop"><strong>Dragon Ball Z 21</strong></a><i class="anititle">Counting Down</i><a href="/dragonball-z-episode-21#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-21#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-20" class="anm_det_pop"><strong>Dragon Ball Z 20</strong></a><i class="anititle">Goku`s Ancestors</i><a href="/dragonball-z-episode-20#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-20#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-19" class="anm_det_pop"><strong>Dragon Ball Z 19</strong></a><i class="anititle">Defying Gravity</i><a href="/dragonball-z-episode-19#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-19#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-18" class="anm_det_pop"><strong>Dragon Ball Z 18</strong></a><i class="anititle">The End of Snake Way</i><a href="/dragonball-z-episode-18#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">HD</span><a href="/dragonball-z-episode-18#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-17" class="anm_det_pop"><strong>Dragon Ball Z 17</strong></a><i class="anititle">Pendulum Room Peril</i><a href="/dragonball-z-episode-17#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-17#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-16" class="anm_det_pop"><strong>Dragon Ball Z 16</strong></a><i class="anititle">Plight of the Children</i><a href="/dragonball-z-episode-16#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-16#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-15" class="anm_det_pop"><strong>Dragon Ball Z 15</strong></a><i class="anititle">Dueling Piccolos</i><a href="/dragonball-z-episode-15#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-15#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-14" class="anm_det_pop"><strong>Dragon Ball Z 14</strong></a><i class="anititle">Princess Snake</i><a href="/dragonball-z-episode-14#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">HD</span><a href="/dragonball-z-episode-14#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-13" class="anm_det_pop"><strong>Dragon Ball Z 13</strong></a><i class="anititle">Goz and Mez</i><a href="/dragonball-z-episode-13#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-12" class="anm_det_pop"><strong>Dragon Ball Z 12</strong></a><i class="anititle">Global Training</i><a href="/dragonball-z-episode-12#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-12#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-11" class="anm_det_pop"><strong>Dragon Ball Z 11</strong></a><i class="anititle">Terror on Arlia</i><a href="/dragonball-z-episode-11#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-11#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-10" class="anm_det_pop"><strong>Dragon Ball Z 10</strong></a><i class="anititle">A New Friend</i><a href="/dragonball-z-episode-10#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-10#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-9" class="anm_det_pop"><strong>Dragon Ball Z 9</strong></a><i class="anititle">The Strangest Robot</i><a href="/dragonball-z-episode-9#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-9#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-8" class="anm_det_pop"><strong>Dragon Ball Z 8</strong></a><i class="anititle">Gohan Goes Bananas!</i><a href="/dragonball-z-episode-8#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-8#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-7" class="anm_det_pop"><strong>Dragon Ball Z 7</strong></a><i class="anititle">Day 1</i><a href="/dragonball-z-episode-7#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-7#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-6" class="anm_det_pop"><strong>Dragon Ball Z 6</strong></a><i class="anititle">No Time Like the Present</i><a href="/dragonball-z-episode-6#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-6#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-5" class="anm_det_pop"><strong>Dragon Ball Z 5</strong></a><i class="anititle">Gohan`s Rage</i><a href="/dragonball-z-episode-5#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-5#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-4" class="anm_det_pop"><strong>Dragon Ball Z 4</strong></a><i class="anititle">Piccolo`s Plan</i><a href="/dragonball-z-episode-4#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-4#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-3" class="anm_det_pop"><strong>Dragon Ball Z 3</strong></a><i class="anititle">Unlikely Alliance</i><a href="/dragonball-z-episode-3#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-3#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-2" class="anm_det_pop"><strong>Dragon Ball Z 2</strong></a><i class="anititle">Reunions</i><a href="/dragonball-z-episode-2#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-2#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                    <li>
+                      <div><a href="/dragonball-z-episode-1" class="anm_det_pop"><strong>Dragon Ball Z 1</strong></a><i class="anititle">The New Threat</i><a href="/dragonball-z-episode-1#subbed"><span class="btn-xs btn-subbed">SUBBED</span></a><span class="btn-xs btn-hd">SD</span><span class="btn-xs btn-hd">SD</span><a href="/dragonball-z-episode-1#dubbed"><span class="btn-xs btn-dubbed">DUBBED</span></a>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--footer-->
+      <div class="container">
+        <hr>
+        <ul class="footer-links pull-right">
+          <li><a href="/terms-of-service" class="btn btn-default btn-sm"> Terms of Service</a></li>
+          <li><a href="/privacy-policy" class="btn btn-default btn-sm"> Privacy Policy</a></li>
+          <li><a href="/complaint" class="btn btn-default btn-sm"> DMCA Complaint</a></li>
+          <li><a href="/contact" class="btn btn-default btn-sm"> Contact Us</a></li>
+          <li><a href="/rss" target="_blank" class="btn btn-sm btn-default">RSS Feed</a></li>
+        </ul>
+        <ul class="footer-links">
+          <li><a class="btn btn-sm btn-default disabled">Animegg.org 2026</a></li>
+        </ul>
+      </div>
+      <!-- if !user
+      .dropup.pull-right
+        button.btn.dropbtn.dropdown-toggle(type='button', data-toggle='dropdown', aria-haspopup='true', aria-expanded='false')
+          | Missing Chat?
+          span
+          span.caret
+        .dropdown-menu
+          p.head It still exists!
+          p Chat still exists! To use chat, all you have to do is sign in to your free Animegg account!
+          p You can create an account
+            span
+            a.dropLink(href='/createUser')  here!
+      -->
+      <!--load scripts-->
+      <!--local scripts-->
+      <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+      <script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+      <script src="//bowercdn.net/c/bootstrap-3.2.0/dist/js/bootstrap.min.js"></script>
+      <script src="//bowercdn.net/c/moment-2.7.0/min/moment.min.js"></script>
+      <script src="//bowercdn.net/c/string-3.3.1/dist/string.min.js"></script>
+      <script src="https://www.google.com/recaptcha/api.js"></script>
+      <script src="/js/search.js"></script>
+      <!--end local scripts-->
+      <!-- Chatango Chat Box-->
+      <!-- script(id='sid0020000065135929203').
+      (function() {function async_load(){
+      s.id="cid0020000065135929203";
+      s.src=(window.location.href.indexOf('file:///') > -1 ? 'http:' : '') + '//st.chatango.com/js/gz/emb.js';
+      s.style.cssText="width:275px;height:315px;";
+      s.async=true;
+      s.text='{"handle":"chatanimegg","arch":"js","styles":{"a":"000","b":100,"c":"eb7d06","d":"000","h":"FFFFFF","k":"000000","l":"000000","m":"FFFFFF","n":"FFFFFF","o":"100","q":"000","r":000000,"t":0,"showx":"0","pos":"br","cv":0,"cvbg":"000","usricon":0.99,"surl":0,"cnrs":"0.35","usricon":"1"}}';
+      var ss = document.getElementsByTagName('script');
+      for (var i=0, l=ss.length; i < l; i++){
+      if (ss[i].id=='sid0020000065135929203'){
+      ss[i].id +='_';ss[i].parentNode.insertBefore(s, ss[i]);break;}}}
+      var s=document.createElement('script');
+      if (s.async==undefined){
+      if (window.addEventListener) {addEventListener('load',async_load,false);
+      }else if (window.attachEvent) {attachEvent('onload',async_load);}}else {async_load();}})();
+      -->
+      <!--end chatango ChatBox-->
+      <script>
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+          var u = "https://stats.esecured.net/";
+          _paq.push(['setTrackerUrl',u + 'matomo.php']);
+          _paq.push(['setSiteId','7']);
+          var d = document,g = d.createElement('script'),
+            s = d.getElementsByTagName('script')[0];
+          g.type = 'text/javascript';
+          g.async = true;
+          g.src = u + 'matomo.js';
+          s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+      <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-51999698-1"></script>
+      <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-51999698-1');
+        
+        
+      </script>
+    </div>
+  </body>
+</html>

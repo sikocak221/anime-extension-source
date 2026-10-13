@@ -1,0 +1,32 @@
+{
+  "name": "matane-anime-extensions",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "Extensions (sources) for Matane Anime, built and tested with the published SDK.",
+  "packageManager": "pnpm@12.5.1",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "build": "pnpm -r build",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r --workspace-concurrency=2 --no-bail test",
+    "test:live": "pnpm -r --workspace-concurrency=1 test:live",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "repo:build": "node scripts/build-repo.mjs",
+    "repo:build:unsigned": "node scripts/build-repo.mjs --unsigned",
+    "repo:verify": "pnpm exec ma-ext repo verify public",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "node scripts/build-site.mjs"
+  },
+  "devDependencies": {
+    "@matane-anime/extension-cli": "catalog:",
+    "@types/node": "catalog:",
+    "prettier": "3.9.9",
+    "typescript": "6.0.3",
+    "vitepress": "1.6.4",
+    "vitest": "5.0.3"
+  }
+}

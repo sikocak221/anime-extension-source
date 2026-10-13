@@ -1,0 +1,19 @@
+{
+  "name": "@matane-anime/otakudesu-extension",
+  "version": "0.1.2",
+  "private": true,
+  "description": "Extension for otakudesu.blog (Indonesian subtitles): listings, search, details, episodes and the AJAX player mirrors.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "ma-ext build",
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "echo \"otakudesu: offline tests skipped, test/fixtures (saved pages of the site) is missing\"",
+    "test:live": "LIVE=1 vitest run test/live.test.ts"
+  },
+  "devDependencies": {
+    "@matane-anime/extension-cli": "catalog:",
+    "@matane-anime/extension-runtime": "catalog:",
+    "@matane-anime/extension-sdk": "catalog:"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@matane-anime/sokuja-extension",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Extension for x6.sokuja.uk.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "ma-ext build",
+    "typecheck": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "test:live": "LIVE=1 vitest run test/live.test.ts"
+  },
+  "devDependencies": {
+    "@matane-anime/extension-cli": "catalog:",
+    "@matane-anime/extension-runtime": "catalog:",
+    "@matane-anime/extension-sdk": "catalog:"
+  }
+}

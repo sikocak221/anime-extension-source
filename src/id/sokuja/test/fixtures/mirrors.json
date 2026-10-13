@@ -1,0 +1,25 @@
+{
+  "mirrors": [
+    {
+      "id": 23846,
+      "serverName": "SOKUJA",
+      "embedUrl": "https://storages.sokuja.uk/2026-summer/katainaka-s2/SOKUJA.NET-KNOKN.S2-1-480p-wegjwke.mp4",
+      "embedType": "mp4",
+      "quality": "480p"
+    },
+    {
+      "id": 23847,
+      "serverName": "SOKUJA",
+      "embedUrl": "https://storages.sokuja.uk/2026-summer/katainaka-s2/SOKUJA.NET-KNOKN.S2-1-720p-wewefwgjwke.mp4",
+      "embedType": "mp4",
+      "quality": "720p"
+    },
+    {
+      "id": 23848,
+      "serverName": "SOKUJA",
+      "embedUrl": "https://storages.sokuja.uk/2026-summer/katainaka-s2/SOKUJA.NET-KNOKN.S2-1-1080p-wegjhwekg.mp4",
+      "embedType": "mp4",
+      "quality": "1080p"
+    }
+  ]
+}

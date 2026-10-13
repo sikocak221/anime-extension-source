@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Newly Released Anime - Subbed, Dubbed, HD Watch for Anime for Free| Animegg.org</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Animegg">
+    <meta property="og:site_name" content="Animegg">
+    <meta property="fb:app_id" content="279321548895951">
+    <meta name="propeller" content="abf9d6cf85ddb56749df1b665eb4d8b1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="a.validate.01" content="8ea3efaecd5dcaf5ad59d855d29deb80d612">
+    <meta name="a.validate.01" content="18450344bdcd1a8d4f8a09f10f7ed13a89da">
+    <link rel="stylesheet" type="text/css" href="//bowercdn.net/c/html5-boilerplate-4.3.0/css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="//bowercdn.net/c/html5-boilerplate-4.3.0/css/main.css">
+    <link rel="stylesheet" href="//bowercdn.net/c/bootstrap-3.2.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/index2.css?v5">
+    <link rel="icon" href="/images/anime.png?v=2" sizes="16x16" type="image/png">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" sizes="196x196" href="images/anime.png?v=2">
+  </head>
+  <body>
+    <div class="premium-header-bar">
+      <div class="container">
+        <div><a href="/createUser">Missing Chat? Sign in!</a><a href="/premium-advantage" class="rightLink">Click To Discover the Premium Advantage Now!</a></div>
+      </div>
+    </div>
+    <!--.holiday-header-bar
+    .container
+      div
+        a(href='/createUser') Real Free Anime, Animegg.org
+    -->
+    <div role="banner" class="navbar navbar-inverse bs-docs-nav">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" data-toggle="collapse" data-target=".bs-navbar-collapse" class="navbar-toggle"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+          <h1><a href="/" class="navbar-brand"><img id="logo" src="/images/animegg-logo-new.png" alt="Watch Anime Online"></a></h1>
+        </div>
+        <div role="navigation" class="collapse navbar-collapse bs-navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/login" class="usertab">Log In</a>
+            </li>
+            <li class="search">
+              <form action="/search/" x-webkit-speech="x-webkit-speech" _lpchecked="1">
+                <input id="searchsite" type="search" name="q" autocomplete="off" tabindex="1" spellcheck="false" placeholder="Search Anime...">
+              </form>
+            </li>
+            <li><a data-toggle="dropdown" class="dropdown-toggle">Browse</a>
+              <ul class="dropdown-menu">
+                <li><a href="/series">All</a></li>
+                <li><a href="/popular-series">Popular</a></li>
+                <li><a href="/popular-series?ongoing=true">Ongoing</a></li>
+                <li><a href="/popular-series?ongoing=false">Completed</a></li>
+                <li><a href="/popular-series?sortBy=createdAt&amp;sortDirection=DESC">New</a></li>
+                <li><a href="/popular-series">By Genre</a></li>
+                <li><a href="/releases">All Recent Releases</a></li>
+              </ul>
+            </li>
+            <li><a href="/popular-series" class="dropdown-toggle">Popular</a></li>
+            <li><a href="/release-schedule" class="dropdown-toggle">Schedule</a></li>
+            <li><a href="/random" class="blue">Random</a></li>
+          </ul>
+        </div><a name="top"></a>
+      </div>
+      <!--main content-->
+      <div class="container">
+        <div class="cblock2 col-md-8">
+          <div id="recentTabs" role="tablist" class="home-tabs recent-anime">
+            <h2><a href="#recentlyReleased" role="tab" data-toggle="tab" class="active">Latest Anime Releases</a></h2>
+          </div>
+          <div class="moose">
+            <ul class="popanime cats">
+              <li class="fea release">
+                <div class="releaseImg"><img src="https://vidcache.net:8161/static/353db3194670323cfa1907dc7eb975e67cf1d31e/jpeg"></div>
+                <div class="rightpop release"><a href="/series/oriental-martial-academy" class="releaseLink">Oriental Martial Academy</a>
+                  <ul class="tags">
+                    <li>
+                      <!--a(href='/series/#{row.Show.uri}') #{row.Show.title}--><a href="/oriental-martial-academy-episode-1#subbed"><strong>Oriental Martial Academy Episode 1</strong><span class="btn-xs btn-subbed">SUBBED</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span></a>
+                    </li>
+                  </ul>
+                  <div class="desfea">Orphan Qin Yu was specially admitted to the top cultivation academy, Dongda Martial Academy. Behind the city’s calm, a demonic threat quietly approached. Qin Yu vowed to lead his fellow disciples to resist the invading demons.</div>
+                </div>
+              </li>
+              <!--li(class=row.Show.featured ? 'hot' : '')
+              div
+                span.rightside an hour ago
+                a.anm_det_pop(href='/oriental-martial-academy-episode-1#subbed')
+                  strong Oriental Martial Academy Episode 1
+                  +episodeVersionColor(row.version)
+                  +episodeHD(row.Media)
+                .tooltipz
+                  .img
+                    img(src=row.Show.thumbnailUrl)
+                  .destext
+                    strong Oriental Martial Academy
+                    .despoos
+                      | Orphan Qin Yu was specially admitted to the top cultivation academy, Dongda Martial Academy. Behind the city’s calm, a demonic threat quietly approached. Qin Yu vowed to lead his fellow disciples to...
+              -->
+              <li class="fea release">
+                <div class="releaseImg"><img src="https://vidcache.net:8161/static/13d678c700ee8b8b0471156e76bb17df86dd182f/jpeg"></div>
+                <div class="rightpop release"><a href="/series/sgt-frog-2026" class="releaseLink">Sgt. Frog (2026)</a>
+                  <ul class="tags">
+                    <li>
+                      <!--a(href='/series/#{row.Show.uri}') #{row.Show.title}--><a href="/sgt-frog-2026-episode-2#subbed"><strong>Sgt. Frog (2026) Episode 2</strong><span class="btn-xs btn-subbed">SUBBED</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span></a>
+                    </li>
+                  </ul>
+                  <div class="desfea">Sergeant Keroro comes to conquer Earth, only to get captured and stuck living with the Hinata family!</div>
+                </div>
+              </li>
+              <!--li(class=row.Show.featured ? 'hot' : '')
+              div
+                span.rightside 2 hours ago
+                a.anm_det_pop(href='/sgt-frog-2026-episode-2#subbed')
+                  strong Sgt. Frog (2026) Episode 2
+                  +episodeVersionColor(row.version)
+                  +episodeHD(row.Media)
+                .tooltipz
+                  .img
+                    img(src=row.Show.thumbnailUrl)
+                  .destext
+                    strong Sgt. Frog (2026)
+                    .despoos
+                      | Sergeant Keroro comes to conquer Earth, only to get captured and stuck living with the Hinata family!
+              -->
+              <li class="fea release">
+                <div class="releaseImg"><img src="https://vidcache.net:8161/static/5a4eac12113a7955ddb741e5559a15b05d691c5b/jpeg"></div>
+                <div class="rightpop release"><a href="/series/steel-ball-run-jojo-s-bizarre-adventure" class="releaseLink">Steel Ball Run: JoJo's Bizarre Adventure</a>
+                  <ul class="tags">
+                    <li>
+                      <!--a(href='/series/#{row.Show.uri}') #{row.Show.title}--><a href="/steel-ball-run-jojo-s-bizarre-adventure-episode-4#subbed"><strong>Steel Ball Run: JoJo's Bizarre... Episode 4</strong><span class="btn-xs btn-subbed">SUBBED</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span></a>
+                    </li>
+                  </ul>
+                  <div class="desfea">In the American Old West, the world’s greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million dollars. With the era of the horse reaching its end, contestants are allowed to use any kind of vehicle they wish. Competitors will have to endure grueling conditions, traveling up to a hundred kilometers a day through uncharted wastelands. The Steel Ball...</div>
+                </div>
+              </li>
+              <!--li(class=row.Show.featured ? 'hot' : '')
+              div
+                span.rightside 9 hours ago
+                a.anm_det_pop(href='/steel-ball-run-jojo-s-bizarre-adventure-episode-4#subbed')
+                  strong Steel Ball Run: JoJo's Bizarre... Episode 4
+                  +episodeVersionColor(row.version)
+                  +episodeHD(row.Media)
+                .tooltipz
+                  .img
+                    img(src=row.Show.thumbnailUrl)
+                  .destext
+                    strong Steel Ball Run: JoJo's Bizarre...
+                    .despoos
+                      | In the American Old West, the world’s greatest race is about to begin. Thousands line up in San Diego to travel over six thousand kilometers for a chance to win the grand prize of fifty million...
+              -->
+              <li class="fea release">
+                <div class="releaseImg"><img src="https://vidcache.net:8161/static/faacff0a173f4a4b2f5b8d356e617d3f83b54994/jpeg"></div>
+                <div class="rightpop release"><a href="/series/firefly-wedding" class="releaseLink">Firefly Wedding</a>
+                  <ul class="tags">
+                    <li>
+                      <!--a(href='/series/#{row.Show.uri}') #{row.Show.title}--><a href="/firefly-wedding-episode-1#subbed"><strong>Firefly Wedding Episode 1</strong><span class="btn-xs btn-subbed">SUBBED</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span></a>
+                    </li>
+                  </ul>
+                  <div class="desfea">Satoko, the eldest daughter of the honorable Kirigaya family, has received many marriage proposals from men captivated by her beauty and grace. However, she has turned them all down due to her secret heart defect. Despite her condition, Satoko is still willing to find a husband to ease her beloved father’s concerns.While on a stroll, Satoko is kidnapped by a group of mercenaries, one of them being Shinpei Gotou—a legendary assassin tasked with...</div>
+                </div>
+              </li>
+              <!--li(class=row.Show.featured ? 'hot' : '')
+              div
+                span.rightside 10 hours ago
+                a.anm_det_pop(href='/firefly-wedding-episode-1#subbed')
+                  strong Firefly Wedding Episode 1
+                  +episodeVersionColor(row.version)
+                  +episodeHD(row.Media)
+                .tooltipz
+                  .img
+                    img(src=row.Show.thumbnailUrl)
+                  .destext
+                    strong Firefly Wedding
+                    .despoos
+                      | Satoko, the eldest daughter of the honorable Kirigaya family, has received many marriage proposals from men captivated by her beauty and grace. However, she has turned them all down due to her secret...
+              -->
+              <li class="fea release">
+                <div class="releaseImg"><img src="https://vidcache.net:8161/static/3382cccee8a4c459785894eb7c12436aa33656db/jpeg"></div>
+                <div class="rightpop release"><a href="/series/the-iceblade-sorcerer-shall-rule-the-world-season-2" class="releaseLink">The iceblade sorcerer shall rule the world season 2</a>
+                  <ul class="tags">
+                    <li>
+                      <!--a(href='/series/#{row.Show.uri}') #{row.Show.title}--><a href="/the-iceblade-sorcerer-shall-rule-the-world-season-2-episode-1#subbed"><strong>The iceblade sorcerer shall rule the... Episode 1</strong><span class="btn-xs btn-subbed">SUBBED</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span></a>
+                    </li>
+                  </ul>
+                  <div class="desfea">Everyone knows of the most powerful soldier, the Iceblade Magician, who led the country to victory three years ago, but few know his true name: Ray White. After weathering through a bloody war, Ray enrolls at Arnold Academy, ready to experience a normal life – a luxury he never had. To further this goal, he keeps his identity as the Iceblade Magician a secret, the scars of the past still haunting him to this very day. Despite being ostracized for...</div>
+                </div>
+              </li>
+              <!--li(class=row.Show.featured ? 'hot' : '')
+              div
+                span.rightside 10 hours ago
+                a.anm_det_pop(href='/the-iceblade-sorcerer-shall-rule-the-world-season-2-episode-1#subbed')
+                  strong The iceblade sorcerer shall rule the... Episode 1
+                  +episodeVersionColor(row.version)
+                  +episodeHD(row.Media)
+                .tooltipz
+                  .img
+                    img(src=row.Show.thumbnailUrl)
+                  .destext
+                    strong The iceblade sorcerer shall rule the...
+                    .despoos
+                      | Everyone knows of the most powerful soldier, the Iceblade Magician, who led the country to victory three years ago, but few know his true name: Ray White. After weathering through a bloody war, Ray...
+              -->
+              <li class="fea release">
+                <div class="releaseImg"><img src="https://vidcache.net:8161/static/de0f0c71277cec459b9aeadd3dd987fc61f9a0fb/jpeg"></div>
+                <div class="rightpop release"><a href="/series/tokyo-revengers-season-4" class="releaseLink">Tokyo Revengers: Santen Sensou-hen</a>
+                  <ul class="tags">
+                    <li>
+                      <!--a(href='/series/#{row.Show.uri}') #{row.Show.title}--><a href="/tokyo-revengers-season-4-episode-2#dubbed"><strong>Tokyo Revengers: Santen Sensou-hen Episode 2</strong><span class="btn-xs btn-dubbed">DUBBED</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span></a>
+                    </li>
+                  </ul>
+                  <div class="desfea">Takemichi Hanagaki’s second year of middle school was the highest point in his life. He had respect, a gang of friends he could count on, and even a girlfriend. But that was twelve years ago. Today, he’s a nobody: a washed-up nonentity made fun of by children and always forced to apologize to his younger boss. A sudden news report on the Tokyo Manji Gang’s cruel murder of the only girlfriend he ever had alongside her brother only adds insult to...</div>
+                </div>
+              </li>
+              <!--li(class=row.Show.featured ? 'hot' : '')
+              div
+                span.rightside 10 hours ago
+                a.anm_det_pop(href='/tokyo-revengers-season-4-episode-2#dubbed')
+                  strong Tokyo Revengers: Santen Sensou-hen Episode 2
+                  +episodeVersionColor(row.version)
+                  +episodeHD(row.Media)
+                .tooltipz
+                  .img
+                    img(src=row.Show.thumbnailUrl)
+                  .destext
+                    strong Tokyo Revengers: Santen Sensou-hen
+                    .despoos
+                      | Takemichi Hanagaki’s second year of middle school was the highest point in his life. He had respect, a gang of friends he could count on, and even a girlfriend. But that was twelve years ago. Today...
+              -->
+              <li class="fea release">
+                <div class="releaseImg"><img src="https://vidcache.net:8161/static/4497f9a6e87597cc5841247ee42455bbfcb4acc8/jpeg"></div>
+                <div class="rightpop release"><a href="/series/the-exiled-heavy-knight-knows-how-to-game-the-system" class="releaseLink">Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru</a>
+                  <ul class="tags">
+                    <li>
+                      <!--a(href='/series/#{row.Show.uri}') #{row.Show.title}--><a href="/the-exiled-heavy-knight-knows-how-to-game-the-system-episode-15#subbed"><strong>Tsuihou sareta Tensei Juukishi wa... Episode 15</strong><span class="btn-xs btn-subbed">SUBBED</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span></a>
+                    </li>
+                  </ul>
+                  <div class="desfea">“You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!”The day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he’s also exiled. With their unbalanced...</div>
+                </div>
+              </li>
+              <!--li(class=row.Show.featured ? 'hot' : '')
+              div
+                span.rightside 11 hours ago
+                a.anm_det_pop(href='/the-exiled-heavy-knight-knows-how-to-game-the-system-episode-15#subbed')
+                  strong Tsuihou sareta Tensei Juukishi wa... Episode 15
+                  +episodeVersionColor(row.version)
+                  +episodeHD(row.Media)
+                .tooltipz
+                  .img
+                    img(src=row.Show.thumbnailUrl)
+                  .destext
+                    strong Tsuihou sareta Tensei Juukishi wa...
+                    .despoos
+                      | “You useless son of mine! You were supposed to pull master swordsman, but I never thought it would be this tragic!”The day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already...
+              -->
+              <li class="fea release">
+                <div class="releaseImg"><img src="https://vidcache.net:8161/static/a4ac2ad593dfaf301d291d10a2cec986b20b65af/jpeg"></div>
+                <div class="rightpop release"><a href="/series/fx-fighter-kurumi-chan" class="releaseLink">FX Fighter Kurumi-chan</a>
+                  <ul class="tags">
+                    <li>
+                      <!--a(href='/series/#{row.Show.uri}') #{row.Show.title}--><a href="/fx-fighter-kurumi-chan-episode-2#dubbed"><strong>FX Fighter Kurumi-chan Episode 2</strong><span class="btn-xs btn-dubbed">DUBBED</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span></a>
+                    </li>
+                  </ul>
+                  <div class="desfea">When middle school student, Fukuga Kurumi’s mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost “I’ll easily get that much back!”Now, when she is a university student she makes her long-awaited debut in FX trading, unaware that the world she just entered could turn from heaven to hell in the blink of an eye.This is a cute and slightly dangerous story as it...</div>
+                </div>
+              </li>
+              <!--li(class=row.Show.featured ? 'hot' : '')
+              div
+                span.rightside 12 hours ago
+                a.anm_det_pop(href='/fx-fighter-kurumi-chan-episode-2#dubbed')
+                  strong FX Fighter Kurumi-chan Episode 2
+                  +episodeVersionColor(row.version)
+                  +episodeHD(row.Media)
+                .tooltipz
+                  .img
+                    img(src=row.Show.thumbnailUrl)
+                  .destext
+                    strong FX Fighter Kurumi-chan
+                    .despoos
+                      | When middle school student, Fukuga Kurumi’s mother commits suicide after losing 20 million yen in FX trading (Foreign Exchange trading), she vows to recoup the money her mother lost “I’ll easily get...
+              -->
+              <li class="fea release">
+                <div class="releaseImg"><img src="https://vidcache.net:8161/static/b76ec6f9ac6e0568fd234a6a97824ae4a15bdcdd/jpeg"></div>
+                <div class="rightpop release"><a href="/series/yuusanchi-from-yuu-hachi" class="releaseLink">Yuusanchi! from Yuu-hachi</a>
+                  <ul class="tags">
+                    <li>
+                      <!--a(href='/series/#{row.Show.uri}') #{row.Show.title}--><a href="/yuusanchi-from-yuu-hachi-episode-1#subbed"><strong>Yuusanchi! from Yuu-hachi Episode 1</strong><span class="btn-xs btn-subbed">SUBBED</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span></a>
+                    </li>
+                  </ul>
+                  <div class="desfea">By popular author Yuu Hachi, who has been nominated for the Next Manga Award multiple times.The original characters that have become a hot topic on social media are now being made into a TV anime!A short, stocky, mysterious creature: “The Big Bee”“Pisu-chan,” a silent fish hanging in a convenience store.A somewhat unreliable and clumsy “raccoon dog”A laid-back and surreal everyday life woven by humans and lovable, slightly strange and unique...</div>
+                </div>
+              </li>
+              <!--li(class=row.Show.featured ? 'hot' : '')
+              div
+                span.rightside 12 hours ago
+                a.anm_det_pop(href='/yuusanchi-from-yuu-hachi-episode-1#subbed')
+                  strong Yuusanchi! from Yuu-hachi Episode 1
+                  +episodeVersionColor(row.version)
+                  +episodeHD(row.Media)
+                .tooltipz
+                  .img
+                    img(src=row.Show.thumbnailUrl)
+                  .destext
+                    strong Yuusanchi! from Yuu-hachi
+                    .despoos
+                      | By popular author Yuu Hachi, who has been nominated for the Next Manga Award multiple times.The original characters that have become a hot topic on social media are now being made into a TV anime!A...
+              -->
+              <li class="fea release">
+                <div class="releaseImg"><img src="https://vidcache.net:8161/static/2a2c7894e300c2ace907041a62ea9a29cfc02f60/jpeg"></div>
+                <div class="rightpop release"><a href="/series/a-certain-dark-item" class="releaseLink">A Certain Dark Item</a>
+                  <ul class="tags">
+                    <li>
+                      <!--a(href='/series/#{row.Show.uri}') #{row.Show.title}--><a href="/a-certain-dark-item-episode-1#subbed"><strong>A Certain Dark Item Episode 1</strong><span class="btn-xs btn-subbed">SUBBED</span><span class="btn-xs btn-hd">HD</span><span class="btn-xs btn-hd">SD</span></a>
+                    </li>
+                  </ul>
+                  <div class="desfea">In Academy City, where supernatural abilities are part of everyday science, the city’s peace is upheld by an unseen force—the dark side. Among the covert operatives is ITEM, a four-member elite unit. With Rikou Takitsubo’s tracking abilities, Frenda Seivelun’s explosive expertise, Saiai Kinuhata’s impenetrable defense, and Shizuri Mugino’s overwhelming power as one of Academy City’s seven Level 5 espers, they navigate the city’s underbelly...</div>
+                </div>
+              </li>
+              <!--li(class=row.Show.featured ? 'hot' : '')
+              div
+                span.rightside 12 hours ago
+                a.anm_det_pop(href='/a-certain-dark-item-episode-1#subbed')
+                  strong A Certain Dark Item Episode 1
+                  +episodeVersionColor(row.version)
+                  +episodeHD(row.Media)
+                .tooltipz
+                  .img
+                    img(src=row.Show.thumbnailUrl)
+                  .destext
+                    strong A Certain Dark Item
+                    .despoos
+                      | In Academy City, where supernatural abilities are part of everyday science, the city’s peace is upheld by an unseen force—the dark side. Among the covert operatives is ITEM, a four-member elite unit...
+              -->
+            </ul>
+            <div class="text-center">
+              <ul class="pagination">
+                <li><a href="?start=0"><<</a></li>
+                <li><a href="?start=0">Previous</a></li>
+                <li><span>1 - 10</span></li>
+                <li><a href="?start=10">Next</a></li>
+                <li><a href="?start=NaN">>></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div style="margin-top: 15px" class="col-md-4">
+          <div class="releases-boxAd"><img src="/images/animegg-banner-right-2.jpg"></div>
+        </div>
+        <div style="margin-top: 15px" class="col-md-4">
+          <div class="releases-boxAd"><img src="/images/animegg-banner-right-1.jpg"></div>
+        </div>
+      </div>
+      <!--footer-->
+      <div class="container">
+        <hr>
+        <ul class="footer-links pull-right">
+          <li><a href="/terms-of-service" class="btn btn-default btn-sm"> Terms of Service</a></li>
+          <li><a href="/privacy-policy" class="btn btn-default btn-sm"> Privacy Policy</a></li>
+          <li><a href="/complaint" class="btn btn-default btn-sm"> DMCA Complaint</a></li>
+          <li><a href="/contact" class="btn btn-default btn-sm"> Contact Us</a></li>
+          <li><a href="/rss" target="_blank" class="btn btn-sm btn-default">RSS Feed</a></li>
+        </ul>
+        <ul class="footer-links">
+          <li><a class="btn btn-sm btn-default disabled">Animegg.org 2026</a></li>
+        </ul>
+      </div>
+      <!-- if !user
+      .dropup.pull-right
+        button.btn.dropbtn.dropdown-toggle(type='button', data-toggle='dropdown', aria-haspopup='true', aria-expanded='false')
+          | Missing Chat?
+          span
+          span.caret
+        .dropdown-menu
+          p.head It still exists!
+          p Chat still exists! To use chat, all you have to do is sign in to your free Animegg account!
+          p You can create an account
+            span
+            a.dropLink(href='/createUser')  here!
+      -->
+      <!--load scripts-->
+      <!--local scripts-->
+      <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+      <script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+      <script src="//bowercdn.net/c/bootstrap-3.2.0/dist/js/bootstrap.min.js"></script>
+      <script src="//bowercdn.net/c/moment-2.7.0/min/moment.min.js"></script>
+      <script src="//bowercdn.net/c/string-3.3.1/dist/string.min.js"></script>
+      <script src="https://www.google.com/recaptcha/api.js"></script>
+      <script src="/js/search.js"></script>
+      <!--end local scripts-->
+      <!-- Chatango Chat Box-->
+      <!-- script(id='sid0020000065135929203').
+      (function() {function async_load(){
+      s.id="cid0020000065135929203";
+      s.src=(window.location.href.indexOf('file:///') > -1 ? 'http:' : '') + '//st.chatango.com/js/gz/emb.js';
+      s.style.cssText="width:275px;height:315px;";
+      s.async=true;
+      s.text='{"handle":"chatanimegg","arch":"js","styles":{"a":"000","b":100,"c":"eb7d06","d":"000","h":"FFFFFF","k":"000000","l":"000000","m":"FFFFFF","n":"FFFFFF","o":"100","q":"000","r":000000,"t":0,"showx":"0","pos":"br","cv":0,"cvbg":"000","usricon":0.99,"surl":0,"cnrs":"0.35","usricon":"1"}}';
+      var ss = document.getElementsByTagName('script');
+      for (var i=0, l=ss.length; i < l; i++){
+      if (ss[i].id=='sid0020000065135929203'){
+      ss[i].id +='_';ss[i].parentNode.insertBefore(s, ss[i]);break;}}}
+      var s=document.createElement('script');
+      if (s.async==undefined){
+      if (window.addEventListener) {addEventListener('load',async_load,false);
+      }else if (window.attachEvent) {attachEvent('onload',async_load);}}else {async_load();}})();
+      -->
+      <!--end chatango ChatBox-->
+      <script>
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+          var u = "https://stats.esecured.net/";
+          _paq.push(['setTrackerUrl',u + 'matomo.php']);
+          _paq.push(['setSiteId','7']);
+          var d = document,g = d.createElement('script'),
+            s = d.getElementsByTagName('script')[0];
+          g.type = 'text/javascript';
+          g.async = true;
+          g.src = u + 'matomo.js';
+          s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+      <script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-51999698-1"></script>
+      <script type="text/javascript">
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-51999698-1');
+        
+        
+      </script>
+    </div>
+  </body>
+</html>

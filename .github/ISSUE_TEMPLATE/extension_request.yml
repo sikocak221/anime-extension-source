@@ -1,0 +1,23 @@
+name: Extension request
+description: Ask for a new site.
+labels: [enhancement]
+body:
+  - type: input
+    id: site
+    attributes:
+      label: Site
+      placeholder: https://my-site.example
+    validations:
+      required: true
+  - type: input
+    id: lang
+    attributes:
+      label: Language of the content
+      placeholder: en
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Anything that helps
+      description: Does the site have an API? Does it need an account? Is it 18+? A pull request is faster, see CONTRIBUTING.md.

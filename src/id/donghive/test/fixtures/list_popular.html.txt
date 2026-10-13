@@ -1,0 +1,1124 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" lang="id">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<meta name="theme-color" content="#5b5b5b">
+<meta name="msapplication-navbutton-color" content="#5b5b5b">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.6 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Series Arsip - Donghive</title>
+	<link rel="canonical" href="https://donghive.vip/anime/" />
+	<link rel="next" href="https://donghive.vip/anime/page/2/" />
+	<meta property="og:locale" content="id_ID" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Series Arsip - Donghive" />
+	<meta property="og:url" content="https://donghive.vip/anime/" />
+	<meta property="og:site_name" content="Donghive" />
+	<meta property="og:image" content="https://donghive.vip/wp-content/uploads/2025/02/donghub.png" />
+	<meta property="og:image:width" content="512" />
+	<meta property="og:image:height" content="512" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/donghive.vip\/anime\/","url":"https:\/\/donghive.vip\/anime\/","name":"Series Arsip - Donghive","isPartOf":{"@id":"https:\/\/donghive.vip\/#website"},"primaryImageOfPage":{"@id":"https:\/\/donghive.vip\/anime\/#primaryimage"},"image":{"@id":"https:\/\/donghive.vip\/anime\/#primaryimage"},"thumbnailUrl":"https:\/\/donghive.vip\/wp-content\/uploads\/2026\/10\/Xi-Xing-Ji-Asura-Season-2-768x1077-1.png","breadcrumb":{"@id":"https:\/\/donghive.vip\/anime\/#breadcrumb"},"inLanguage":"id"},{"@type":"ImageObject","inLanguage":"id","@id":"https:\/\/donghive.vip\/anime\/#primaryimage","url":"https:\/\/donghive.vip\/wp-content\/uploads\/2026\/10\/Xi-Xing-Ji-Asura-Season-2-768x1077-1.png","contentUrl":"https:\/\/donghive.vip\/wp-content\/uploads\/2026\/10\/Xi-Xing-Ji-Asura-Season-2-768x1077-1.png","width":768,"height":1077},{"@type":"BreadcrumbList","@id":"https:\/\/donghive.vip\/anime\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Beranda","item":"https:\/\/donghive.vip\/"},{"@type":"ListItem","position":2,"name":"Series"}]},{"@type":"WebSite","@id":"https:\/\/donghive.vip\/#website","url":"https:\/\/donghive.vip\/","name":"Donghub","description":"Nonton Anime Anichin, Auratail, Donghub, Donghive, Anixverse, Animexin, Kazefuri Donghua dengan Subtitle Indo hanya di Donghive","publisher":{"@id":"https:\/\/donghive.vip\/#\/schema\/person\/bb8b2a11becd2d2feace192e11af9664"},"alternateName":"Nonton Anime Anichin dan Donghua dengan subtitle Indonesia hanya di Donghub","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/donghive.vip\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"id"},{"@type":["Person","Organization"],"@id":"https:\/\/donghive.vip\/#\/schema\/person\/bb8b2a11becd2d2feace192e11af9664","name":"Admin","image":{"@type":"ImageObject","inLanguage":"id","@id":"https:\/\/i3.wp.com\/donghub.vip\/wp-content\/uploads\/2025\/02\/Donghub.jpg","url":"https:\/\/i3.wp.com\/donghub.vip\/wp-content\/uploads\/2025\/02\/Donghub.jpg","contentUrl":"https:\/\/i3.wp.com\/donghub.vip\/wp-content\/uploads\/2025\/02\/Donghub.jpg","width":225,"height":225,"caption":"Admin"},"logo":{"@id":"https:\/\/i3.wp.com\/donghub.vip\/wp-content\/uploads\/2025\/02\/Donghub.jpg"},"sameAs":["https:\/\/donghub.vip"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="Donghive &raquo; Series Umpan" href="https://donghive.vip/anime/feed/" />
+<script>const ts_config={"general":{"ajaxurl":"https:\/\/donghive.vip\/wp-admin\/admin-ajax.php","site_url":"https:\/\/donghive.vip","slow_view_count":!1,"display_view_count":!1,"slow_view_count_interval":6},"lang":{}}</script><style id="wp-img-auto-sizes-contain-inline-css">img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}</style>
+
+<style id="wp-emoji-styles-inline-css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 0.07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important}</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}</style>
+
+<style id="global-styles-inline-css">:root{--wp--preset--aspect-ratio--square:1;--wp--preset--aspect-ratio--4-3:4/3;--wp--preset--aspect-ratio--3-4:3/4;--wp--preset--aspect-ratio--3-2:3/2;--wp--preset--aspect-ratio--2-3:2/3;--wp--preset--aspect-ratio--16-9:16/9;--wp--preset--aspect-ratio--9-16:9/16;--wp--preset--color--black:#000000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#ffffff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small:13px;--wp--preset--font-size--medium:20px;--wp--preset--font-size--large:36px;--wp--preset--font-size--x-large:42px;--wp--preset--spacing--20:0.44rem;--wp--preset--spacing--30:0.67rem;--wp--preset--spacing--40:1rem;--wp--preset--spacing--50:1.5rem;--wp--preset--spacing--60:2.25rem;--wp--preset--spacing--70:3.38rem;--wp--preset--spacing--80:5.06rem;--wp--preset--shadow--natural:6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep:12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp:6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined:6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp:6px 6px 0px rgb(0, 0, 0)}.wp-block-button{--wp--preset--dimension--25:25%;--wp--preset--dimension--50:50%;--wp--preset--dimension--75:75%;--wp--preset--dimension--100:100%}:where(body){margin:0}:where(.is-layout-flex){gap:.5em}:where(.is-layout-grid){gap:.5em}body .is-layout-flex{display:flex}.is-layout-flex{flex-wrap:wrap;align-items:center}.is-layout-flex>:is(*,div){margin:0}body .is-layout-grid{display:grid}.is-layout-grid>:is(*,div){margin:0}body{padding-top:0;padding-right:0;padding-bottom:0;padding-left:0}:root :where(.wp-element-button,.wp-block-button__link){background-color:#32373c;border-width:0;color:#fff;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;padding-top:calc(0.667em + 2px);padding-right:calc(1.333em + 2px);padding-bottom:calc(0.667em + 2px);padding-left:calc(1.333em + 2px);text-decoration:none;text-transform:inherit}.has-black-color{color:var(--wp--preset--color--black)!important}.has-cyan-bluish-gray-color{color:var(--wp--preset--color--cyan-bluish-gray)!important}.has-white-color{color:var(--wp--preset--color--white)!important}.has-pale-pink-color{color:var(--wp--preset--color--pale-pink)!important}.has-vivid-red-color{color:var(--wp--preset--color--vivid-red)!important}.has-luminous-vivid-orange-color{color:var(--wp--preset--color--luminous-vivid-orange)!important}.has-luminous-vivid-amber-color{color:var(--wp--preset--color--luminous-vivid-amber)!important}.has-light-green-cyan-color{color:var(--wp--preset--color--light-green-cyan)!important}.has-vivid-green-cyan-color{color:var(--wp--preset--color--vivid-green-cyan)!important}.has-pale-cyan-blue-color{color:var(--wp--preset--color--pale-cyan-blue)!important}.has-vivid-cyan-blue-color{color:var(--wp--preset--color--vivid-cyan-blue)!important}.has-vivid-purple-color{color:var(--wp--preset--color--vivid-purple)!important}.has-black-background-color{background-color:var(--wp--preset--color--black)!important}.has-cyan-bluish-gray-background-color{background-color:var(--wp--preset--color--cyan-bluish-gray)!important}.has-white-background-color{background-color:var(--wp--preset--color--white)!important}.has-pale-pink-background-color{background-color:var(--wp--preset--color--pale-pink)!important}.has-vivid-red-background-color{background-color:var(--wp--preset--color--vivid-red)!important}.has-luminous-vivid-orange-background-color{background-color:var(--wp--preset--color--luminous-vivid-orange)!important}.has-luminous-vivid-amber-background-color{background-color:var(--wp--preset--color--luminous-vivid-amber)!important}.has-light-green-cyan-background-color{background-color:var(--wp--preset--color--light-green-cyan)!important}.has-vivid-green-cyan-background-color{background-color:var(--wp--preset--color--vivid-green-cyan)!important}.has-pale-cyan-blue-background-color{background-color:var(--wp--preset--color--pale-cyan-blue)!important}.has-vivid-cyan-blue-background-color{background-color:var(--wp--preset--color--vivid-cyan-blue)!important}.has-vivid-purple-background-color{background-color:var(--wp--preset--color--vivid-purple)!important}.has-black-border-color{border-color:var(--wp--preset--color--black)!important}.has-cyan-bluish-gray-border-color{border-color:var(--wp--preset--color--cyan-bluish-gray)!important}.has-white-border-color{border-color:var(--wp--preset--color--white)!important}.has-pale-pink-border-color{border-color:var(--wp--preset--color--pale-pink)!important}.has-vivid-red-border-color{border-color:var(--wp--preset--color--vivid-red)!important}.has-luminous-vivid-orange-border-color{border-color:var(--wp--preset--color--luminous-vivid-orange)!important}.has-luminous-vivid-amber-border-color{border-color:var(--wp--preset--color--luminous-vivid-amber)!important}.has-light-green-cyan-border-color{border-color:var(--wp--preset--color--light-green-cyan)!important}.has-vivid-green-cyan-border-color{border-color:var(--wp--preset--color--vivid-green-cyan)!important}.has-pale-cyan-blue-border-color{border-color:var(--wp--preset--color--pale-cyan-blue)!important}.has-vivid-cyan-blue-border-color{border-color:var(--wp--preset--color--vivid-cyan-blue)!important}.has-vivid-purple-border-color{border-color:var(--wp--preset--color--vivid-purple)!important}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background:var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple)!important}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background:var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan)!important}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background:var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange)!important}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background:var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red)!important}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background:var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray)!important}.has-cool-to-warm-spectrum-gradient-background{background:var(--wp--preset--gradient--cool-to-warm-spectrum)!important}.has-blush-light-purple-gradient-background{background:var(--wp--preset--gradient--blush-light-purple)!important}.has-blush-bordeaux-gradient-background{background:var(--wp--preset--gradient--blush-bordeaux)!important}.has-luminous-dusk-gradient-background{background:var(--wp--preset--gradient--luminous-dusk)!important}.has-pale-ocean-gradient-background{background:var(--wp--preset--gradient--pale-ocean)!important}.has-electric-grass-gradient-background{background:var(--wp--preset--gradient--electric-grass)!important}.has-midnight-gradient-background{background:var(--wp--preset--gradient--midnight)!important}.has-small-font-size{font-size:var(--wp--preset--font-size--small)!important}.has-medium-font-size{font-size:var(--wp--preset--font-size--medium)!important}.has-large-font-size{font-size:var(--wp--preset--font-size--large)!important}.has-x-large-font-size{font-size:var(--wp--preset--font-size--x-large)!important}</style>
+
+<link data-optimized="1" rel='stylesheet' id='dashicons-css' href='https://donghive.vip/wp-content/litespeed/css/1a041283fa0657758c47e54def05246d.css?ver=aa9ea' media='all' />
+<link data-optimized="1" rel='stylesheet' id='style-css' href='https://donghive.vip/wp-content/litespeed/css/f71366c3fba38c6fe497df62f5b29fe0.css?ver=b61a6' media='all' />
+<link data-optimized="1" rel='stylesheet' id='ts-darkstyle-css' href='https://donghive.vip/wp-content/litespeed/css/d056442faae6859f6bca47ad2da10063.css?ver=02cf6' media='all' />
+<link data-optimized="1" rel='stylesheet' id='ts-second-style-css' href='https://donghive.vip/wp-content/litespeed/css/0c00f0c2a9fa512ea48a7c6b54c54913.css?ver=e8d1e' media='all' />
+<script id="jquery-js" src="https://donghive.vip/wp-content/themes/animestream/assets/js/jquery.min.js?ver=3.7.1"></script>
+<script data-optimized="1" id="jquery-js-after">const tsCastDefaultImg='https://donghive.vip/wp-content/themes/animestream/assets/img/character-default.png'</script>
+<script data-optimized="1" id="ts-functions-js" src="https://donghive.vip/wp-content/litespeed/js/40556f96a5e8692f9600cba541855ad5.js?ver=125cc"></script>
+<script data-optimized="1" id="ts-popular_widget-js" src="https://donghive.vip/wp-content/litespeed/js/0a102007831f9c3e8e9f565dd9ac049a.js?ver=4a870"></script>
+
+<!-- Potongan tag Google (gtag.js) ditambahkan oleh Site Kit -->
+<!-- Snippet Google Analytics telah ditambahkan oleh Site Kit -->
+<script id="google_gtagjs-js" src="https://www.googletagmanager.com/gtag/js?id=GT-MQXV7VSS" async></script>
+<script id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["donghive.vip"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-MQXV7VSS");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+</script>
+<link rel="https://api.w.org/" href="https://donghive.vip/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://donghive.vip/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.3" />
+<meta name="generator" content="Site Kit by Google 1.189.0" /><meta name="onesignal-plugin" content="wordpress-3.9.4">
+  <script data-optimized="1" src="https://donghive.vip/wp-content/litespeed/js/7da17e76e86fbe67c8700c90d1f7a978.js?ver=7a978" defer></script>
+  <script>window.OneSignalDeferred=window.OneSignalDeferred||[];OneSignalDeferred.push(async function(OneSignal){await OneSignal.init({appId:"816918c4-eb11-4fd4-a4d4-63e20ea30f34",serviceWorkerOverrideForTypical:!0,path:"https://donghive.vip/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/",serviceWorkerParam:{scope:"\/wp-content\/plugins\/onesignal-free-web-push-notifications\/sdk_files\/push\/onesignal\/"},serviceWorkerPath:"OneSignalSDKWorker.js",})});if(navigator.serviceWorker){navigator.serviceWorker.getRegistrations().then((registrations)=>{registrations.forEach((registration)=>{if(registration.active&&registration.active.scriptURL.includes('OneSignalSDKWorker.js.php')){registration.unregister().then((success)=>{if(success){console.log('OneSignalSW: Successfully unregistered:',registration.active.scriptURL)}else{console.log('OneSignalSW: Failed to unregister:',registration.active.scriptURL)}})}})}).catch((error)=>{console.error('Error fetching service worker registrations:',error)})}</script>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link data-optimized="1" href="https://donghive.vip/wp-content/litespeed/css/75e802a51d205f5c1ea93fc2f44ad3b2.css?ver=ad3b2" rel="stylesheet">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8828240101634711"
+     crossorigin="anonymous"></script><script>$(document).ready(function(){$(".shme").click(function(){$(".mm").toggleClass("shwx")});$(".expand").click(function(){$(".megavid").toggleClass("xp");$(".pd-expand").toggleClass("sxp")});$('.expand').click(function(){if($('.expand').hasClass('slamdown')){$('.expand').removeClass('slamdown');jQuery(".mvelement").prependTo(jQuery(".megavid"))}else{$('.expand').addClass('slamdown');jQuery(".mvelement").appendTo(jQuery(".pd-expand"))}});$(".gnr").click(function(){$(".gnrx").toggleClass("shwgx")});$(".light").click(function(){$(".lowvid").toggleClass("highvid")});$(".colap").click(function(){$(".mindes").toggleClass("alldes")});$(".topmobile").click(function(){$(".topmobcon").toggleClass("topmobshow")});$(".toggler").click(function(){$(".inmenu").toggleClass("inmshow")});$(".twoscmob").click(function(){$(".searchdesk").toggleClass("searchmobi")});$(".srcmob").click(function(){$(".minmb").toggleClass("minmbx")})})</script>
+	<script>var defaultTheme="darkmode";var tsmjsload=!0</script>
+			<style>.darkmode .bxcl ul li span.dt a{background:#30353c}#main-menu,.soraddlx .sorattlx,.releases .vl,.serieslist.pop ul li.topone .limit .bw .ctr,#footer .footermenu,.bigcontent .infox .spe span:before,.commentx #submit,.naveps .nvsc a,.radiox input:checked~.checkmarkx,.advancedsearch button.searchz,.lista a:hover,.bxcl ul li span.dt a:hover,.bookmark,.bs .bsx .limit .typez.Drama,.hpage a,.slider:before,.darkmode .naveps .nvsc a,.darkmode .lista a,.darkmode .nav_apb a:hover,#sidebar .section ul.season li:before,#sidebar .section ul.season::-webkit-scrollbar-thumb,#sidebar .section .ongoingseries ul li a .l .fas,#sidebar .section .ongoingseries ul li a .r,.releases.latesthome,.quickfilter .filters .filter.submit button,.footer-az .az-list li a,.stylesix .bsx .upscore,.stylefor .bsx .tt span i,.soraddlx .soraurlx strong,.bxcl ul li:hover,.darkmode .quickfilter .filters .filter.submit button,.darkmode .bxcl ul li:hover,#sidebar .section .ongoingseries ul::-webkit-scrollbar-thumb,.quickfilter .filters .filter .scrollz::-webkit-scrollbar-thumb,.bxcl ul::-webkit-scrollbar-thumb,.bigcontent .infox .genxed a:hover,.lastend .inepcx a,.single-info.bixbox .infox .spe span:before,.single-info.bixbox .infox .genxed a:hover,.series-gen .nav-tabs li.active a,.naveps.bignav .nvs.nvsc a,.darkmode .naveps.bignav .nvs.nvsc a,#top-menu li a:hover,.topmobile,.comment-list .comment-body .reply a:hover,.mngentwo .centernav .surprise,#menutwo .inmenu>ul,#menutwo .inmenu>ul>li>a,#menutwo .inmenu>ul>li:first-child:before,#menutwo .inmenu>ul>li:last-child:after,#slidertwo .item .info,.styletwo #sidebar .section .quickfilter .filters .filter.submit button,.styletwo .bs .bsx .limit .bt .epx,#slidertwo .swiper-pagination>span.swiper-pagination-bullet-active,.mngentwo .centernav .searchx.searchmobi #form #s,#sidebar .section .ts-wpop-series-gen .ts-wpop-nav-tabs li.active span,.bixbox .bvl,.post-nav-links .post-page-numbers,.paginationjs ul li a:hover,.paginationjs ul li.active a,.darkmode .paginationjs ul li.active a{background:#5b5b5b}.pagination span.page-numbers.current,#gallery.owl-loaded .owl-dots .owl-dot.active span,.taxindex li a:hover,.darkmode .taxindex li a:hover{background:#5b5b5b!important}.releases span,.advancedsearch button.searchz,.lista a:hover,.darkmode .lista a,.stylefor .bsx:hover,.bxcl ul li:hover,.single-info.bixbox .infox .genxed a:hover,.comment-list .comment-body .reply a{border-color:#5b5b5b}.surprise:hover{color:#FFF;background:#333}a:hover,.listupd .lexa .dtl h2 a:hover,.live-search_result_container a:hover,.footer-az .az-list li a:hover,.bxcl ul li span.dt a .dashicons .darkmode #sidebar .section .serieslist ul li .leftseries span a,.stylefor a:hover,.seventh .main-seven .tt .sosev span a:hover,.stylesix .bsx .inf span a,.epl-num a,.bixbox.episodedl .epwrapper .epheader .entry-info a,.darkmode a:hover,.dlbox ul li span a,.single-info.bixbox .infox .infolimit h2,.stylenine .bsx .inf span a,.comment-list .comment-body .reply a,.bigcontent .infox .spe span a,#slidertwo .item .info .watch:hover,#slidertwo .paging>div:hover i,.single-info.bixbox .infox .spe span a,.cmt .must-log-in a,.bigcontent .infox .spe span a,.stylesix .bsx .inf ul li a,.meta .year a,.blogpost .entry-header .entry-meta a,.darkmode .blogpost .entry-header .entry-meta a:hover,.darkmode .single-info.bixbox .infox .spe span a:hover,.darkmode .bigcontent .infox .spe span a:hover,.darkmode .cmt .must-log-in a:hover{color:#5b5b5b}.footer-az .az-list li a:hover{color:#5b5b5b!important}.releases h1,.releases h3,#sidebar .section h4{color:#333}.bs .bsx .limit .ply{background:rgb(0 0 0 / .5)}#main-menu ul li a:hover{text-decoration:none;color:#FFF}.serieslist ul li .ctr,.bigcontent .infox .genxed a,.single-info.bixbox .infox .genxed a{color:#5b5b5b;border-color:#5b5b5b}.darkmode .bigcontent .infox .genxed a,.darkmode .single-info.bixbox .infox .genxed a{color:#CCC}.darkmode .bigcontent .infox .genxed a:hover,.darkmode .single-info.bixbox .infox .genxed a:hover,.darkmode .single-info.bixbox .infox .infolimit h2,#ts-history-pagination ul li.active a{color:#FFF}.modex a{background:#333}.modex a:hover,.stylefor .bsx .tt span i,.darkmode .naveps.bignav .nvs.nvsc a{color:#FFF}.bigcontent .rt .rating,.bxcl ul li span.dt a{background:#f8f8f8}.bookmark:hover{background:#1d1b26}.darkmode .lista a:hover{background:#333}@media only screen and (max-width:800px){.th,.darkmode .th{background:#5b5b5b}#main-menu{background:rgb(28 28 28 / .95)}.surprise{background:#5b5b5b}}</style>
+		<style>.releases.hothome{background:#5b5b5b}</style>
+	<script data-optimized="1" type='text/javascript'>$(document).ready(function(){$("#shadow").css("height",$(document).height()).hide();$(".light").click(function(){$("#shadow").toggle();if($("#shadow").is(":hidden"))
+$(this).html("<i class='far fa-lightbulb' aria-hidden='true'></i> <span>Turn Off Light</span>").removeClass("turnedOff");else $(this).html("<i class='fas fa-lightbulb' aria-hidden='true'></i> <span>Turn On Light</span>").addClass("turnedOff")})})</script>
+
+<!-- Meta tag Google AdSense ditambahkan oleh Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- Akhir tag meta Google AdSense yang ditambahkan oleh Site Kit -->
+<link rel="icon" href="https://donghive.vip/wp-content/uploads/2026/04/Donghub-Baru-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://donghive.vip/wp-content/uploads/2026/04/Donghub-Baru.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://donghive.vip/wp-content/uploads/2026/04/Donghub-Baru.png" />
+<meta name="msapplication-TileImage" content="https://donghive.vip/wp-content/uploads/2026/04/Donghub-Baru.png" />
+<link data-optimized="1" rel='stylesheet' id='ts-fontawesome-css' href='https://donghive.vip/wp-content/litespeed/css/a6d99a79080da3c4e61bdd96251bc702.css?ver=3cd42' media='all' />
+<link data-optimized="1" rel='stylesheet' id='ts-owl-carousel-css' href='https://donghive.vip/wp-content/litespeed/css/330bf8740f6432e49c4df2bc99a3ba79.css?ver=73d8f' media='all' />
+
+</head>
+<body class="darkmode styletwo" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+<script data-ssr="1" data-cfasync="false" async type="text/javascript" src="//ya.latinusagate.cfd/r6ac9cd51f22cb/119353"></script> 
+
+<div id='shadow'></div>
+
+<div class="th mngentwo">
+	<div class="centernav bound">
+		<div id="menutwo">
+			<div class="toggler"><i class="fa fa-bars" aria-hidden="true"></i></div>
+
+			<div class="inmenu" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" role="navigation">
+				<ul id="menu-menu" class="menu"><li id="menu-item-259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-259"><a href="https://donghub.vip/" itemprop="url"><span itemprop="name">Beranda</span></a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="https://donghive.vip/bookmark/" itemprop="url"><span itemprop="name">Bookmark</span></a></li>
+<li id="menu-item-76" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-76"><a href="https://donghive.vip/schedule/" itemprop="url"><span itemprop="name">Schedule</span></a></li>
+<li id="menu-item-260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-260"><a rel="privacy-policy" href="https://donghive.vip/privacy-policy/" itemprop="url"><span itemprop="name">Privacy Policy</span></a></li>
+</ul>			</div>
+		</div>
+		
+		<header class="mainheader" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+			<div class="site-branding logox">
+							<span class="logos">
+					<a title="Donghive - Nonton Anime Anichin, Auratail, Donghub, Donghive, Anixverse, Animexin, Kazefuri Donghua dengan Subtitle Indo hanya di Donghive" itemprop="url" href="https://donghive.vip/"><img itemprop="image" width="270" height="50" src="https://donghive.vip/wp-content/uploads/2026/04/Donghub-Baru.png" alt="Donghive - Nonton Anime Anichin, Auratail, Donghub, Donghive, Anixverse, Animexin, Kazefuri Donghua dengan Subtitle Indo hanya di Donghive"><span class="hdl">Donghive - Nonton Anime Anichin, Auratail, Donghub, Donghive, Anixverse, Animexin, Kazefuri Donghua dengan Subtitle Indo hanya di Donghive</span></a>
+				</span>
+								<meta itemprop="name" content="Donghive" />
+			</div>
+		</header>
+
+		<div class="searchx searchdesk">
+			<form action="https://donghive.vip/" id="form" method="get" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+				<meta itemprop="target" content="https://donghive.vip/?s={query}"/>
+				<input id="s" itemprop="query-input" class="search-live" type="text" placeholder="Search..." name="s"/>
+				<button type="submit" id="submitsearch" aria-label="search"><i class="fas fa-search" aria-hidden="true"></i></button>
+			</form>
+		</div>
+				<span class="twoscmob"><i class="fas fa-search" aria-hidden="true"></i></span>
+	</div>
+</div>
+
+<div id="content">
+	<div class="wrapper">
+		<div class="postbody">
+<div class="bixbox bixboxarc bbnofrm">
+	<div class="releases"><h1><span>Anime Lists</span></h1></div>
+		   <div class="mrgn">
+			        <div class="advancedsearch">		<div class="quickfilter">
+			<form action="https://donghive.vip/anime" class="filters " method="GET">
+                				<span class="sec1">
+                <!-- genres -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Genre <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i> </button>
+					<ul class="dropdown-menu c4 scrollz">
+						                        <li><input type="checkbox" id="genre-2d" name="genre[]" value="2d"> <label for="genre-2d">2D</label></li>
+						                        <li><input type="checkbox" id="genre-action" name="genre[]" value="action"> <label for="genre-action">Action</label></li>
+						                        <li><input type="checkbox" id="genre-adventure" name="genre[]" value="adventure"> <label for="genre-adventure">Adventure</label></li>
+						                        <li><input type="checkbox" id="genre-cheat-system" name="genre[]" value="cheat-system"> <label for="genre-cheat-system">Cheat System</label></li>
+						                        <li><input type="checkbox" id="genre-comedy" name="genre[]" value="comedy"> <label for="genre-comedy">Comedy</label></li>
+						                        <li><input type="checkbox" id="genre-cultivation" name="genre[]" value="cultivation"> <label for="genre-cultivation">Cultivation</label></li>
+						                        <li><input type="checkbox" id="genre-demons" name="genre[]" value="demons"> <label for="genre-demons">Demons</label></li>
+						                        <li><input type="checkbox" id="genre-drama" name="genre[]" value="drama"> <label for="genre-drama">Drama</label></li>
+						                        <li><input type="checkbox" id="genre-fantasy" name="genre[]" value="fantasy"> <label for="genre-fantasy">Fantasy</label></li>
+						                        <li><input type="checkbox" id="genre-game" name="genre[]" value="game"> <label for="genre-game">Game</label></li>
+						                        <li><input type="checkbox" id="genre-game-world" name="genre[]" value="game-world"> <label for="genre-game-world">Game World</label></li>
+						                        <li><input type="checkbox" id="genre-historical" name="genre[]" value="historical"> <label for="genre-historical">Historical</label></li>
+						                        <li><input type="checkbox" id="genre-horor" name="genre[]" value="horor"> <label for="genre-horor">Horor</label></li>
+						                        <li><input type="checkbox" id="genre-isekai" name="genre[]" value="isekai"> <label for="genre-isekai">Isekai</label></li>
+						                        <li><input type="checkbox" id="genre-martial-arts" name="genre[]" value="martial-arts"> <label for="genre-martial-arts">Martial Arts</label></li>
+						                        <li><input type="checkbox" id="genre-mystery" name="genre[]" value="mystery"> <label for="genre-mystery">Mystery</label></li>
+						                        <li><input type="checkbox" id="genre-op-mc" name="genre[]" value="op-mc"> <label for="genre-op-mc">OP-MC</label></li>
+						                        <li><input type="checkbox" id="genre-psychological" name="genre[]" value="psychological"> <label for="genre-psychological">Psychological</label></li>
+						                        <li><input type="checkbox" id="genre-reincarnation" name="genre[]" value="reincarnation"> <label for="genre-reincarnation">Reincarnation</label></li>
+						                        <li><input type="checkbox" id="genre-romance" name="genre[]" value="romance"> <label for="genre-romance">Romance</label></li>
+						                        <li><input type="checkbox" id="genre-sci-fi" name="genre[]" value="sci-fi"> <label for="genre-sci-fi">Sci-fi</label></li>
+						                        <li><input type="checkbox" id="genre-super-power" name="genre[]" value="super-power"> <label for="genre-super-power">Super Power</label></li>
+						                        <li><input type="checkbox" id="genre-supranatural" name="genre[]" value="supranatural"> <label for="genre-supranatural">Supranatural</label></li>
+						                        <li><input type="checkbox" id="genre-urban-fantasy" name="genre[]" value="urban-fantasy"> <label for="genre-urban-fantasy">Urban Fantasy</label></li>
+						                        <li><input type="checkbox" id="genre-war" name="genre[]" value="war"> <label for="genre-war">War</label></li>
+						                        <li><input type="checkbox" id="genre-wuxia" name="genre[]" value="wuxia"> <label for="genre-wuxia">Wuxia</label></li>
+											</ul>
+				</div>
+                <!-- season -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Season <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i> </button>
+					<ul class="dropdown-menu c4 scrollz">
+						                        <li><input type="checkbox" id="season-fall-2025" name="season[]" value="fall-2025"> <label for="season-fall-2025">Fall 2025</label></li>
+						                        <li><input type="checkbox" id="season-season-1" name="season[]" value="season-1"> <label for="season-season-1">Season 1</label></li>
+						                        <li><input type="checkbox" id="season-season-10" name="season[]" value="season-10"> <label for="season-season-10">Season 10</label></li>
+						                        <li><input type="checkbox" id="season-season-2" name="season[]" value="season-2"> <label for="season-season-2">Season 2</label></li>
+						                        <li><input type="checkbox" id="season-season-3" name="season[]" value="season-3"> <label for="season-season-3">Season 3</label></li>
+						                        <li><input type="checkbox" id="season-season-4" name="season[]" value="season-4"> <label for="season-season-4">Season 4</label></li>
+						                        <li><input type="checkbox" id="season-season-5" name="season[]" value="season-5"> <label for="season-season-5">Season 5</label></li>
+						                        <li><input type="checkbox" id="season-season-6" name="season[]" value="season-6"> <label for="season-season-6">Season 6</label></li>
+						                        <li><input type="checkbox" id="season-season-7" name="season[]" value="season-7"> <label for="season-season-7">Season 7</label></li>
+						                        <li><input type="checkbox" id="season-season-9" name="season[]" value="season-9"> <label for="season-season-9">Season 9</label></li>
+						                        <li><input type="checkbox" id="season-summer-2024" name="season[]" value="summer-2024"> <label for="season-summer-2024">Summer 2024</label></li>
+											</ul>
+				</div>
+                <!-- studio -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Studio <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i> </button>
+					<ul class="dropdown-menu c4 scrollz">
+						                        <li><input type="checkbox" id="studio-b-camy-pictures" name="studio[]" value="b-camy-pictures"> <label for="studio-b-camy-pictures">B.CAMY Pictures</label></li>
+						                        <li><input type="checkbox" id="studio-build-dream" name="studio[]" value="build-dream"> <label for="studio-build-dream">Build Dream</label></li>
+						                        <li><input type="checkbox" id="studio-byment" name="studio[]" value="byment"> <label for="studio-byment">BYMENT</label></li>
+						                        <li><input type="checkbox" id="studio-cg-year" name="studio[]" value="cg-year"> <label for="studio-cg-year">CG Year</label></li>
+						                        <li><input type="checkbox" id="studio-cloud-art" name="studio[]" value="cloud-art"> <label for="studio-cloud-art">Cloud Art</label></li>
+						                        <li><input type="checkbox" id="studio-dc-impression-vision" name="studio[]" value="dc-impression-vision"> <label for="studio-dc-impression-vision">DC Impression Vision</label></li>
+						                        <li><input type="checkbox" id="studio-foch-film" name="studio[]" value="foch-film"> <label for="studio-foch-film">Foch Film</label></li>
+						                        <li><input type="checkbox" id="studio-honglu-technology" name="studio[]" value="honglu-technology"> <label for="studio-honglu-technology">Honglu Technology</label></li>
+						                        <li><input type="checkbox" id="studio-huananwei-digital-animation" name="studio[]" value="huananwei-digital-animation"> <label for="studio-huananwei-digital-animation">Huananwei Digital Animation</label></li>
+						                        <li><input type="checkbox" id="studio-liliyabi-company-introduction" name="studio[]" value="liliyabi-company-introduction"> <label for="studio-liliyabi-company-introduction">Liliyabi Company Introduction</label></li>
+						                        <li><input type="checkbox" id="studio-lx-animation-studio" name="studio[]" value="lx-animation-studio"> <label for="studio-lx-animation-studio">Lx Animation Studio</label></li>
+						                        <li><input type="checkbox" id="studio-october-media" name="studio[]" value="october-media"> <label for="studio-october-media">October Media</label></li>
+						                        <li><input type="checkbox" id="studio-original-force" name="studio[]" value="original-force"> <label for="studio-original-force">Original Force</label></li>
+						                        <li><input type="checkbox" id="studio-qing-xiang" name="studio[]" value="qing-xiang"> <label for="studio-qing-xiang">Qing Xiang</label></li>
+						                        <li><input type="checkbox" id="studio-qiyuan-yinghua" name="studio[]" value="qiyuan-yinghua"> <label for="studio-qiyuan-yinghua">Qiyuan Yinghua</label></li>
+						                        <li><input type="checkbox" id="studio-rocen" name="studio[]" value="rocen"> <label for="studio-rocen">Rocen</label></li>
+						                        <li><input type="checkbox" id="studio-ruo-hong-culture" name="studio[]" value="ruo-hong-culture"> <label for="studio-ruo-hong-culture">Ruo Hong Culture</label></li>
+						                        <li><input type="checkbox" id="studio-sanghai-foch-film-culture-investment" name="studio[]" value="sanghai-foch-film-culture-investment"> <label for="studio-sanghai-foch-film-culture-investment">Sanghai Foch Film Culture Investment</label></li>
+						                        <li><input type="checkbox" id="studio-shanghai-foch-film" name="studio[]" value="shanghai-foch-film"> <label for="studio-shanghai-foch-film">Shanghai Foch Film</label></li>
+						                        <li><input type="checkbox" id="studio-shanghai-motion-magic" name="studio[]" value="shanghai-motion-magic"> <label for="studio-shanghai-motion-magic">Shanghai Motion Magic</label></li>
+						                        <li><input type="checkbox" id="studio-shenman-entertainent" name="studio[]" value="shenman-entertainent"> <label for="studio-shenman-entertainent">Shenman Entertainent</label></li>
+						                        <li><input type="checkbox" id="studio-shenman-entertainment" name="studio[]" value="shenman-entertainment"> <label for="studio-shenman-entertainment">Shenman Entertainment</label></li>
+						                        <li><input type="checkbox" id="studio-soyep" name="studio[]" value="soyep"> <label for="studio-soyep">Soyep</label></li>
+						                        <li><input type="checkbox" id="studio-sparkly-key-animation-studio" name="studio[]" value="sparkly-key-animation-studio"> <label for="studio-sparkly-key-animation-studio">Sparkly Key Animation Studio</label></li>
+						                        <li><input type="checkbox" id="studio-suoyi-technology" name="studio[]" value="suoyi-technology"> <label for="studio-suoyi-technology">Suoyi Technology</label></li>
+						                        <li><input type="checkbox" id="studio-wawayu-animation" name="studio[]" value="wawayu-animation"> <label for="studio-wawayu-animation">Wawayu Animation</label></li>
+						                        <li><input type="checkbox" id="studio-wonder-cat-animation" name="studio[]" value="wonder-cat-animation"> <label for="studio-wonder-cat-animation">Wonder Cat Animation</label></li>
+						                        <li><input type="checkbox" id="studio-xiaoming-taiji" name="studio[]" value="xiaoming-taiji"> <label for="studio-xiaoming-taiji">Xiaoming Taiji</label></li>
+						                        <li><input type="checkbox" id="studio-yien-animation-studio" name="studio[]" value="yien-animation-studio"> <label for="studio-yien-animation-studio">Yien Animation Studio</label></li>
+						                        <li><input type="checkbox" id="studio-yosep" name="studio[]" value="yosep"> <label for="studio-yosep">Yosep</label></li>
+											</ul>
+				</div>
+                <!-- status -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Status <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+					<ul class="dropdown-menu c1">
+						<li> <input type="radio" id="anime_status-all" name="status" value="" checked=""> <label for="anime_status-all">All</label></li>
+						 
+                            <li> <input type="radio" id="anime_status-ongoing" name="status" value="ongoing"> <label for="anime_status-ongoing">Ongoing</label></li>
+                         
+                            <li> <input type="radio" id="anime_status-completed" name="status" value="completed"> <label for="anime_status-completed">Completed</label></li>
+                         
+                            <li> <input type="radio" id="anime_status-upcoming" name="status" value="upcoming"> <label for="anime_status-upcoming">Upcoming</label></li>
+                         
+                            <li> <input type="radio" id="anime_status-hiatus" name="status" value="hiatus"> <label for="anime_status-hiatus">Hiatus</label></li>
+                                            </ul>
+				</div>
+                <!-- type -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Type <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+				<ul class="dropdown-menu c1">
+					<li> <input type="radio" id="type-all" name="type" value="" checked=""> <label for="type-all">All</label></li>
+					 
+                        <li><input type="radio" id="type-tv" name="type" value="tv"><label for="type-tv"> TV Series</label></li>
+                     
+                        <li><input type="radio" id="type-ova" name="type" value="ova"><label for="type-ova"> OVA</label></li>
+                     
+                        <li><input type="radio" id="type-movie" name="type" value="movie"><label for="type-movie"> Movie</label></li>
+                     
+                        <li><input type="radio" id="type-live action" name="type" value="live action"><label for="type-live action"> Live Action</label></li>
+                     
+                        <li><input type="radio" id="type-special" name="type" value="special"><label for="type-special"> Special</label></li>
+                     
+                        <li><input type="radio" id="type-bd" name="type" value="bd"><label for="type-bd"> BD</label></li>
+                     
+                        <li><input type="radio" id="type-ona" name="type" value="ona"><label for="type-ona"> ONA</label></li>
+                     
+                        <li><input type="radio" id="type-music" name="type" value="music"><label for="type-music"> Music</label></li>
+                                    </ul>
+				</div>
+                 <!-- sub -->
+								<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Sub <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+				<ul class="dropdown-menu c1">
+					<li> <input type="radio" id="sub-all" name="sub" value="" checked=""> <label for="sub-all">All</label></li>
+					 
+                        <li><input type="radio" id="sub-sub" name="sub" value="sub"><label for="sub-sub"> Sub</label></li>
+                     
+                        <li><input type="radio" id="sub-dub" name="sub" value="dub"><label for="sub-dub"> Dub</label></li>
+                     
+                        <li><input type="radio" id="sub-raw" name="sub" value="raw"><label for="sub-raw"> RAW</label></li>
+                                    </ul>
+				</div>
+				                <!-- sort -->
+				<div class="filter dropdown">
+					<button type="button" class="dropdown-toggle" data-toggle="dropdown"> Order by <span id="filtercount">All</span> <i class="fa fa-angle-down" aria-hidden="true"></i></button>
+					<ul class="dropdown-menu c1">
+						<li> <input type="radio" id="sort_by-" name="order" value=""> <label for="sort_by-">Default</label></li>
+						<li> <input type="radio" id="sort_by-name_a-z" name="order" value="title"> <label for="sort_by-name_a-z">A-Z</label></li>
+						<li> <input type="radio" id="sort_by-name_z-a" name="order" value="titlereverse"> <label for="sort_by-name_z-a">Z-A</label></li>
+						<li> <input type="radio" id="sort_by-update" name="order" value="update"> <label for="sort_by-update">Latest Update</label></li>
+						<li> <input type="radio" id="sort_by-latest" name="order" value="latest"> <label for="sort_by-latest">Latest Added</label></li>
+						<li> <input type="radio" id="sort_by-popular" name="order" value="popular" checked=""> <label for="sort_by-popular">Popular</label></li>
+						<li> <input type="radio" id="sort_by-rating" name="order" value="rating"> <label for="sort_by-rating">Rating</label></li>
+					</ul>
+				</div>
+				</span>
+				<span class="sec2">
+				<div class="filter submit"> <button type="submit" class="btn btn-custom-search"><i class="fa fa-search" aria-hidden="true"></i> Search</button></div>
+				</span>
+			</form>
+		</div>
+			<div class="clear"></div>
+</div>
+                    <div class="other-opts">
+                <div class="modex">
+                    <a href="https://donghive.vip/anime/list-mode/">Text Mode</a>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <div class="listupd">
+            <article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/tales-of-herding-gods/" itemprop="url" title="Tales of Herding Gods" class="tip" rel="30">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/02/herding-god-2025-768x1024.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Tales of Herding Gods" width="768" height="1024"/>		</div>
+			<div class="tt">
+				Tales of Herding Gods				<h2 itemprop="headline">Tales of Herding Gods</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/tomb-of-fallen-gods-season-3/" itemprop="url" title="Tomb of Fallen Gods Season 3" class="tip" rel="1550">
+		<div class="limit">
+			<div class="status Completed">Completed</div>						<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Completed</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/08/Tomb-of-Fallen-Gods-Season-3.webp" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Tomb of Fallen Gods Season 3" width="225" height="338"/>		</div>
+			<div class="tt">
+				Tomb of Fallen Gods Season 3				<h2 itemprop="headline">Tomb of Fallen Gods Season 3</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/renegade-immortal/" itemprop="url" title="Renegade Immortal" class="tip" rel="26">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/02/renegade-ascendent-768x1044.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Renegade Immortal" width="768" height="1044"/>		</div>
+			<div class="tt">
+				Renegade Immortal				<h2 itemprop="headline">Renegade Immortal</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/swallowed-star/" itemprop="url" title="Swallowed Star" class="tip" rel="38">
+		<div class="limit">
+									<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/02/swallowed-star-s4-768x1365.webp" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Swallowed Star" width="768" height="1365"/>		</div>
+			<div class="tt">
+				Swallowed Star				<h2 itemprop="headline">Swallowed Star</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/battle-through-the-heavens-season-5/" itemprop="url" title="Battle Through The Heavens Season 5" class="tip" rel="11">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/02/BTTH-S5.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Battle Through The Heavens Season 5" width="404" height="548"/>		</div>
+			<div class="tt">
+				Battle Through The Heavens Season 5				<h2 itemprop="headline">Battle Through The Heavens Season 5</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/throne-of-seal/" itemprop="url" title="Throne of Seal" class="tip" rel="56">
+		<div class="limit">
+			<div class="status Completed">Completed</div>						<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Completed</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/02/ToS-HD-new.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Throne of Seal" width="404" height="548"/>		</div>
+			<div class="tt">
+				Throne of Seal				<h2 itemprop="headline">Throne of Seal</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/beyond-times-gaze/" itemprop="url" title="Beyond Time’s Gaze" class="tip" rel="4680">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/12/Beyond-Time-Gaze-S2-768x1024-1.webp" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Beyond Time’s Gaze" width="768" height="1024"/>		</div>
+			<div class="tt">
+				Beyond Time’s Gaze				<h2 itemprop="headline">Beyond Time’s Gaze</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/the-great-ruler/" itemprop="url" title="The Great Ruler" class="tip" rel="4899">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2026/01/TGR-Season-2.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="The Great Ruler" width="404" height="548"/>		</div>
+			<div class="tt">
+				The Great Ruler				<h2 itemprop="headline">The Great Ruler</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/way-of-choices/" itemprop="url" title="Way Of Choices" class="tip" rel="5269">
+		<div class="limit">
+			<div class="status Completed">Completed</div>						<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Completed</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2026/01/Way-Of-Choices.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Way Of Choices" width="540" height="772"/>		</div>
+			<div class="tt">
+				Way Of Choices				<h2 itemprop="headline">Way Of Choices</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/perfect-world/" itemprop="url" title="Perfect World" class="tip" rel="69">
+		<div class="limit">
+									<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/02/6102684551348947810-768x1044.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Perfect World" width="768" height="1044"/>		</div>
+			<div class="tt">
+				Perfect World				<h2 itemprop="headline">Perfect World</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/soul-land-2-the-unrivaled-tang-sect/" itemprop="url" title="Soul Land 2: The Unrivaled Tang Sect" class="tip" rel="18">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/02/SL2.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Soul Land 2: The Unrivaled Tang Sect" width="404" height="548"/>		</div>
+			<div class="tt">
+				Soul Land 2: The Unrivaled Tang Sect				<h2 itemprop="headline">Soul Land 2: The Unrivaled Tang Sect</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/sword-of-coming-season-2/" itemprop="url" title="Sword of Coming Season 2" class="tip" rel="4514">
+		<div class="limit">
+			<div class="status Completed">Completed</div>						<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Completed</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/12/Sword-of-Coming-Season-2-Subtitle-Indonesia.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Sword of Coming Season 2" width="720" height="1280"/>		</div>
+			<div class="tt">
+				Sword of Coming Season 2				<h2 itemprop="headline">Sword of Coming Season 2</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/the-gate-of-mystical-realm/" itemprop="url" title="The Gate of Mystical Realm" class="tip" rel="4078">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/11/The-Gate-of-Mystical-Realm.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="The Gate of Mystical Realm" width="720" height="1280"/>		</div>
+			<div class="tt">
+				The Gate of Mystical Realm				<h2 itemprop="headline">The Gate of Mystical Realm</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/one-slash-to-the-heavens/" itemprop="url" title="One Slash to the Heavens" class="tip" rel="8417">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2026/07/One-Slash-to-the-Heavens-768x1152.webp" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="One Slash to the Heavens" width="768" height="1152"/>		</div>
+			<div class="tt">
+				One Slash to the Heavens				<h2 itemprop="headline">One Slash to the Heavens</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/wu-dong-qian-kun-season-6/" itemprop="url" title="Wu Dong Qian Kun Season 6" class="tip" rel="3871">
+		<div class="limit">
+			<div class="status Completed">Completed</div>						<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Completed</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/11/Martial-Universe-Wu-Dong-Qian-Kun-Season-6.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Wu Dong Qian Kun Season 6" width="720" height="1280"/>		</div>
+			<div class="tt">
+				Wu Dong Qian Kun Season 6				<h2 itemprop="headline">Wu Dong Qian Kun Season 6</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/a-good-day-to-ascend/" itemprop="url" title="A Good Day to Ascend" class="tip" rel="8224">
+		<div class="limit">
+									<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2026/07/A-Good-Day-to-Ascend.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="A Good Day to Ascend" width="260" height="360"/>		</div>
+			<div class="tt">
+				A Good Day to Ascend				<h2 itemprop="headline">A Good Day to Ascend</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/slay-the-gods-season-2/" itemprop="url" title="Slay the Gods Season 2" class="tip" rel="7844">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2026/06/Slay-The-Gods-S2-Subtitle-Indonesia.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Slay the Gods Season 2" width="768" height="1077"/>		</div>
+			<div class="tt">
+				Slay the Gods Season 2				<h2 itemprop="headline">Slay the Gods Season 2</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/shrouding-the-heavens/" itemprop="url" title="Shrouding The Heavens" class="tip" rel="42">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2025/02/Shrouding-the-Heavens.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Shrouding The Heavens" width="350" height="490"/>		</div>
+			<div class="tt">
+				Shrouding The Heavens				<h2 itemprop="headline">Shrouding The Heavens</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/jade-dynasty/" itemprop="url" title="Jade Dynasty" class="tip" rel="633">
+		<div class="limit">
+									<div class="typez ONA">ONA</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Ongoing</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2026/08/Jade-Dynasty-Final-Season-768x1077-1.jpg" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Jade Dynasty" width="768" height="1077"/>		</div>
+			<div class="tt">
+				Jade Dynasty				<h2 itemprop="headline">Jade Dynasty</h2>
+			</div>
+		</a>
+	</div>
+</article><article class="bs" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+	<div class="bsx">
+		<a href="https://donghive.vip/renegade-immortal-movie-battle-of-immortal-slayer/" itemprop="url" title="Renegade Immortal Movie: Battle of Immortal Slayer" class="tip" rel="9318">
+		<div class="limit">
+						<div class="hotbadge"><i class="fas fa-fire-alt"></i></div>			<div class="typez Movie">Movie</div>
+			<div class="ply"><i class="far fa-play-circle"></i></div>
+			<div class="bt">
+				<span class="epx">Upcoming</span>
+				<span class="sb Sub">Sub</span>			</div>
+			<img src="https://donghive.vip/wp-content/uploads/2026/09/Renegade-Movie-2-768x1077-1.png" class="ts-post-image wp-post-image attachment-medium_large size-medium_large" loading="lazy" itemprop="image" title="Renegade Immortal Movie: Battle of Immortal Slayer" width="768" height="1077"/>		</div>
+			<div class="tt">
+				Renegade Immortal Movie: Battle of Immortal Slayer				<h2 itemprop="headline">Renegade Immortal Movie: Battle of Immortal Slayer</h2>
+			</div>
+		</a>
+	</div>
+</article></div>            <div class="hpage">
+                                                <a href="?page=2&order=popular" class="r">Next <i class="fas fa-angle-right" aria-hidden="true"></i></a>
+                            </div>
+
+                  </div>
+    </div>
+<div class="clear"></div>
+</div>
+<div id="sidebar">
+		<div class="section"><div class="releases"><h3>Donghua Baru</h3></div><div class='ongoingseries'><ul>
+<li>
+    <a href="https://donghive.vip/tales-of-demons-and-gods-season-10-episode-27-subtitle-indonesia/" title="Tales of Demons and Gods Season 10 Episode 27 Subtitle Indonesia">
+        <span class="l"><i class="fas fa-angle-right" aria-hidden="true"></i> Tales of Demons and Gods Season 10</span>
+        <span class="r">Episode 27</span>    </a>
+</li>
+<li>
+    <a href="https://donghive.vip/a-record-of-mortals-journey-to-immortality-episode-195-subtitle-indonesia/" title="A Record Of Mortal’s Journey To Immortality Episode 195 Subtitle Indonesia">
+        <span class="l"><i class="fas fa-angle-right" aria-hidden="true"></i> A Record Of Immortality</span>
+        <span class="r">Episode 195</span>    </a>
+</li>
+<li>
+    <a href="https://donghive.vip/the-eternal-supreme-li-yunxiao-episode-26-subtitle-indonesia/" title="The Eternal Supreme Li Yunxiao Episode 26 Subtitle Indonesia">
+        <span class="l"><i class="fas fa-angle-right" aria-hidden="true"></i> The Eternal Supreme Li Yunxiao</span>
+        <span class="r">Episode 26</span>    </a>
+</li>
+<li>
+    <a href="https://donghive.vip/beyond-times-gaze-episode-43-subtitle-indonesia/" title="Beyond Time’s Gaze Episode 43 Subtitle Indonesia">
+        <span class="l"><i class="fas fa-angle-right" aria-hidden="true"></i> Beyond Time’s Gaze</span>
+        <span class="r">Episode 43</span>    </a>
+</li>
+<li>
+    <a href="https://donghive.vip/100-000-years-of-refining-qi-episode-384-subtitle-indonesia/" title="100.000 Years of Refining Qi Episode 384 Subtitle Indonesia">
+        <span class="l"><i class="fas fa-angle-right" aria-hidden="true"></i> 100.000 Years of Refining Qi</span>
+        <span class="r">Episode 384</span>    </a>
+</li>
+</ul></div></div><div class="section"><div class="releases"><h3>Donghua Populer</h3></div>
+<div class="ts-wpop-series-gen">
+	<ul class="ts-wpop-nav-tabs">
+		<li class="active"><span class="ts-wpop-tab" data-range="weekly">Weekly</span></li>
+		<li><span class="ts-wpop-tab" data-range="monthly">Monthly</span></li>
+		<li><span class="ts-wpop-tab" data-range="alltime">All</span></li>
+	</ul>
+</div>
+
+	<div id="wpop-items">
+	<div class='serieslist pop wpop wpop-weekly'>
+		<ul>
+							<li>
+					<div class="ctr">1</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/renegade-immortal/" rel="26">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/renegade-ascendent-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Renegade Immortal" alt="Renegade Immortal" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/renegade-immortal/" rel="26">Renegade Immortal</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/drama/" rel="tag">Drama</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">2</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/tales-of-herding-gods/" rel="30">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/herding-god-2025-225x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Tales of Herding Gods" alt="Tales of Herding Gods" width="225" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/tales-of-herding-gods/" rel="30">Tales of Herding Gods</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">3</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/battle-through-the-heavens-season-5/" rel="11">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/BTTH-S5-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Battle Through The Heavens Season 5" alt="Battle Through The Heavens Season 5" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/battle-through-the-heavens-season-5/" rel="11">Battle Through The Heavens Season 5</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">4</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/beyond-times-gaze/" rel="4680">
+							<img src="https://donghive.vip/wp-content/uploads/2025/12/Beyond-Time-Gaze-S2-768x1024-1-225x300.webp" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Beyond Time’s Gaze" alt="Beyond Time’s Gaze" width="225" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/beyond-times-gaze/" rel="4680">Beyond Time’s Gaze</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">5</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/soul-land-2-the-unrivaled-tang-sect/" rel="18">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/SL2-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Soul Land 2: The Unrivaled Tang Sect" alt="Soul Land 2: The Unrivaled Tang Sect" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/soul-land-2-the-unrivaled-tang-sect/" rel="18">Soul Land 2: The Unrivaled Tang Sect</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://donghive.vip/genres/romance/" rel="tag">Romance</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">6</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/renegade-immortal-movie-battle-of-immortal-slayer/" rel="9318">
+							<img src="https://donghive.vip/wp-content/uploads/2026/09/Renegade-Movie-2-768x1077-1-214x300.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Renegade Immortal Movie: Battle of Immortal Slayer" alt="Renegade Immortal Movie: Battle of Immortal Slayer" width="214" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/renegade-immortal-movie-battle-of-immortal-slayer/" rel="9318">Renegade Immortal Movie: Battle of Immortal Slayer</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/cultivation/" rel="tag">Cultivation</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://donghive.vip/genres/martial-arts/" rel="tag">Martial Arts</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">7</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/one-slash-to-the-heavens/" rel="8417">
+							<img src="https://donghive.vip/wp-content/uploads/2026/07/One-Slash-to-the-Heavens-200x300.webp" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="One Slash to the Heavens" alt="One Slash to the Heavens" width="200" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/one-slash-to-the-heavens/" rel="8417">One Slash to the Heavens</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://donghive.vip/genres/historical/" rel="tag">Historical</a>, <a href="https://donghive.vip/genres/martial-arts/" rel="tag">Martial Arts</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">8</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/swallowed-star/" rel="38">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/swallowed-star-s4-169x300.webp" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Swallowed Star" alt="Swallowed Star" width="169" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/swallowed-star/" rel="38">Swallowed Star</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:80%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">9</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/perfect-world/" rel="69">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/6102684551348947810-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Perfect World" alt="Perfect World" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/perfect-world/" rel="69">Perfect World</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">10</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/jade-dynasty/" rel="633">
+							<img src="https://donghive.vip/wp-content/uploads/2026/08/Jade-Dynasty-Final-Season-768x1077-1-214x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Jade Dynasty" alt="Jade Dynasty" width="214" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/jade-dynasty/" rel="633">Jade Dynasty</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://donghive.vip/genres/martial-arts/" rel="tag">Martial Arts</a>, <a href="https://donghive.vip/genres/romance/" rel="tag">Romance</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:80%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8</div>
+							</div>
+						</div>
+											</div>
+				</li>
+					</ul>
+	</div>
+
+
+	<div class='serieslist pop wpop wpop-monthly'>
+		<ul>
+							<li>
+					<div class="ctr">1</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/renegade-immortal/" rel="26">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/renegade-ascendent-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Renegade Immortal" alt="Renegade Immortal" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/renegade-immortal/" rel="26">Renegade Immortal</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/drama/" rel="tag">Drama</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">2</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/battle-through-the-heavens-season-5/" rel="11">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/BTTH-S5-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Battle Through The Heavens Season 5" alt="Battle Through The Heavens Season 5" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/battle-through-the-heavens-season-5/" rel="11">Battle Through The Heavens Season 5</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">3</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/tales-of-herding-gods/" rel="30">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/herding-god-2025-225x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Tales of Herding Gods" alt="Tales of Herding Gods" width="225" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/tales-of-herding-gods/" rel="30">Tales of Herding Gods</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">4</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/beyond-times-gaze/" rel="4680">
+							<img src="https://donghive.vip/wp-content/uploads/2025/12/Beyond-Time-Gaze-S2-768x1024-1-225x300.webp" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Beyond Time’s Gaze" alt="Beyond Time’s Gaze" width="225" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/beyond-times-gaze/" rel="4680">Beyond Time’s Gaze</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">5</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/renegade-immortal-movie-battle-of-immortal-slayer/" rel="9318">
+							<img src="https://donghive.vip/wp-content/uploads/2026/09/Renegade-Movie-2-768x1077-1-214x300.png" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Renegade Immortal Movie: Battle of Immortal Slayer" alt="Renegade Immortal Movie: Battle of Immortal Slayer" width="214" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/renegade-immortal-movie-battle-of-immortal-slayer/" rel="9318">Renegade Immortal Movie: Battle of Immortal Slayer</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/cultivation/" rel="tag">Cultivation</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://donghive.vip/genres/martial-arts/" rel="tag">Martial Arts</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">6</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/soul-land-2-the-unrivaled-tang-sect/" rel="18">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/SL2-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Soul Land 2: The Unrivaled Tang Sect" alt="Soul Land 2: The Unrivaled Tang Sect" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/soul-land-2-the-unrivaled-tang-sect/" rel="18">Soul Land 2: The Unrivaled Tang Sect</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://donghive.vip/genres/romance/" rel="tag">Romance</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">7</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/perfect-world/" rel="69">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/6102684551348947810-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Perfect World" alt="Perfect World" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/perfect-world/" rel="69">Perfect World</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">8</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/one-slash-to-the-heavens/" rel="8417">
+							<img src="https://donghive.vip/wp-content/uploads/2026/07/One-Slash-to-the-Heavens-200x300.webp" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="One Slash to the Heavens" alt="One Slash to the Heavens" width="200" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/one-slash-to-the-heavens/" rel="8417">One Slash to the Heavens</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://donghive.vip/genres/historical/" rel="tag">Historical</a>, <a href="https://donghive.vip/genres/martial-arts/" rel="tag">Martial Arts</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">9</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/swallowed-star/" rel="38">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/swallowed-star-s4-169x300.webp" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Swallowed Star" alt="Swallowed Star" width="169" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/swallowed-star/" rel="38">Swallowed Star</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:80%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">10</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/jade-dynasty/" rel="633">
+							<img src="https://donghive.vip/wp-content/uploads/2026/08/Jade-Dynasty-Final-Season-768x1077-1-214x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Jade Dynasty" alt="Jade Dynasty" width="214" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/jade-dynasty/" rel="633">Jade Dynasty</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://donghive.vip/genres/martial-arts/" rel="tag">Martial Arts</a>, <a href="https://donghive.vip/genres/romance/" rel="tag">Romance</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:80%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8</div>
+							</div>
+						</div>
+											</div>
+				</li>
+					</ul>
+	</div>
+
+
+	<div class='serieslist pop wpop wpop-alltime'>
+		<ul>
+							<li>
+					<div class="ctr">1</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/tales-of-herding-gods/" rel="30">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/herding-god-2025-225x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Tales of Herding Gods" alt="Tales of Herding Gods" width="225" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/tales-of-herding-gods/" rel="30">Tales of Herding Gods</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">2</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/tomb-of-fallen-gods-season-3/" rel="1550">
+							<img src="https://donghive.vip/wp-content/uploads/2025/08/Tomb-of-Fallen-Gods-Season-3-200x300.webp" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Tomb of Fallen Gods Season 3" alt="Tomb of Fallen Gods Season 3" width="200" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/tomb-of-fallen-gods-season-3/" rel="1550">Tomb of Fallen Gods Season 3</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a>, <a href="https://donghive.vip/genres/historical/" rel="tag">Historical</a>, <a href="https://donghive.vip/genres/martial-arts/" rel="tag">Martial Arts</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">3</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/renegade-immortal/" rel="26">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/renegade-ascendent-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Renegade Immortal" alt="Renegade Immortal" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/renegade-immortal/" rel="26">Renegade Immortal</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/drama/" rel="tag">Drama</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">4</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/swallowed-star/" rel="38">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/swallowed-star-s4-169x300.webp" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Swallowed Star" alt="Swallowed Star" width="169" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/swallowed-star/" rel="38">Swallowed Star</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>												<div class="rt">
+							<div class="rating">
+								<div class="rating-prc">
+									<div class="rtp">
+										<div class="rtb"><span style="width:80%"></span></div>
+									</div>
+								</div>
+								<div class="numscore">8</div>
+							</div>
+						</div>
+											</div>
+				</li>
+							<li>
+					<div class="ctr">5</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/battle-through-the-heavens-season-5/" rel="11">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/BTTH-S5-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Battle Through The Heavens Season 5" alt="Battle Through The Heavens Season 5" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/battle-through-the-heavens-season-5/" rel="11">Battle Through The Heavens Season 5</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">6</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/throne-of-seal/" rel="56">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/ToS-HD-new-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Throne of Seal" alt="Throne of Seal" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/throne-of-seal/" rel="56">Throne of Seal</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">7</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/beyond-times-gaze/" rel="4680">
+							<img src="https://donghive.vip/wp-content/uploads/2025/12/Beyond-Time-Gaze-S2-768x1024-1-225x300.webp" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Beyond Time’s Gaze" alt="Beyond Time’s Gaze" width="225" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/beyond-times-gaze/" rel="4680">Beyond Time’s Gaze</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">8</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/the-great-ruler/" rel="4899">
+							<img src="https://donghive.vip/wp-content/uploads/2026/01/TGR-Season-2-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="The Great Ruler" alt="The Great Ruler" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/the-great-ruler/" rel="4899">The Great Ruler</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">9</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/way-of-choices/" rel="5269">
+							<img src="https://donghive.vip/wp-content/uploads/2026/01/Way-Of-Choices-210x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Way Of Choices" alt="Way Of Choices" width="210" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/way-of-choices/" rel="5269">Way Of Choices</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+							<li>
+					<div class="ctr">10</div>
+					<div class="imgseries">
+						<a class="series" href="https://donghive.vip/perfect-world/" rel="69">
+							<img src="https://donghive.vip/wp-content/uploads/2025/02/6102684551348947810-221x300.jpg" class="ts-post-image wp-post-image attachment-medium size-medium" loading="lazy" itemprop="image" title="Perfect World" alt="Perfect World" width="221" height="300"/>						</a>
+					</div>
+					<div class="leftseries">
+						<h4>
+							<a class="series" href="https://donghive.vip/perfect-world/" rel="69">Perfect World</a>
+						</h4>
+						<span><b>Genres</b>: <a href="https://donghive.vip/genres/action/" rel="tag">Action</a>, <a href="https://donghive.vip/genres/adventure/" rel="tag">Adventure</a>, <a href="https://donghive.vip/genres/fantasy/" rel="tag">Fantasy</a></span>											</div>
+				</li>
+					</ul>
+	</div>
+</div>
+</div><script>ts_popular_widget.run(1791610194)</script>
+<div class="section"><div class="releases"><h3>Genre</h3></div><ul class='genre'><li><a href="https://donghive.vip/genres/2d/" title="View all Series in 2D" >2D</a></li><li><a href="https://donghive.vip/genres/action/" title="View all Series in Action" >Action</a></li><li><a href="https://donghive.vip/genres/adventure/" title="View all Series in Adventure" >Adventure</a></li><li><a href="https://donghive.vip/genres/cheat-system/" title="View all Series in Cheat System" >Cheat System</a></li><li><a href="https://donghive.vip/genres/comedy/" title="View all Series in Comedy" >Comedy</a></li><li><a href="https://donghive.vip/genres/cultivation/" title="View all Series in Cultivation" >Cultivation</a></li><li><a href="https://donghive.vip/genres/demons/" title="View all Series in Demons" >Demons</a></li><li><a href="https://donghive.vip/genres/drama/" title="View all Series in Drama" >Drama</a></li><li><a href="https://donghive.vip/genres/fantasy/" title="View all Series in Fantasy" >Fantasy</a></li><li><a href="https://donghive.vip/genres/game/" title="View all Series in Game" >Game</a></li><li><a href="https://donghive.vip/genres/game-world/" title="View all Series in Game World" >Game World</a></li><li><a href="https://donghive.vip/genres/historical/" title="View all Series in Historical" >Historical</a></li><li><a href="https://donghive.vip/genres/horor/" title="View all Series in Horor" >Horor</a></li><li><a href="https://donghive.vip/genres/isekai/" title="View all Series in Isekai" >Isekai</a></li><li><a href="https://donghive.vip/genres/martial-arts/" title="View all Series in Martial Arts" >Martial Arts</a></li><li><a href="https://donghive.vip/genres/mystery/" title="View all Series in Mystery" >Mystery</a></li><li><a href="https://donghive.vip/genres/op-mc/" title="View all Series in OP-MC" >OP-MC</a></li><li><a href="https://donghive.vip/genres/psychological/" title="View all Series in Psychological" >Psychological</a></li><li><a href="https://donghive.vip/genres/reincarnation/" title="View all Series in Reincarnation" >Reincarnation</a></li><li><a href="https://donghive.vip/genres/romance/" title="View all Series in Romance" >Romance</a></li><li><a href="https://donghive.vip/genres/sci-fi/" title="View all Series in Sci-fi" >Sci-fi</a></li><li><a href="https://donghive.vip/genres/super-power/" title="View all Series in Super Power" >Super Power</a></li><li><a href="https://donghive.vip/genres/supranatural/" title="View all Series in Supranatural" >Supranatural</a></li><li><a href="https://donghive.vip/genres/urban-fantasy/" title="View all Series in Urban Fantasy" >Urban Fantasy</a></li><li><a href="https://donghive.vip/genres/war/" title="View all Series in War" >War</a></li><li><a href="https://donghive.vip/genres/wuxia/" title="View all Series in Wuxia" >Wuxia</a></li></ul></div><div class="widget_text section"><div class="textwidget custom-html-widget">   <!-- Histats.com  START  (aync)-->
+<script data-optimized="1" type="text/javascript">var _Hasync=_Hasync||[];_Hasync.push(['Histats.start','1,5009307,4,0,0,0,00010000']);_Hasync.push(['Histats.fasi','1']);_Hasync.push(['Histats.track_hits','']);(function(){var hs=document.createElement('script');hs.type='text/javascript';hs.async=!0;hs.src=('//s10.histats.com/js15_as.js');(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(hs)})()</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5009307&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  --></div></div>			
+</div><script>$(".section .quickfilter").parent().remove()</script>
+<div class="clear"></div>
+</div>
+</div>
+
+<div id="footer">
+	<footer id="colophon" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" role="contentinfo">
+	<div class="footercopyright">
+				<div class="copyright marx">
+			<div class="txt">
+				<span>Copyright © 2026 Donghive. All Rights Reserved</span>
+				<p>Disclaimer: This site <i>Donghive</i> does not store any files on its server. All contents are provided by non-affiliated third parties.</p>
+			</div>
+		</div>
+	</div>
+		</footer>
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/animestream/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<style data-noptimize="1">@media only screen and (max-width:570px){#i3alv5evegke,#p5rsmehszw88,#f5m8knlxizv,#n5p4cc5yct,#s4mapzen{display:none}}</style>
+	<script>var dmlogo1='https://donghive.vip/wp-content/uploads/2026/04/Donghub-Baru.png';var dmlogo2='https://donghive.vip/wp-content/uploads/2026/04/Donghub-Baru.png';jQuery("#thememode input[type='checkbox']").on('change',function(){var is_on=jQuery("#thememode input[type='checkbox']").prop("checked");if(is_on==!1){if(dmlogo2)jQuery(".logos img").attr('src',dmlogo2);localStorage.setItem("thememode","lightmode");jQuery("body").addClass("lightmode");jQuery("body").removeClass("darkmode")}else{if(dmlogo1)jQuery(".logos img").attr('src',dmlogo1);localStorage.setItem("thememode","darkmode");jQuery("body").removeClass("lightmode");jQuery("body").addClass("darkmode")}})</script>
+
+<script>jQuery.event.special.touchstart={setup:function(_,ns,handle){this.addEventListener("touchstart",handle,{passive:!ns.includes("noPreventDefault")})}};jQuery.event.special.touchmove={setup:function(_,ns,handle){this.addEventListener("touchmove",handle,{passive:!ns.includes("noPreventDefault")})}};jQuery.event.special.wheel={setup:function(_,ns,handle){this.addEventListener("wheel",handle,{passive:!0})}};jQuery.event.special.mousewheel={setup:function(_,ns,handle){this.addEventListener("mousewheel",handle,{passive:!0})}}</script>
+
+<!-- Tombol Login dengan Google ditambahkan oleh Site Kit -->
+		<style>.googlesitekit-sign-in-with-google__frontend-output-button{max-width:320px}.interim-login #login>.googlesitekit-sign-in-with-google__frontend-output-button{margin-bottom:16px}</style>
+		<script data-optimized="1" src="https://donghive.vip/wp-content/litespeed/js/fe5b252fb696195216b35683bdc8a64d.js?ver=8a64d"></script>
+<script data-optimized="1" data-siwg-config="{&quot;clientID&quot;:&quot;370728062032-kc4qvv3p8iuqu3i31o8a8es3eoavrjjf.apps.googleusercontent.com&quot;,&quot;defaultButtonOptions&quot;:{&quot;theme&quot;:&quot;outline&quot;,&quot;text&quot;:&quot;signin_with&quot;,&quot;shape&quot;:&quot;rectangular&quot;},&quot;loginURI&quot;:&quot;https:\/\/donghive.vip\/wp-login.php?action=googlesitekit_auth&quot;,&quot;isUserLoggedIn&quot;:false,&quot;isWPLogin&quot;:false,&quot;isPreview&quot;:false,&quot;isWooCommerce&quot;:false,&quot;isExistingUserFlow&quot;:false,&quot;connectNonce&quot;:&quot;&quot;,&quot;followsPostRedirect&quot;:false,&quot;redirectTo&quot;:&quot;&quot;,&quot;redirectCookieName&quot;:&quot;googlesitekit_auth_redirect_to&quot;,&quot;redirectCookiePath&quot;:&quot;\/&quot;,&quot;redirectCookieTTL&quot;:0,&quot;nonceCookieName&quot;:&quot;googlesitekit_auth_nonce&quot;,&quot;nonceCookiePath&quot;:&quot;\/&quot;,&quot;nonceCookieTTL&quot;:900,&quot;shouldShowOneTapPrompt&quot;:false}" src="https://donghive.vip/wp-content/litespeed/js/24b8139c145a127e81e5c850dcc8c20c.js?ver=8c20c"></script>
+
+<!-- Akhir Tombol Login dengan Google yang ditambahkan oleh Site Kit -->
+<script data-optimized="1" id="ts-filter-js" src="https://donghive.vip/wp-content/litespeed/js/dd54beaad04c118f3abc52b05cb5e4bb.js?ver=2f64d"></script>
+<script data-optimized="1" id="ts-events-js" src="https://donghive.vip/wp-content/litespeed/js/458a66faee4a68cfeb3243c75202b51a.js?ver=c5487"></script>
+<script data-optimized="1" id="googlesitekit-events-provider-content-events-js-before">window._googlesitekit=window._googlesitekit||{};window._googlesitekit.contentEvents={"postID":0,"isReadableSinglePost":!1,"hasVimeoEmbed":!1,"wordCount":0,"estimatedReadTimeSeconds":0,"isLastPageOfMultiPagePost":!1,"readTimeThresholdPercent":85,"minimumReadTimeSeconds":5}</script>
+<script data-optimized="1" id="googlesitekit-events-provider-content-events-js" src="https://donghive.vip/wp-content/litespeed/js/6c718ff70345b31a614eafdc78c63d68.js?ver=63d68" defer></script>
+<script data-optimized="1" id="ts-owl-carousel-js" src="https://donghive.vip/wp-content/litespeed/js/1f84eab8245cda1919584f8066875399.js?ver=07ab1"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://donghive.vip/wp-includes/js/wp-emoji-release.min.js?ver=7.1.3"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://donghive.vip/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4868ee38f258962',t:'MTc5MTY0NTA5Mg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+<!-- Page cached by LiteSpeed Cache 7.9.1 on 2026-10-10 05:29:54 -->

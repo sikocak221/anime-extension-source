@@ -1,0 +1,65 @@
+name: Publish repository
+
+# Builds every extension, signs index.json with the repository key (secret MA_REPO_KEY) and publishes the result with
+# the documentation site to GitHub Pages. Nothing unsigned or signed with another key is ever published: the build
+# is checked against the public key (variable MA_REPO_PUBLIC_KEY) before anything is uploaded.
+#   Settings → Pages → Source: GitHub Actions. Settings → Environments → github-pages: add a required reviewer,
+#   because whoever can change this workflow can read the key.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'docs/**'
+      - 'scripts/**'
+      - 'pnpm-lock.yaml'
+      - 'pnpm-workspace.yaml'
+      - '.github/workflows/publish.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deploy at a time, and never cancel one halfway: the index and its signature must go up together.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4 # version comes from "packageManager" in package.json
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm build
+      - run: pnpm test
+      - name: Build, sign and verify
+        # Fails without the secret: the script never writes an unsigned repository unless asked to.
+        run: pnpm repo:build
+        env:
+          MA_REPO_KEY: ${{ secrets.MA_REPO_KEY }}
+          # The repository's public key: a repository variable, or a secret of the same name.
+          MA_REPO_PUBLIC_KEY: ${{ vars.MA_REPO_PUBLIC_KEY || secrets.MA_REPO_PUBLIC_KEY }}
+      - name: Documentation site
+        run: node scripts/build-site.mjs
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
