@@ -6,7 +6,7 @@ Every index of this repository is signed. The app compares the key the repositor
 
 ## An extension stopped working
 
-Sites change, stall and sometimes block requests. Every day the **Smoke test** workflow reads each real site and opens an issue when an extension fails, so it may already be known: look at the [issues](https://github.com/sikocak221/anime-extension-source/issues). If it is not there yet, open one with the extension name and what you saw.
+What an extension reads can change, stall or block requests at any time, so an extension may stop working for a while. Look at the [issues](https://github.com/sikocak221/anime-extension-source/issues); if it is not there yet, open one with the extension name and what you saw.
 
 ## Why does the app show "Unverified repository"?
 
@@ -22,4 +22,8 @@ Users who trusted the old key will refuse an index signed with a new one, by des
 
 ## Disclaimer
 
-This repository does not host, store or distribute any anime or other content, and its developers have no affiliation with the sites its extensions read. The extensions only read pages and streams that the sites make public. Please respect the creators and the laws of your country.
+This repository contains source code only. It does not host, store, index or distribute any anime, video, subtitle, image or other content, and its developers have no affiliation with, and do not endorse, any third-party site. The code is provided as is, for interoperability, and does what you ask the app to do. You are responsible for what you access and for following the laws of your country. Please respect the creators.
+
+## Copyright and takedown requests
+
+If you own rights in something that this repository makes available, see [Copyright and takedown](/takedown).

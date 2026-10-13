@@ -33,7 +33,7 @@ Tests read **saved pages** of the real site: save the markup untouched under `te
 - [ ] `nsfw` is `true` for adult sites.
 - [ ] `rateLimit` follows the site's rules.
 - [ ] `url` values are stable. If their form changes, `migrateUrl` handles every older version.
-- [ ] `icon.png`: square, 96–256 px, at most 512 KB.
+- [ ] `icon.png`: square, 96–256 px, at most 512 KB, and **not the site's logo**: make a neutral one with `node scripts/make-icons.mjs <id>`.
 - [ ] `pnpm format:check && pnpm typecheck && pnpm build && pnpm test` pass, and `node scripts/readme-table.mjs` was run.
 - [ ] Offline tests with saved pages, and `ma-ext test` passes against the real site.
 - [ ] No paywall bypass, no account sharing, and nothing the site's terms forbid.

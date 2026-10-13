@@ -24,9 +24,9 @@ features:
   - title: Sandboxed
     details: Extensions run in the app's sandbox and reach the network only through it.
   - title: Open source
-    details: Written in TypeScript with the published SDK, tested against saved pages of the sites, and checked against the real ones every day.
+    details: Written in TypeScript with the published SDK and tested offline. Read the code before you trust it.
 ---
 
 ::: info Disclaimer
-This repository is independent of Matane Anime. It does not host, store or distribute any content, and its developers have no affiliation with the sites its extensions read. See the [FAQ and disclaimer](/faq).
+This repository contains source code only. It does not host, store, index or distribute any video, subtitle, image or other content, it is independent of Matane Anime, and it has no affiliation with, or endorsement of, any third-party site. See the [FAQ and disclaimer](/faq) and the [copyright and takedown process](/takedown).
 :::

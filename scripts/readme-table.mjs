@@ -1,13 +1,11 @@
 // Rewrites the extensions table of README.md from the manifests:  node scripts/readme-table.mjs
 // (between the two markers; `--check` fails when the table is out of date, as CI does).
-import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
+import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 
 const ROOT = resolve(import.meta.dirname, '..');
 const START = '<!-- extensions:start -->';
 const END = '<!-- extensions:end -->';
-// A site that is not the first address in its source.
-const SITE_OVERRIDES = { animex: 'https://animex.one', oploverz: 'https://oploverz.site' };
 
 const rows = [];
 for (const lang of readdirSync(join(ROOT, 'src')).sort()) {
@@ -15,18 +13,13 @@ for (const lang of readdirSync(join(ROOT, 'src')).sort()) {
     const dir = join(ROOT, 'src', lang, id);
     const manifest = JSON.parse(readFileSync(join(dir, 'manifest.json'), 'utf8'));
     const langs = [...new Set(manifest.sources.map((s) => s.lang.toUpperCase()))].join(', ');
-    const file = ['site.ts', 'api.ts', 'index.ts']
-      .map((f) => join(dir, 'src', f))
-      .find((f) => existsSync(f) && /https:\/\/[a-z0-9.-]+/.test(readFileSync(f, 'utf8')));
-    const site =
-      SITE_OVERRIDES[id] ?? (file ? (readFileSync(file, 'utf8').match(/https:\/\/[a-z0-9.-]+/)?.[0] ?? '') : '');
-    rows.push([manifest.name, langs, site, manifest.nsfw ? 'yes' : '']);
+    rows.push([manifest.name, langs, manifest.nsfw ? 'yes' : '']);
   }
 }
 rows.sort((a, b) => a[0].localeCompare(b[0]));
 const table = [
-  '| Extension | Languages | Site | 18+ |',
-  '| --- | --- | --- | --- |',
+  '| Extension | Languages | 18+ |',
+  '| --- | --- | --- |',
   ...rows.map((r) => `| ${r.join(' | ')} |`),
 ].join('\n');
 

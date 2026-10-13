@@ -13,7 +13,6 @@ const ROOT = resolve(import.meta.dirname, '..');
 const PUBLIC = join(ROOT, 'public');
 const DOCS = join(ROOT, 'docs');
 const URL_ = process.env['MA_REPO_BASE_URL'] ?? 'https://sikocak221.github.io/anime-extension-source/';
-const SITES = { animex: 'https://animex.one', oploverz: 'https://oploverz.site' };
 
 if (!existsSync(join(PUBLIC, 'index.json')))
   throw new Error('public/index.json is missing: run `pnpm repo:build` first.');
@@ -23,18 +22,6 @@ const signature = existsSync(join(PUBLIC, 'index.json.sig'))
   : null;
 const key = signature?.key ?? null;
 const fingerprint = key ? `${key.slice(0, 12)}…${key.slice(-4)}` : null;
-
-const site = (id) => {
-  if (SITES[id]) return SITES[id];
-  for (const lang of ['en', 'id', 'all']) {
-    for (const file of ['site.ts', 'api.ts', 'index.ts']) {
-      const path = join(ROOT, 'src', lang, id, 'src', file);
-      const found = existsSync(path) ? readFileSync(path, 'utf8').match(/https:\/\/[a-z0-9.-]+/)?.[0] : undefined;
-      if (found) return found;
-    }
-  }
-  return '';
-};
 
 writeFileSync(
   join(DOCS, 'repository.md'),
@@ -63,18 +50,17 @@ If the fingerprint is different, do not trust it: the address may not be this re
 `,
 );
 
-const rows = index.extensions.map((e) => {
-  const url = site(e.id);
-  return `| ${e.name} | ${e.version} | ${e.langs.map((l) => l.toUpperCase()).join(', ')} | ${url ? `[${new URL(url).host}](${url})` : ''} | ${e.nsfw ? '18+' : ''} |`;
-});
+const rows = index.extensions.map(
+  (e) => `| ${e.name} | ${e.version} | ${e.langs.map((l) => l.toUpperCase()).join(', ')} | ${e.nsfw ? '18+' : ''} |`,
+);
 writeFileSync(
   join(DOCS, 'extensions.md'),
   `# Extensions
 
-${index.extensions.length} extensions in this repository. A site that is down or has changed may break its extension for a while: see the [FAQ](/faq).
+${index.extensions.length} extensions in this repository. They contain source code only. An extension may stop working for a while when what it reads changes: see the [FAQ](/faq).
 
-| Extension | Version | Languages | Site | 18+ |
-| --- | --- | --- | --- | --- |
+| Extension | Version | Languages | 18+ |
+| --- | --- | --- | --- |
 ${rows.join('\n')}
 `,
 );

@@ -14,6 +14,8 @@ export default defineConfig({
   base,
   head: [['link', { rel: 'icon', type: 'image/png', href: `${base}favicon.png` }]],
   cleanUrls: true,
+  // The contributor guide stays in the repository; the public site is for people who only add the repository.
+  srcExclude: ['new-extension.md'],
   lastUpdated: false,
   themeConfig: {
     logo: '/logo.png',
@@ -21,7 +23,6 @@ export default defineConfig({
       { text: 'Add the repository', link: '/repository' },
       { text: 'Extensions', link: '/extensions' },
       { text: 'FAQ', link: '/faq' },
-      { text: 'Write an extension', link: '/new-extension' },
     ],
     sidebar: [
       {
@@ -30,11 +31,8 @@ export default defineConfig({
           { text: 'Add the repository', link: '/repository' },
           { text: 'Extensions', link: '/extensions' },
           { text: 'FAQ and disclaimer', link: '/faq' },
+          { text: 'Copyright and takedown', link: '/takedown' },
         ],
-      },
-      {
-        text: 'Contribute',
-        items: [{ text: 'Write an extension', link: '/new-extension' }],
       },
     ],
     socialLinks: [{ icon: 'github', link: repo }],
@@ -42,7 +40,7 @@ export default defineConfig({
     search: { provider: 'local' },
     footer: {
       message:
-        'This repository does not host, store or distribute any content, and is independent of Matane Anime. Released under the MIT license.',
+        'Source code only: this repository does not host, store or distribute any content, and is independent of Matane Anime and of every third-party site. Released under the MIT license. <a href="takedown">Copyright and takedown requests</a>.',
     },
   },
 });

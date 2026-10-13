@@ -14,9 +14,10 @@ SHA-256 in that signed index before the app installs it. Nothing is added to the
 yourself, then choose to trust its key.
 
 > [!IMPORTANT]
-> This repository is independent of the app. The app ships no sources and does not suggest any. The developers do not
-> host, store or distribute any content, and have no affiliation with the sites these extensions read. Please respect
-> the creators and the laws of your country.
+> This repository is independent of the app. The app ships no sources and does not suggest any. This repository
+> contains source code only: the developers do not host, store, index or distribute any content, and have no
+> affiliation with, or endorsement of, any third-party site. You are responsible for what you access; please respect
+> the creators and the laws of your country. Rights holders: see [TAKEDOWN.md](TAKEDOWN.md).
 
 ## Use it in Matane Anime
 
@@ -35,39 +36,37 @@ Fingerprint:  ed25519:7799…d2dc
 
 <!-- extensions:start -->
 
-| Extension       | Languages | Site                          | 18+ |
-| --------------- | --------- | ----------------------------- | --- |
-| Alqanime        | ID        | https://alqanime.si           |     |
-| Animasu         | ID        | https://animasu.love          |     |
-| AnimeGG         | EN        | https://www.animegg.org       |     |
-| AnimeHeaven     | EN        | https://animeheaven.me        |     |
-| Animeindo       | ID        | https://anime-indo.lol        |     |
-| AnimeKhor       | MULTI     | https://animekhor.org         |     |
-| AnimeNoSub      | EN        | https://animenosub.to         | yes |
-| AnimeParadise   | EN        | https://www.animeparadise.moe |     |
-| AnimeX          | EN        | https://animex.one            |     |
-| AnimeXin        | MULTI     | https://animexin.dev          |     |
-| AniSail         | ID        | https://anisail.com           |     |
-| AniZone         | EN        | https://anizone.to            |     |
-| Anoboy          | ID        | https://anoboy.be             |     |
-| Donghive        | ID        | https://donghive.vip          |     |
-| DonghuaStream   | MULTI     | https://donghuastream.org     |     |
-| Gogoanime       | EN        | https://gogoanime.by          |     |
-| Gomunime        | ID        | https://gomunime.top          |     |
-| KickAssAnime    | EN        | https://kaa.lt                |     |
-| Kuramanime      | ID        | https://v20.kuramanime.ing    |     |
-| Kuronime        | ID        | https://kuronime.sbs          |     |
-| LMAnime         | EN        | https://lmanime.com           |     |
-| Lucifer Donghua | EN        | https://luciferdonghua.in     |     |
-| Nimegami        | ID        | https://nimegami.id           |     |
-| Oploverz        | ID        | https://oploverz.site         |     |
-| Otakudesu       | ID        | https://otakudesu.blog        |     |
-| Samehadaku      | ID        | https://samehadaku.li         |     |
-| Sokuja          | ID        | https://x6.sokuja.uk          |     |
+| Extension       | Languages | 18+ |
+| --------------- | --------- | --- |
+| Alqanime        | ID        |     |
+| Animasu         | ID        |     |
+| AnimeGG         | EN        |     |
+| AnimeHeaven     | EN        |     |
+| Animeindo       | ID        |     |
+| AnimeKhor       | MULTI     |     |
+| AnimeNoSub      | EN        | yes |
+| AnimeParadise   | EN        |     |
+| AnimeX          | EN        |     |
+| AnimeXin        | MULTI     |     |
+| AniSail         | ID        |     |
+| AniZone         | EN        |     |
+| Anoboy          | ID        |     |
+| Donghive        | ID        |     |
+| DonghuaStream   | MULTI     |     |
+| Gogoanime       | EN        |     |
+| Gomunime        | ID        |     |
+| KickAssAnime    | EN        |     |
+| Kuramanime      | ID        |     |
+| Kuronime        | ID        |     |
+| LMAnime         | EN        |     |
+| Lucifer Donghua | EN        |     |
+| Nimegami        | ID        |     |
+| Oploverz        | ID        |     |
+| Otakudesu       | ID        |     |
+| Samehadaku      | ID        |     |
+| Sokuja          | ID        |     |
 
 <!-- extensions:end -->
-
-`otakudesu` has no saved pages to test against yet, so only the daily smoke test vouches for it.
 
 ## Develop
 
@@ -91,9 +90,9 @@ The SDK version of every extension is set once, in the `catalog:` of `pnpm-works
 
 ### Live tests
 
-`pnpm test:live` (or `scripts/live.sh`) talks to the real sites. A timeout, a 403 or a rate limit there is not
-necessarily a bug in the extension: the sites change and stall. The **Smoke test** workflow runs it every day and opens
-an issue for each extension that fails.
+`pnpm test:live` (or `scripts/live.sh`) reads what each extension is written for, over the network. A timeout, a 403 or a rate limit there is not
+necessarily a bug in the extension. The **Smoke test** workflow runs it every day and opens an issue for each
+extension that fails.
 
 ## Publish
 
