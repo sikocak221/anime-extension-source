@@ -1,6 +1,6 @@
 {
   "name": "@matane-anime/animegg-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "description": "Extension for www.animegg.org.",
   "license": "MIT",

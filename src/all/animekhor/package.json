@@ -1,6 +1,6 @@
 {
   "name": "@matane-anime/animekhor-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "description": "Extension for animekhor.org (donghua with English and Indonesian subtitles).",
   "license": "MIT",

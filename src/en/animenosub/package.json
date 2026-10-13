@@ -1,6 +1,6 @@
 {
   "name": "@matane-anime/animenosub-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "description": "Extension for animenosub.to (English-subbed anime).",
   "license": "MIT",

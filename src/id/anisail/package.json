@@ -1,6 +1,6 @@
 {
   "name": "@matane-anime/anisail-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "description": "Extension for anisail.com (AnimeSail, Indonesian subtitles): latest, search, genres, details, episodes and direct multi-quality mp4 from pixeldrain, mp4upload, mixdrop and dropbox.",
   "license": "MIT",

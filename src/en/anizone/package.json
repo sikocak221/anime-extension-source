@@ -1,6 +1,6 @@
 {
   "name": "@matane-anime/anizone-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "description": "Extension for anizone.to (English): latest, search and browsing (Livewire), details, episodes with air dates and the HLS streams (multi-audio masters).",
   "license": "MIT",

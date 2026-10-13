@@ -1,6 +1,6 @@
 {
   "name": "@matane-anime/animexin-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "description": "Extension for animexin.dev (donghua with Indonesian and English subtitles).",
   "license": "MIT",

@@ -1,6 +1,6 @@
 {
   "name": "@matane-anime/animeindo-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "description": "Extension for anime-indo.lol (Indonesian subtitles): listings, search, details, episodes and the xtwap, mp4upload and yourupload players.",
   "license": "MIT",

@@ -1,6 +1,6 @@
 {
   "name": "@matane-anime/oploverz-extension",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": true,
   "description": "Extension for oploverz.site (Indonesian subtitles): listings, search, details, episodes and streams, read from its JSON API.",
   "license": "MIT",

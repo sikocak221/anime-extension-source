@@ -1,6 +1,6 @@
 {
   "name": "@matane-anime/animex-extension",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "description": "Extension for animex.one (English): catalogue with filters, search, details, episodes with air dates (sub and dub) and HLS streams from the yuki, sora and nero servers.",
   "license": "MIT",
