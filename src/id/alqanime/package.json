@@ -1,6 +1,6 @@
 {
   "name": "alqanime-extension",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
   "description": "Extension for alqanime.si (Indonesian subtitles): listings, search, details, episodes and the Blogger, xtwap and vkspeed players.",
   "license": "MIT",

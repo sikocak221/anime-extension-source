@@ -1,6 +1,6 @@
 {
   "name": "animeheaven-extension",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
   "description": "Extension for animeheaven.me (English sub, direct mp4): new episodes, popular, search, tags, details, episodes and streams.",
   "license": "MIT",

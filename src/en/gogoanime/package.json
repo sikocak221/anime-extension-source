@@ -1,6 +1,6 @@
 {
   "name": "gogoanime-extension",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
   "description": "Extension for gogoanime.by (English sub and dub): latest, search, series list, details, episodes and the megaplay, Blogger and megavid players.",
   "license": "MIT",

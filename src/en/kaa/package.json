@@ -1,6 +1,6 @@
 {
   "name": "kaa-extension",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
   "description": "Extension for kaa.lt (KickAssAnime, English): listings, search, details, episodes (sub and dub) and the HLS players.",
   "license": "MIT",

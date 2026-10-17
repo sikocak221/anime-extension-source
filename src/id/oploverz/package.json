@@ -1,6 +1,6 @@
 {
   "name": "oploverz-extension",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "private": true,
   "description": "Extension for oploverz.site (Indonesian subtitles): listings, search, details, episodes and streams, read from its JSON API.",
   "license": "MIT",

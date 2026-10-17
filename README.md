@@ -29,35 +29,35 @@ Fingerprint:  ed25519:7799…d2dc
 
 <!-- extensions:start -->
 
-| Extension       | Languages | 18+ |
-| --------------- | --------- | --- |
-| Alqanime        | ID        |     |
-| Animasu         | ID        |     |
-| AnimeGG         | EN        |     |
-| AnimeHeaven     | EN        |     |
-| Animeindo       | ID        |     |
-| AnimeKhor       | MULTI     |     |
-| AnimeNoSub      | EN        | yes |
-| AnimeParadise   | EN        |     |
-| AnimeX          | EN        |     |
-| AnimeXin        | MULTI     |     |
-| AniSail         | ID        |     |
-| AniZone         | EN        |     |
-| Anoboy          | ID        |     |
-| Donghive        | ID        |     |
-| DonghuaStream   | MULTI     |     |
-| Gogoanime       | EN        |     |
-| Gomunime        | ID        |     |
-| KickAssAnime    | EN        |     |
-| Kuramanime      | ID        |     |
-| Kuronime        | ID        |     |
-| LMAnime         | EN        |     |
-| Lucifer Donghua | EN        |     |
-| Nimegami        | ID        |     |
-| Oploverz        | ID        |     |
-| Otakudesu       | ID        |     |
-| Samehadaku      | ID        |     |
-| Sokuja          | ID        |     |
+| Extension | Languages | 18+ |
+| --- | --- | --- |
+| Alqanime | ID |  |
+| Animasu | ID |  |
+| AnimeGG | EN |  |
+| AnimeHeaven | EN |  |
+| Animeindo | ID |  |
+| AnimeKhor | MULTI |  |
+| AnimeNoSub | EN | yes |
+| AnimeParadise | EN |  |
+| AnimeX | EN |  |
+| AnimeXin | MULTI |  |
+| AniSail | ID |  |
+| AniZone | EN |  |
+| Anoboy | ID |  |
+| Donghive | ID |  |
+| DonghuaStream | MULTI |  |
+| Gogoanime | EN |  |
+| Gomunime | ID |  |
+| KickAssAnime | EN |  |
+| Kuramanime | ID |  |
+| Kuronime | ID |  |
+| LMAnime | EN |  |
+| Lucifer Donghua | EN |  |
+| Nimegami | ID |  |
+| Oploverz | ID |  |
+| Otakudesu | ID |  |
+| Samehadaku | ID |  |
+| Sokuja | ID |  |
 
 <!-- extensions:end -->
 

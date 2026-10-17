@@ -1,7 +1,7 @@
 {
   "id": "anoboy",
   "name": "Anoboy",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "apiVersion": 1,
   "type": "anime",
   "nsfw": false,

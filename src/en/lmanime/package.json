@@ -1,6 +1,6 @@
 {
   "name": "lmanime-extension",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
   "description": "Extension for lmanime.com (donghua with English subtitles).",
   "license": "MIT",

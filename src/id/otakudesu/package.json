@@ -1,6 +1,6 @@
 {
   "name": "otakudesu-extension",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": true,
   "description": "Extension for otakudesu.blog (Indonesian subtitles): listings, search, details, episodes and the AJAX player mirrors.",
   "license": "MIT",

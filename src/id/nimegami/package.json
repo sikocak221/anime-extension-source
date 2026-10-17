@@ -1,6 +1,6 @@
 {
   "name": "nimegami-extension",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
   "description": "Extension for nimegami.id (Indonesian subtitles): catalogue, search, details, episodes and direct multi-quality streams from BerkasDrive, Pixeldrain, VidHide and desustream.",
   "license": "MIT",

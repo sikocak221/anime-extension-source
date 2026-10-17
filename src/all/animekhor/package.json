@@ -1,6 +1,6 @@
 {
   "name": "animekhor-extension",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
   "description": "Extension for animekhor.org (donghua with English and Indonesian subtitles).",
   "license": "MIT",

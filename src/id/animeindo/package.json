@@ -1,6 +1,6 @@
 {
   "name": "animeindo-extension",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": true,
   "description": "Extension for anime-indo.lol (Indonesian subtitles): listings, search, details, episodes and the xtwap, mp4upload and yourupload players.",
   "license": "MIT",
